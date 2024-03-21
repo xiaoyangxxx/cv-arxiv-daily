@@ -23,8 +23,14 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "AD": 
-            filters: ["AD, "autonomous driving"]
-    "FUSION"
-        filters: ["FUSION, "sensor fusion"]
-    "E2E"
+        filters: ["AD", "autonomous driving"]
+    "FUSION":
+        filters: ["FUSION", "sensor fusion"]
+    "E2E":
         filters: ["e2e", " end-to-end"]
+    "VLM":
+        filters: ["VLM", "vison language models"]
+    "LLM": 
+        filters: ["LLM", "Large Language Models "]
+
+
