@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2657,7 +2657,7 @@ layout: default
 |**2024-03-26**|**LiDAR-Based Crop Row Detection Algorithm for Over-Canopy Autonomous Navigation in Agriculture Fields**|Ruiji Liu et.al.|[2403.17774](http://arxiv.org/abs/2403.17774)|null|
 |**2024-03-26**|**UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps**|Maciej K Wozniak et.al.|[2403.17633](http://arxiv.org/abs/2403.17633)|null|
 |**2024-03-26**|**AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving**|Mingfu Liang et.al.|[2403.17373](http://arxiv.org/abs/2403.17373)|null|
-|**2024-03-26**|**Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving**|Junhao Zheng et.al.|[2403.17301](http://arxiv.org/abs/2403.17301)|**[link](https://github.com/gandolfczjh/3d2fool)**|
+|**2024-03-27**|**Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving**|Junhao Zheng et.al.|[2403.17301](http://arxiv.org/abs/2403.17301)|**[link](https://github.com/gandolfczjh/3d2fool)**|
 |**2024-03-25**|**SynFog: A Photo-realistic Synthetic Fog Dataset based on End-to-end Imaging Simulation for Advancing Real-World Defogging in Autonomous Driving**|Yiming Xie et.al.|[2403.17094](http://arxiv.org/abs/2403.17094)|null|
 |**2024-03-25**|**TwinLiteNetPlus: A Stronger Model for Real-time Drivable Area and Lane Segmentation**|Quang-Huy Che et.al.|[2403.16958](http://arxiv.org/abs/2403.16958)|null|
 |**2024-03-25**|**Exploring Communication Technologies, Standards, and Challenges in Electrified Vehicle Charging**|Xiang Ma et.al.|[2403.16830](http://arxiv.org/abs/2403.16830)|null|
