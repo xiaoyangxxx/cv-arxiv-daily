@@ -2677,7 +2677,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-28**|**Human-compatible driving partners through data-regularized self-play reinforcement learning**|Daphne Cornelisse et.al.|[2403.19648](http://arxiv.org/abs/2403.19648)|**[link](https://github.com/emerge-lab/nocturne_lab)**|
-|**2024-03-28**|**Learning Sampling Distribution and Safety Filter for Autonomous Driving with VQ-VAE and Differentiable Optimization**|Simon Idoko et.al.|[2403.19461](http://arxiv.org/abs/2403.19461)|null|
+|**2024-03-28**|**Learning Sampling Distribution and Safety Filter for Autonomous Driving with VQ-VAE and Differentiable Optimization**|Simon Idoko et.al.|[2403.19461](http://arxiv.org/abs/2403.19461)|**[link](https://github.com/cisimon7/vqoptmain)**|
 |**2024-03-28**|**SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control**|Binyuan Huang et.al.|[2403.19438](http://arxiv.org/abs/2403.19438)|null|
 |**2024-03-28**|**Learning a Formally Verified Control Barrier Function in Stochastic Environment**|Manan Tayal et.al.|[2403.19332](http://arxiv.org/abs/2403.19332)|null|
 |**2024-03-28**|**CRKD: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation**|Lingjun Zhao et.al.|[2403.19104](http://arxiv.org/abs/2403.19104)|null|
