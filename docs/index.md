@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.07
+## Updated on 2024.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2654,7 +2654,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-04**|**Is CLIP the main roadblock for fine-grained open-world perception?**|Lorenzo Bianchi et.al.|[2404.03539](http://arxiv.org/abs/2404.03539)|**[link](https://github.com/lorebianchi98/fg-clip)**|
 |**2024-04-04**|**Materials for High Temperature Digital Electronics**|Dhiren K. Pradhan et.al.|[2404.03510](http://arxiv.org/abs/2404.03510)|null|
-|**2024-04-04**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493](http://arxiv.org/abs/2404.03493)|null|
+|**2024-04-05**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493](http://arxiv.org/abs/2404.03493)|null|
 |**2024-04-04**|**CORP: A Multi-Modal Dataset for Campus-Oriented Roadside Perception Tasks**|Beibei Wang et.al.|[2404.03191](http://arxiv.org/abs/2404.03191)|null|
 |**2024-04-03**|**Ego-Motion Aware Target Prediction Module for Robust Multi-Object Tracking**|Navid Mahdian et.al.|[2404.03110](http://arxiv.org/abs/2404.03110)|**[link](https://github.com/noyzzz/emap)**|
 |**2024-04-03**|**LidarDM: Generative LiDAR Simulation in a Generated World**|Vlas Zyrianov et.al.|[2404.02903](http://arxiv.org/abs/2404.02903)|null|
