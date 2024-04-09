@@ -2676,6 +2676,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**Residual Chain Prediction for Autonomous Driving Path Planning**|Liguo Zhou et.al.|[2404.05423](http://arxiv.org/abs/2404.05423)|null|
+|**2024-04-08**|**Human Detection from 4D Radar Data in Low-Visibility Field Conditions**|Mikael Skog et.al.|[2404.05307](http://arxiv.org/abs/2404.05307)|null|
+|**2024-04-08**|**Detecting Every Object from Events**|Haitian Zhang et.al.|[2404.05285](http://arxiv.org/abs/2404.05285)|**[link](https://github.com/hatins/deoe)**|
+|**2024-04-08**|**MOSE: Boosting Vision-based Roadside 3D Object Detection with Scene Cues**|Xiahan Chen et.al.|[2404.05280](http://arxiv.org/abs/2404.05280)|null|
+|**2024-04-08**|**UniMix: Towards Domain Adaptive and Generalizable LiDAR Semantic Segmentation in Adverse Weather**|Haimei Zhao et.al.|[2404.05145](http://arxiv.org/abs/2404.05145)|null|
+|**2024-04-08**|**Better Monocular 3D Detectors with LiDAR from the Past**|Yurong You et.al.|[2404.05139](http://arxiv.org/abs/2404.05139)|**[link](https://github.com/yurongyou/asyncdepth)**|
+|**2024-04-07**|**MonoTAKD: Teaching Assistant Knowledge Distillation for Monocular 3D Object Detection**|Hou-I Liu et.al.|[2404.04910](http://arxiv.org/abs/2404.04910)|null|
+|**2024-04-07**|**Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs**|Yiqun Duan et.al.|[2404.04869](http://arxiv.org/abs/2404.04869)|null|
+|**2024-04-07**|**Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving**|Jinlong Li et.al.|[2404.04804](http://arxiv.org/abs/2404.04804)|null|
+|**2024-04-06**|**HawkDrive: A Transformer-driven Visual Perception System for Autonomous Driving in Night Scene**|Ziang Guo et.al.|[2404.04653](http://arxiv.org/abs/2404.04653)|**[link](https://github.com/ziongo6/hawkdrive)**|
 |**2024-04-05**|**Exploring Probabilistic Models for Semi-supervised Learning**|Jianfeng Wang et.al.|[2404.04199](http://arxiv.org/abs/2404.04199)|null|
 |**2024-04-05**|**You Can Use But Cannot Recognize: Preserving Visual Privacy in Deep Neural Networks**|Qiushi Li et.al.|[2404.04098](http://arxiv.org/abs/2404.04098)|null|
 |**2024-04-05**|**Scaling Motion Forecasting Models with Ensemble Distillation**|Scott Ettinger et.al.|[2404.03843](http://arxiv.org/abs/2404.03843)|null|
@@ -2763,6 +2773,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-06**|**DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation**|Duy-Tho Le et.al.|[2404.04629](http://arxiv.org/abs/2404.04629)|null|
+|**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492](http://arxiv.org/abs/2404.04492)|null|
+|**2024-04-05**|**A Ground Mobile Robot for Autonomous Terrestrial Laser Scanning-Based Field Phenotyping**|Javier Rodriguez-Sanchez et.al.|[2404.04404](http://arxiv.org/abs/2404.04404)|null|
 |**2024-04-02**|**Tell and show: Combining multiple modalities to communicate manipulation tasks to a robot**|Petr Vanc et.al.|[2404.01702](http://arxiv.org/abs/2404.01702)|null|
 |**2024-03-30**|**Self-Corrective Sensor Fusion for Drone Positioning in Indoor Facilities**|Francisco Javier González-Castaño et.al.|[2404.00426](http://arxiv.org/abs/2404.00426)|null|
 |**2024-03-25**|**PROSPECT: Precision Robot Spectroscopy Exploration and Characterization Tool**|Nathaniel Hanson et.al.|[2403.17232](http://arxiv.org/abs/2403.17232)|null|
@@ -2795,6 +2808,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding**|Bo He et.al.|[2404.05726](http://arxiv.org/abs/2404.05726)|null|
+|**2024-04-08**|**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**|Keen You et.al.|[2404.05719](http://arxiv.org/abs/2404.05719)|null|
+|**2024-04-08**|**Evaluating Mathematical Reasoning Beyond Accuracy**|Shijie Xia et.al.|[2404.05692](http://arxiv.org/abs/2404.05692)|**[link](https://github.com/gair-nlp/reasoneval)**|
+|**2024-04-08**|**Retrieval-Augmented Open-Vocabulary Object Detection**|Jooyeon Kim et.al.|[2404.05687](http://arxiv.org/abs/2404.05687)|**[link](https://github.com/mlvlab/RALF)**|
+|**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|null|
+|**2024-04-08**|**CoReS: Orchestrating the Dance of Reasoning and Segmentation**|Xiaoyi Bao et.al.|[2404.05673](http://arxiv.org/abs/2404.05673)|null|
+|**2024-04-08**|**Fighting crime with Transformers: Empirical analysis of address parsing methods in payment data**|Haitham Hammami et.al.|[2404.05632](http://arxiv.org/abs/2404.05632)|**[link](https://github.com/hm-haitham/Fighting-crime-with-Transformers-Empirical-analysis-of-address-parsing-methods-in-payment-data)**|
+|**2024-04-08**|**LTNER: Large Language Model Tagging for Named Entity Recognition with Contextualized Entity Marking**|Faren Yan et.al.|[2404.05624](http://arxiv.org/abs/2404.05624)|null|
+|**2024-04-08**|**MedExpQA: Multilingual Benchmarking of Large Language Models for Medical Question Answering**|Iñigo Alonso et.al.|[2404.05590](http://arxiv.org/abs/2404.05590)|null|
+|**2024-04-08**|**360°REA: Towards A Reusable Experience Accumulation with 360° Assessment for Multi-Agent System**|Shen Gao et.al.|[2404.05569](http://arxiv.org/abs/2404.05569)|null|
 |**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242](http://arxiv.org/abs/2404.04242)|null|
 |**2024-04-05**|**Cleared for Takeoff? Compositional & Conditional Reasoning may be the Achilles Heel to (Flight-Booking) Language Agents**|Harsh Kohli et.al.|[2404.04237](http://arxiv.org/abs/2404.04237)|null|
 |**2024-04-05**|**Social Skill Training with Large Language Models**|Diyi Yang et.al.|[2404.04204](http://arxiv.org/abs/2404.04204)|null|
