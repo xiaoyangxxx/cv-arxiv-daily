@@ -2652,6 +2652,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Reducing Bias in Pre-trained Models by Tuning while Penalizing Change**|Niklas Penzel et.al.|[2404.12292](http://arxiv.org/abs/2404.12292)|null|
+|**2024-04-18**|**An Online Spatial-Temporal Graph Trajectory Planner for Autonomous Vehicles**|Jilan Samiuddin et.al.|[2404.12256](http://arxiv.org/abs/2404.12256)|null|
+|**2024-04-18**|**Stability Certificates for Receding Horizon Games**|Sophie Hall et.al.|[2404.12165](http://arxiv.org/abs/2404.12165)|null|
+|**2024-04-18**|**S4TP: Social-Suitable and Safety-Sensitive Trajectory Planning for Autonomous Vehicles**|Xiao Wang et.al.|[2404.11946](http://arxiv.org/abs/2404.11946)|null|
+|**2024-04-17**|**TempBEV: Improving Learned BEV Encoders with Combined Image and BEV Space Temporal Aggregation**|Thomas Monninger et.al.|[2404.11803](http://arxiv.org/abs/2404.11803)|null|
+|**2024-04-17**|**Multimodal 3D Object Detection on Unseen Domains**|Deepti Hegde et.al.|[2404.11764](http://arxiv.org/abs/2404.11764)|null|
+|**2024-04-17**|**Exploring DNN Robustness Against Adversarial Attacks Using Approximate Multipliers**|Mohammad Javad Askarizadeh et.al.|[2404.11665](http://arxiv.org/abs/2404.11665)|null|
 |**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605](http://arxiv.org/abs/2404.11605)|**[link](https://github.com/shark0-0/vg4d)**|
 |**2024-04-18**|**SERENE: A Collusion Resilient Replication-based Verification Framework**|Amir Esmaeili et.al.|[2404.11410](http://arxiv.org/abs/2404.11410)|null|
 |**2024-04-17**|**Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness**|Hangtao Zhang et.al.|[2404.11357](http://arxiv.org/abs/2404.11357)|null|
@@ -2823,6 +2830,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**BLINK: Multimodal Large Language Models Can See but Not Perceive**|Xingyu Fu et.al.|[2404.12390](http://arxiv.org/abs/2404.12390)|null|
+|**2024-04-18**|**MedThink: Explaining Medical Visual Question Answering via Multimodal Decision-Making Rationale**|Xiaotang Gai et.al.|[2404.12372](http://arxiv.org/abs/2404.12372)|null|
+|**2024-04-18**|**When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes**|Asaf Yehudai et.al.|[2404.12365](http://arxiv.org/abs/2404.12365)|null|
+|**2024-04-18**|**Towards a Foundation Model for Partial Differential Equation: Multi-Operator Learning and Extrapolation**|Jingmin Sun et.al.|[2404.12355](http://arxiv.org/abs/2404.12355)|null|
+|**2024-04-18**|**V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning**|Hang Hua et.al.|[2404.12353](http://arxiv.org/abs/2404.12353)|null|
+|**2024-04-18**|**Large Language Models in Targeted Sentiment Analysis**|Nicolay Rusnachenko et.al.|[2404.12342](http://arxiv.org/abs/2404.12342)|**[link](https://github.com/nicolay-r/reasoning-for-sentiment-analysis-framework)**|
+|**2024-04-18**|**Normative Requirements Operationalization with Large Language Models**|Nick Feng et.al.|[2404.12335](http://arxiv.org/abs/2404.12335)|null|
+|**2024-04-18**|**Large Language Models for Synthetic Participatory Planning of Shared Automated Electric Mobility Systems**|Jiangbo Yu et.al.|[2404.12317](http://arxiv.org/abs/2404.12317)|null|
+|**2024-04-18**|**Simultaneous Interpretation Corpus Construction by Large Language Models in Distant Language Pair**|Yusuke Sakai et.al.|[2404.12299](http://arxiv.org/abs/2404.12299)|null|
+|**2024-04-18**|**Augmenting emotion features in irony detection with Large language modeling**|Yucheng Lin et.al.|[2404.12291](http://arxiv.org/abs/2404.12291)|null|
 |**2024-04-17**|**A Deep Dive into Large Language Models for Automated Bug Localization and Repair**|Soneya Binta Hossain et.al.|[2404.11595](http://arxiv.org/abs/2404.11595)|null|
 |**2024-04-17**|**LLMTune: Accelerate Database Knob Tuning with Large Language Models**|Xinmei Huang et.al.|[2404.11581](http://arxiv.org/abs/2404.11581)|null|
 |**2024-04-17**|**MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation**|Kuan-Chieh et.al.|[2404.11565](http://arxiv.org/abs/2404.11565)|null|
