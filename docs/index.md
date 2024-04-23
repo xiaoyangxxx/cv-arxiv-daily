@@ -2652,6 +2652,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**PLUTO: Pushing the Limit of Imitation Learning-based Planning for Autonomous Driving**|Jie Cheng et.al.|[2404.14327](http://arxiv.org/abs/2404.14327)|null|
+|**2024-04-22**|**Localization Based on MIMO Backscattering from Retro-Directive Antenna Arrays**|Marina Lotti et.al.|[2404.14206](http://arxiv.org/abs/2404.14206)|null|
+|**2024-04-22**|**PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer**|Rui She et.al.|[2404.14034](http://arxiv.org/abs/2404.14034)|null|
+|**2024-04-22**|**Collaborative Perception Datasets in Autonomous Driving: A Survey**|Melih Yazgan et.al.|[2404.14022](http://arxiv.org/abs/2404.14022)|null|
+|**2024-04-22**|**Benchmarking Multi-Modal LLMs for Testing Visual Deep Learning Systems Through the Lens of Image Mutation**|Liwen Wang et.al.|[2404.13945](http://arxiv.org/abs/2404.13945)|null|
+|**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816](http://arxiv.org/abs/2404.13816)|null|
+|**2024-04-21**|**Soar: Design and Deployment of A Smart Roadside Infrastructure System for Autonomous Driving**|Shuyao Shi et.al.|[2404.13786](http://arxiv.org/abs/2404.13786)|null|
+|**2024-04-20**|**FisheyeDetNet: Object Detection on Fisheye Surround View Camera Systems for Automated Driving**|Ganesh Sistu et.al.|[2404.13443](http://arxiv.org/abs/2404.13443)|null|
+|**2024-04-20**|**Social Force Embedded Mixed Graph Convolutional Network for Multi-class Trajectory Prediction**|Quancheng Du et.al.|[2404.13378](http://arxiv.org/abs/2404.13378)|null|
+|**2024-04-19**|**BACS: Background Aware Continual Semantic Segmentation**|Mostafa ElAraby et.al.|[2404.13148](http://arxiv.org/abs/2404.13148)|null|
 |**2024-04-19**|**Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models**|Zhenyang Ni et.al.|[2404.12916](http://arxiv.org/abs/2404.12916)|null|
 |**2024-04-19**|**FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving**|Xingtai Gui et.al.|[2404.12867](http://arxiv.org/abs/2404.12867)|null|
 |**2024-04-19**|**Language-Driven Active Learning for Diverse Open-Set 3D Object Detection**|Ross Greer et.al.|[2404.12856](http://arxiv.org/abs/2404.12856)|null|
@@ -2806,6 +2816,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**A multi-robot system for the detection of explosive devices**|Ken Hasselmann et.al.|[2404.14167](http://arxiv.org/abs/2404.14167)|null|
+|**2024-04-21**|**In-situ process monitoring and adaptive quality enhancement in laser additive manufacturing: a critical review**|Lequn Chen et.al.|[2404.13673](http://arxiv.org/abs/2404.13673)|null|
 |**2024-04-17**|**Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging**|Manasi Muglikar et.al.|[2404.11511](http://arxiv.org/abs/2404.11511)|null|
 |**2024-04-09**|**Enhanced Radar Perception via Multi-Task Learning: Towards Refined Data for Sensor Fusion Applications**|Huawei Sun et.al.|[2404.06165](http://arxiv.org/abs/2404.06165)|null|
 |**2024-04-06**|**DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation**|Duy-Tho Le et.al.|[2404.04629](http://arxiv.org/abs/2404.04629)|null|
@@ -2839,6 +2851,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**AutoAD III: The Prequel -- Back to the Pixels**|Tengda Han et.al.|[2404.14412](http://arxiv.org/abs/2404.14412)|null|
+|**2024-04-22**|**SpaceByte: Towards Deleting Tokenization from Large Language Modeling**|Kevin Slagle et.al.|[2404.14408](http://arxiv.org/abs/2404.14408)|**[link](https://github.com/kjslag/spacebyte)**|
+|**2024-04-22**|**RTP-LX: Can LLMs Evaluate Toxicity in Multilingual Scenarios?**|Adrian de Wynter et.al.|[2404.14397](http://arxiv.org/abs/2404.14397)|null|
+|**2024-04-22**|**A Survey on Self-Evolution of Large Language Models**|Zhengwei Tao et.al.|[2404.14387](http://arxiv.org/abs/2404.14387)|null|
+|**2024-04-22**|**Beyond Scaling: Predicting Patent Approval with Domain-specific Fine-grained Claim Dependency Graph**|Xiaochen Kev Gao et.al.|[2404.14372](http://arxiv.org/abs/2404.14372)|**[link](https://github.com/shangdatalab/flan-graph)**|
+|**2024-04-22**|**Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data**|Fahim Tajwar et.al.|[2404.14367](http://arxiv.org/abs/2404.14367)|**[link](https://github.com/Asap7772/understanding-rlhf)**|
+|**2024-04-22**|**Better Synthetic Data by Retrieving and Transforming Existing Datasets**|Saumya Gandhi et.al.|[2404.14361](http://arxiv.org/abs/2404.14361)|**[link](https://github.com/neulab/prompt2model)**|
+|**2024-04-22**|**Rethinking Legal Compliance Automation: Opportunities with Large Language Models**|Shabnam Hassani et.al.|[2404.14356](http://arxiv.org/abs/2404.14356)|null|
+|**2024-04-22**|**Automated Long Answer Grading with RiceChem Dataset**|Shashank Sonkar et.al.|[2404.14316](http://arxiv.org/abs/2404.14316)|null|
+|**2024-04-22**|**Explaining Arguments' Strength: Unveiling the Role of Attacks and Supports (Technical Report)**|Xiang Yin et.al.|[2404.14304](http://arxiv.org/abs/2404.14304)|null|
 |**2024-04-19**|**MoVA: Adapting Mixture of Vision Experts to Multimodal Context**|Zhuofan Zong et.al.|[2404.13046](http://arxiv.org/abs/2404.13046)|**[link](https://github.com/templex98/mova)**|
 |**2024-04-19**|**Unified Scene Representation and Reconstruction for 3D Large Language Models**|Tao Chu et.al.|[2404.13044](http://arxiv.org/abs/2404.13044)|null|
 |**2024-04-19**|**Data Alignment for Zero-Shot Concept Generation in Dermatology AI**|Soham Gadgil et.al.|[2404.13043](http://arxiv.org/abs/2404.13043)|null|
