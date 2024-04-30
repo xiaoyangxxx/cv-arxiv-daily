@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.29
+## Updated on 2024.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2659,8 +2659,8 @@ layout: default
 |**2024-04-26**|**Scene-Extrapolation: Generating Interactive Traffic Scenarios**|Maximilian Zipfl et.al.|[2404.17224](http://arxiv.org/abs/2404.17224)|null|
 |**2024-04-26**|**Beyond Imitation: A Life-long Policy Learning Framework for Path Tracking Control of Autonomous Driving**|C. Gong et.al.|[2404.17198](http://arxiv.org/abs/2404.17198)|null|
 |**2024-04-25**|**Integration of Mixture of Experts and Multimodal Generative AI in Internet of Vehicles: A Survey**|Minrui Xu et.al.|[2404.16356](http://arxiv.org/abs/2404.16356)|null|
-|**2024-04-25**|**A Multi-objective Optimization Benchmark Test Suite for Real-time Semantic Segmentation**|Yifan Zhao et.al.|[2404.16266](http://arxiv.org/abs/2404.16266)|**[link](https://github.com/emi-group/evoxbench)**|
-|**2024-04-24**|**A Survey on Intermediate Fusion Methods for Collaborative Perception Categorized by Real World Challenges**|Melih Yazgan et.al.|[2404.16139](http://arxiv.org/abs/2404.16139)|null|
+|**2024-04-29**|**A Multi-objective Optimization Benchmark Test Suite for Real-time Semantic Segmentation**|Yifan Zhao et.al.|[2404.16266](http://arxiv.org/abs/2404.16266)|**[link](https://github.com/emi-group/evoxbench)**|
+|**2024-04-28**|**A Survey on Intermediate Fusion Methods for Collaborative Perception Categorized by Real World Challenges**|Melih Yazgan et.al.|[2404.16139](http://arxiv.org/abs/2404.16139)|null|
 |**2024-04-24**|**Learning Car-Following Behaviors Using Bayesian Matrix Normal Mixture Regression**|Chengyuan Zhang et.al.|[2404.16023](http://arxiv.org/abs/2404.16023)|null|
 |**2024-04-23**|**OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving**|Guoqing Wang et.al.|[2404.15014](http://arxiv.org/abs/2404.15014)|null|
 |**2024-04-23**|**LaneCorrect: Self-supervised Lane Detection**|Ming Nie et.al.|[2404.14671](http://arxiv.org/abs/2404.14671)|null|
