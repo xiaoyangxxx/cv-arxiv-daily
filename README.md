@@ -2676,6 +2676,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Lane Segmentation Refinement with Diffusion Models**|Antonio Ruiz et.al.|[2405.00620](http://arxiv.org/abs/2405.00620)|null|
+|**2024-05-01**|**GAD-Generative Learning for HD Map-Free Autonomous Driving**|Weijian Sun et.al.|[2405.00515](http://arxiv.org/abs/2405.00515)|null|
+|**2024-05-01**|**On the Relevance of Byzantine Robust Optimization Against Data Poisoning**|Sadegh Farhadkhani et.al.|[2405.00491](http://arxiv.org/abs/2405.00491)|null|
+|**2024-05-01**|**RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models**|Mohamed Manzour Hussien et.al.|[2405.00449](http://arxiv.org/abs/2405.00449)|null|
+|**2024-05-01**|**Dual-Role AoI-based Incentive Mechanism for HD map Crowdsourcing**|Wentao Ye et.al.|[2405.00353](http://arxiv.org/abs/2405.00353)|null|
+|**2024-05-01**|**Enhance Planning with Physics-informed Safety Controllor for End-to-end Autonomous Driving**|Hang Zhou et.al.|[2405.00316](http://arxiv.org/abs/2405.00316)|null|
+|**2024-04-30**|**SemVecNet: Generalizable Vector Map Generation for Arbitrary Sensor Configurations**|Narayanan Elavathur Ranganatha et.al.|[2405.00250](http://arxiv.org/abs/2405.00250)|null|
+|**2024-04-30**|**Guiding Attention in End-to-End Driving Models**|Diego Porres et.al.|[2405.00242](http://arxiv.org/abs/2405.00242)|null|
+|**2024-04-30**|**STT: Stateful Tracking with Transformers for Autonomous Driving**|Longlong Jing et.al.|[2405.00236](http://arxiv.org/abs/2405.00236)|null|
+|**2024-04-30**|**Comparing Motion Distortion Between Vehicle Field Deployments**|Nicolas Samson et.al.|[2405.00189](http://arxiv.org/abs/2405.00189)|null|
 |**2024-04-30**|**Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection**|Zhanwei Zhang et.al.|[2404.19384](http://arxiv.org/abs/2404.19384)|null|
 |**2024-04-30**|**SemanticFormer: Holistic and Semantic Traffic Scene Representation for Trajectory Prediction using Knowledge Graphs**|Zhigang Sun et.al.|[2404.19379](http://arxiv.org/abs/2404.19379)|null|
 |**2024-04-30**|**G2LTraj: A Global-to-Local Generation Approach for Trajectory Prediction**|Zhanwei Zhang et.al.|[2404.19330](http://arxiv.org/abs/2404.19330)|**[link](https://github.com/zhanwei-z/g2ltraj)**|
@@ -2912,6 +2922,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Is Bigger Edit Batch Size Always Better? -- An Empirical Study on Model Editing with Llama-3**|Junsang Yoon et.al.|[2405.00664](http://arxiv.org/abs/2405.00664)|null|
+|**2024-05-01**|**HalluVault: A Novel Logic Programming-aided Metamorphic Testing Framework for Detecting Fact-Conflicting Hallucinations in Large Language Models**|Ningke Li et.al.|[2405.00648](http://arxiv.org/abs/2405.00648)|null|
+|**2024-05-01**|**When Quantization Affects Confidence of Large Language Models?**|Irina Proskurina et.al.|[2405.00632](http://arxiv.org/abs/2405.00632)|null|
+|**2024-05-01**|**"I'm Not Sure, But...": Examining the Impact of Large Language Models' Uncertainty Expression on User Reliance and Trust**|Sunnie S. Y. Kim et.al.|[2405.00623](http://arxiv.org/abs/2405.00623)|null|
+|**2024-05-01**|**Addressing Topic Granularity and Hallucination in Large Language Models for Topic Modelling**|Yida Mu et.al.|[2405.00611](http://arxiv.org/abs/2405.00611)|null|
+|**2024-05-01**|**Investigating Automatic Scoring and Feedback using Large Language Models**|Gloria Ashiya Katuka et.al.|[2405.00602](http://arxiv.org/abs/2405.00602)|null|
+|**2024-05-01**|**Are Models Biased on Text without Gender-related Language?**|Catarina G Belém et.al.|[2405.00588](http://arxiv.org/abs/2405.00588)|**[link](https://github.com/ucinlp/unstereo-eval)**|
+|**2024-05-01**|**The Real, the Better: Aligning Large Language Models with Online Human Behaviors**|Guanying Jiang et.al.|[2405.00578](http://arxiv.org/abs/2405.00578)|null|
+|**2024-05-01**|**EALD-MLLM: Emotion Analysis in Long-sequential and De-identity videos with Multi-modal Large Language Model**|Deng Li et.al.|[2405.00574](http://arxiv.org/abs/2405.00574)|null|
+|**2024-05-01**|**NumLLM: Numeric-Sensitive Large Language Model for Chinese Finance**|Huan-Yi Su et.al.|[2405.00566](http://arxiv.org/abs/2405.00566)|null|
 |**2024-04-30**|**Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**|Yunhao Ge et.al.|[2404.19752](http://arxiv.org/abs/2404.19752)|null|
 |**2024-04-30**|**PrivComp-KG : Leveraging Knowledge Graph and Large Language Models for Privacy Policy Compliance Verification**|Leon Garza et.al.|[2404.19744](http://arxiv.org/abs/2404.19744)|null|
 |**2024-04-30**|**Better & Faster Large Language Models via Multi-token Prediction**|Fabian Gloeckle et.al.|[2404.19737](http://arxiv.org/abs/2404.19737)|null|
