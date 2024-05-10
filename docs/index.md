@@ -2652,6 +2652,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Probing Multimodal LLMs as World Models for Driving**|Shiva Sreeram et.al.|[2405.05956](http://arxiv.org/abs/2405.05956)|**[link](https://github.com/sreeramsa/drivesim)**|
+|**2024-05-09**|**Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior and Understanding for Complex Road Scenes**|Ziang Guo et.al.|[2405.05885](http://arxiv.org/abs/2405.05885)|null|
+|**2024-05-09**|**Towards Robust Physical-world Backdoor Attacks on Lane Detection**|Xinwei Zhang et.al.|[2405.05553](http://arxiv.org/abs/2405.05553)|null|
+|**2024-05-07**|**Tiny Deep Ensemble: Uncertainty Estimation in Edge AI Accelerators via Ensembling Normalization Layers with Shared Weights**|Soyed Tuhin Ahmed et.al.|[2405.05286](http://arxiv.org/abs/2405.05286)|null|
 |**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[2405.05258](http://arxiv.org/abs/2405.05258)|**[link](https://github.com/ldkong1205/LaserMix)**|
 |**2024-05-08**|**A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective**|Huaiyuan Xu et.al.|[2405.05173](http://arxiv.org/abs/2405.05173)|null|
 |**2024-05-08**|**DenserRadar: A 4D millimeter-wave radar point cloud detector based on dense LiDAR point clouds**|Zeyu Han et.al.|[2405.05131](http://arxiv.org/abs/2405.05131)|null|
@@ -2928,6 +2932,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Natural Language Processing RELIES on Linguistics**|Juri Opitz et.al.|[2405.05966](http://arxiv.org/abs/2405.05966)|null|
+|**2024-05-09**|**OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning**|Dan Qiao et.al.|[2405.05957](http://arxiv.org/abs/2405.05957)|**[link](https://github.com/opennlg/openba-v2)**|
+|**2024-05-09**|**Probing Multimodal LLMs as World Models for Driving**|Shiva Sreeram et.al.|[2405.05956](http://arxiv.org/abs/2405.05956)|**[link](https://github.com/sreeramsa/drivesim)**|
+|**2024-05-09**|**Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency for Tool Planning**|Junzhi Chen et.al.|[2405.05955](http://arxiv.org/abs/2405.05955)|null|
+|**2024-05-09**|**CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts**|Jiachen Li et.al.|[2405.05949](http://arxiv.org/abs/2405.05949)|**[link](https://github.com/shi-labs/cumo)**|
+|**2024-05-09**|**Trustworthy AI-Generative Content in Intelligent 6G Network: Adversarial, Privacy, and Fairness**|Siyuan Li et.al.|[2405.05930](http://arxiv.org/abs/2405.05930)|null|
+|**2024-05-09**|**Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?**|Zorik Gekhman et.al.|[2405.05904](http://arxiv.org/abs/2405.05904)|null|
+|**2024-05-09**|**Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior and Understanding for Complex Road Scenes**|Ziang Guo et.al.|[2405.05885](http://arxiv.org/abs/2405.05885)|null|
+|**2024-05-09**|**FlockGPT: Guiding UAV Flocking with Linguistic Orchestration**|Artem Lykov et.al.|[2405.05872](http://arxiv.org/abs/2405.05872)|null|
+|**2024-05-09**|**Robots Can Feel: LLM-based Framework for Robot Ethical Reasoning**|Artem Lykov et.al.|[2405.05824](http://arxiv.org/abs/2405.05824)|null|
 |**2024-05-09**|**You Only Cache Once: Decoder-Decoder Architectures for Language Models**|Yutao Sun et.al.|[2405.05254](http://arxiv.org/abs/2405.05254)|null|
 |**2024-05-08**|**Open Source Language Models Can Provide Feedback: Evaluating LLMs' Ability to Help Students Using GPT-4-As-A-Judge**|Charles Koutcheme et.al.|[2405.05253](http://arxiv.org/abs/2405.05253)|**[link](https://github.com/koutchemecharles/iticse24)**|
 |**2024-05-09**|**LLMs with Personalities in Multi-issue Negotiation Games**|Sean Noh et.al.|[2405.05248](http://arxiv.org/abs/2405.05248)|null|
