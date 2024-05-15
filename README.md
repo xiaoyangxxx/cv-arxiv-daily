@@ -2676,6 +2676,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition**|Lingdong Kong et.al.|[2405.08816](http://arxiv.org/abs/2405.08816)|null|
+|**2024-05-14**|**Ambiguous Annotations: When is a Pedestrian not a Pedestrian?**|Luisa Schwirten et.al.|[2405.08794](http://arxiv.org/abs/2405.08794)|null|
+|**2024-05-14**|**Work-in-Progress: Crash Course: Can (Under Attack) Autonomous Driving Beat Human Drivers?**|Francesco Marchiori et.al.|[2405.08466](http://arxiv.org/abs/2405.08466)|null|
+|**2024-05-13**|**Equivariant Deep Learning of Mixed-Integer Optimal Control Solutions for Vehicle Decision Making and Motion Planning**|Rudolf Reiter et.al.|[2405.08122](http://arxiv.org/abs/2405.08122)|null|
 |**2024-05-13**|**AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al.|[2405.07865](http://arxiv.org/abs/2405.07865)|null|
 |**2024-05-13**|**oTTC: Object Time-to-Contact for Motion Estimation in Autonomous Driving**|Abdul Hannan Khan et.al.|[2405.07698](http://arxiv.org/abs/2405.07698)|null|
 |**2024-05-13**|**MaskFuser: Masked Fusion of Joint Multi-Modal Tokenization for End-to-End Autonomous Driving**|Yiqun Duan et.al.|[2405.07573](http://arxiv.org/abs/2405.07573)|null|
@@ -2924,6 +2928,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition**|Lingdong Kong et.al.|[2405.08816](http://arxiv.org/abs/2405.08816)|null|
+|**2024-05-14**|**Enhancing Reinforcement Learning in Sensor Fusion: A Comparative Analysis of Cubature and Sampling-based Integration Methods for Rover Search Planning**|Jan-Hendrik Ewers et.al.|[2405.08691](http://arxiv.org/abs/2405.08691)|null|
+|**2024-05-14**|**Cryptography-Based Privacy-Preserving Method for Distributed Optimization over Time-Varying Directed Graphs with Enhanced Efficiency**|Bing Liu et.al.|[2405.08518](http://arxiv.org/abs/2405.08518)|null|
+|**2024-05-13**|**GPS-IMU Sensor Fusion for Reliable Autonomous Vehicle Position Estimation**|Simegnew Yihunie Alaba et.al.|[2405.08119](http://arxiv.org/abs/2405.08119)|null|
 |**2024-05-13**|**Automatic Odometry-Less OpenDRIVE Generation From Sparse Point Clouds**|Leon Eisemann et.al.|[2405.07544](http://arxiv.org/abs/2405.07544)|null|
 |**2024-05-08**|**G-Loc: Tightly-coupled Graph Localization with Prior Topo-metric Information**|Lorenzo Montano-Oliván et.al.|[2405.05059](http://arxiv.org/abs/2405.05059)|null|
 |**2024-05-07**|**Global Scale Self-Supervised Channel Charting with Sensor Fusion**|Omid Esrafilian et.al.|[2405.04357](http://arxiv.org/abs/2405.04357)|null|
@@ -2972,6 +2980,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs**|Edison Jair Bejarano Sepulveda et.al.|[2405.08792](http://arxiv.org/abs/2405.08792)|null|
+|**2024-05-14**|**Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring**|Tiantian Zhang et.al.|[2405.08786](http://arxiv.org/abs/2405.08786)|null|
+|**2024-05-14**|**Is the Pope Catholic? Yes, the Pope is Catholic. Generative Evaluation of Intent Resolution in LLMs**|Akhila Yerukola et.al.|[2405.08760](http://arxiv.org/abs/2405.08760)|null|
+|**2024-05-14**|**Distributed Threat Intelligence at the Edge Devices: A Large Language Model-Driven Approach**|Syed Mhamudul Hasan et.al.|[2405.08755](http://arxiv.org/abs/2405.08755)|null|
+|**2024-05-14**|**Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**|Zhimin Li et.al.|[2405.08748](http://arxiv.org/abs/2405.08748)|**[link](https://github.com/tencent/hunyuandit)**|
+|**2024-05-14**|**ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation**|Dimitris Gkoumas et.al.|[2405.08619](http://arxiv.org/abs/2405.08619)|null|
+|**2024-05-14**|**A Comprehensive Survey of Large Language Models and Multimodal Large Language Models in Medicine**|Hanguang Xiao et.al.|[2405.08603](http://arxiv.org/abs/2405.08603)|null|
+|**2024-05-14**|**EVDA: Evolving Deepfake Audio Detection Continual Learning Benchmark**|Xiaohui Zhang et.al.|[2405.08596](http://arxiv.org/abs/2405.08596)|null|
+|**2024-05-14**|**Falcon 7b for Software Mention Detection in Scholarly Documents**|AmeerAli Khan et.al.|[2405.08514](http://arxiv.org/abs/2405.08514)|null|
+|**2024-05-14**|**Archimedes-AUEB at SemEval-2024 Task 5: LLM explains Civil Procedure**|Odysseas S. Chlapanis et.al.|[2405.08502](http://arxiv.org/abs/2405.08502)|null|
 |**2024-05-13**|**Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large Language Models in Code Generation from Scientific Plots**|Chengyue Wu et.al.|[2405.07990](http://arxiv.org/abs/2405.07990)|null|
 |**2024-05-13**|**A Generalist Learner for Multifaceted Medical Image Interpretation**|Hong-Yu Zhou et.al.|[2405.07988](http://arxiv.org/abs/2405.07988)|null|
 |**2024-05-13**|**PyZoBot: A Platform for Conversational Information Extraction and Synthesis from Curated Zotero Reference Libraries through Advanced Retrieval-Augmented Generation**|Suad Alshammari et.al.|[2405.07963](http://arxiv.org/abs/2405.07963)|null|
