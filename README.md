@@ -2676,6 +2676,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving**|Dechen Gao et.al.|[2405.09111](http://arxiv.org/abs/2405.09111)|null|
+|**2024-05-15**|**Perception Without Vision for Trajectory Prediction: Ego Vehicle Dynamics as Scene Representation for Efficient Active Learning in Autonomous Driving**|Ross Greer et.al.|[2405.09049](http://arxiv.org/abs/2405.09049)|null|
+|**2024-05-14**|**The Pitfalls and Promise of Conformal Inference Under Adversarial Attacks**|Ziquan Liu et.al.|[2405.08886](http://arxiv.org/abs/2405.08886)|null|
 |**2024-05-14**|**The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition**|Lingdong Kong et.al.|[2405.08816](http://arxiv.org/abs/2405.08816)|null|
 |**2024-05-14**|**Ambiguous Annotations: When is a Pedestrian not a Pedestrian?**|Luisa Schwirten et.al.|[2405.08794](http://arxiv.org/abs/2405.08794)|null|
 |**2024-05-14**|**Work-in-Progress: Crash Course: Can (Under Attack) Autonomous Driving Beat Human Drivers?**|Francesco Marchiori et.al.|[2405.08466](http://arxiv.org/abs/2405.08466)|null|
@@ -2980,6 +2983,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming**|Bushi Xiao et.al.|[2405.09508](http://arxiv.org/abs/2405.09508)|null|
+|**2024-05-15**|**Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts**|Donya Rooein et.al.|[2405.09482](http://arxiv.org/abs/2405.09482)|null|
+|**2024-05-15**|**Tell Me Why: Explainable Public Health Fact-Checking with Large Language Models**|Majid Zarharan et.al.|[2405.09454](http://arxiv.org/abs/2405.09454)|**[link](https://github.com/Zarharan/NLE-for-fact-checking)**|
+|**2024-05-15**|**Facilitating Opinion Diversity through Hybrid NLP Approaches**|Michiel van der Meer et.al.|[2405.09439](http://arxiv.org/abs/2405.09439)|null|
+|**2024-05-15**|**MicroPython Testbed for Federated Learning Algorithms**|Miroslav Popovic et.al.|[2405.09423](http://arxiv.org/abs/2405.09423)|null|
+|**2024-05-15**|**Matching domain experts by training from scratch on domain knowledge**|Xiaoliang Luo et.al.|[2405.09395](http://arxiv.org/abs/2405.09395)|null|
+|**2024-05-15**|**PolygloToxicityPrompts: Multilingual Evaluation of Neural Toxic Degeneration in Large Language Models**|Devansh Jain et.al.|[2405.09373](http://arxiv.org/abs/2405.09373)|null|
+|**2024-05-15**|**Large Language Model Bias Mitigation from the Perspective of Knowledge Editing**|Ruizhe Chen et.al.|[2405.09341](http://arxiv.org/abs/2405.09341)|null|
+|**2024-05-15**|**Prompting-based Synthetic Data Generation for Few-Shot Question Answering**|Maximilian Schmidt et.al.|[2405.09335](http://arxiv.org/abs/2405.09335)|null|
+|**2024-05-15**|**Transfer Learning in Pre-Trained Large Language Models for Malware Detection Based on System Calls**|Pedro Miguel Sánchez Sánchez et.al.|[2405.09318](http://arxiv.org/abs/2405.09318)|null|
 |**2024-05-14**|**Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs**|Edison Jair Bejarano Sepulveda et.al.|[2405.08792](http://arxiv.org/abs/2405.08792)|null|
 |**2024-05-14**|**Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring**|Tiantian Zhang et.al.|[2405.08786](http://arxiv.org/abs/2405.08786)|null|
 |**2024-05-14**|**Is the Pope Catholic? Yes, the Pope is Catholic. Generative Evaluation of Intent Resolution in LLMs**|Akhila Yerukola et.al.|[2405.08760](http://arxiv.org/abs/2405.08760)|**[link](https://github.com/Akhila-Yerukola/generative-intention-resolution)**|
