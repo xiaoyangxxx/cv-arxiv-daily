@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.24
+## Updated on 2024.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2652,8 +2652,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-23**|**An Empirical Study of Training State-of-the-Art LiDAR Segmentation Models**|Jiahao Sun et.al.|[2405.14870](http://arxiv.org/abs/2405.14870)|null|
-|**2024-05-23**|**TopoLogic: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes**|Yanping Fu et.al.|[2405.14747](http://arxiv.org/abs/2405.14747)|**[link](https://github.com/Franpin/TopoLogic)**|
+|**2024-05-23**|**An Empirical Study of Training State-of-the-Art LiDAR Segmentation Models**|Jiahao Sun et.al.|[2405.14870](http://arxiv.org/abs/2405.14870)|**[link](https://github.com/open-mmlab/mmdetection3d)**|
+|**2024-05-23**|**TopoLogic: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes**|Yanping Fu et.al.|[2405.14747](http://arxiv.org/abs/2405.14747)|null|
 |**2024-05-23**|**SE3D: A Framework For Saliency Method Evaluation In 3D Imaging**|Mariusz Wiśniewski et.al.|[2405.14584](http://arxiv.org/abs/2405.14584)|null|
 |**2024-05-23**|**MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes**|Ruiyuan Gao et.al.|[2405.14475](http://arxiv.org/abs/2405.14475)|null|
 |**2024-05-23**|**RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**|Zhiheng Feng et.al.|[2405.14342](http://arxiv.org/abs/2405.14342)|null|
