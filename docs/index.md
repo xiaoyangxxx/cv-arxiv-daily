@@ -2652,6 +2652,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Out-of-Distribution Runtime Adaptation with Conformalized Neural Network Ensembles**|Polo Contreras et.al.|[2406.02436](http://arxiv.org/abs/2406.02436)|null|
+|**2024-06-04**|**Decoupling of neural network calibration measures**|Dominik Werner Wolf et.al.|[2406.02411](http://arxiv.org/abs/2406.02411)|null|
+|**2024-06-04**|**Radar Spectra-Language Model for Automotive Scene Parsing**|Mariia Pushkareva et.al.|[2406.02158](http://arxiv.org/abs/2406.02158)|null|
+|**2024-06-04**|**UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**|Lijun Zhou et.al.|[2406.02147](http://arxiv.org/abs/2406.02147)|null|
+|**2024-06-04**|**Exploring Real World Map Change Generalization of Prior-Informed HD Map Prediction Models**|Samuel M. Bateman et.al.|[2406.01961](http://arxiv.org/abs/2406.01961)|null|
+|**2024-06-04**|**ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization**|Chen Mao et.al.|[2406.01906](http://arxiv.org/abs/2406.01906)|**[link](https://github.com/chain-mao/progeo)**|
+|**2024-06-04**|**PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle Motion Planning**|Yupeng Zheng et.al.|[2406.01587](http://arxiv.org/abs/2406.01587)|null|
+|**2024-06-03**|**Learning from Mistakes: a Weakly-supervised Method for Mitigating the Distribution Shift in Autonomous Vehicle Planning**|Fazel Arasteh et.al.|[2406.01544](http://arxiv.org/abs/2406.01544)|null|
+|**2024-06-04**|**Sensitivity-Informed Augmentation for Robust Segmentation**|Laura Zheng et.al.|[2406.01425](http://arxiv.org/abs/2406.01425)|null|
+|**2024-06-03**|**Extending Structural Causal Models for Use in Autonomous Embodied Systems**|Rhys Howard et.al.|[2406.01384](http://arxiv.org/abs/2406.01384)|**[link](https://github.com/cognitive-robots/scm-aes-paper-resources)**|
 |**2024-05-31**|**Hard Cases Detection in Motion Prediction by Vision-Language Foundation Models**|Yi Yang et.al.|[2405.20991](http://arxiv.org/abs/2405.20991)|**[link](https://github.com/kth-rpl/detect_vlm)**|
 |**2024-05-31**|**Uncertainty Quantification for Bird's Eye View Semantic Segmentation: Methods and Benchmarks**|Linlin Yu et.al.|[2405.20986](http://arxiv.org/abs/2405.20986)|null|
 |**2024-05-31**|**Robust Stable Spiking Neural Networks**|Jianhao Ding et.al.|[2405.20694](http://arxiv.org/abs/2405.20694)|null|
@@ -3027,6 +3037,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|null|
+|**2024-06-04**|**Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal Learning**|Alex Jinpeng Wang et.al.|[2406.02547](http://arxiv.org/abs/2406.02547)|**[link](https://github.com/showlab/VisInContext)**|
+|**2024-06-04**|**To Believe or Not to Believe Your LLM**|Yasin Abbasi Yadkori et.al.|[2406.02543](http://arxiv.org/abs/2406.02543)|null|
+|**2024-06-04**|**Loki: Low-Rank Keys for Efficient Sparse Attention**|Prajwal Singhania et.al.|[2406.02542](http://arxiv.org/abs/2406.02542)|null|
+|**2024-06-04**|**Parrot: Multilingual Visual Instruction Tuning**|Hai-Long Sun et.al.|[2406.02539](http://arxiv.org/abs/2406.02539)|null|
+|**2024-06-04**|**Mitigate Position Bias in Large Language Models via Scaling a Single Dimension**|Yijiong Yu et.al.|[2406.02536](http://arxiv.org/abs/2406.02536)|null|
+|**2024-06-04**|**SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices**|Ruslan Svirschevski et.al.|[2406.02532](http://arxiv.org/abs/2406.02532)|null|
+|**2024-06-04**|**Scalable MatMul-free Language Modeling**|Rui-Jie Zhu et.al.|[2406.02528](http://arxiv.org/abs/2406.02528)|**[link](https://github.com/ridgerchu/matmulfreellm)**|
+|**2024-06-04**|**CheckEmbed: Effective Verification of LLM Solutions to Open-Ended Tasks**|Maciej Besta et.al.|[2406.02524](http://arxiv.org/abs/2406.02524)|null|
+|**2024-06-04**|**RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots**|Soroush Nasiriany et.al.|[2406.02523](http://arxiv.org/abs/2406.02523)|null|
 |**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075](http://arxiv.org/abs/2405.21075)|null|
 |**2024-05-31**|**Grammar-Aligned Decoding**|Kanghee Park et.al.|[2405.21047](http://arxiv.org/abs/2405.21047)|null|
 |**2024-05-31**|**Direct Alignment of Language Models via Quality-Aware Self-Refinement**|Runsheng Yu et.al.|[2405.21040](http://arxiv.org/abs/2405.21040)|null|
