@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -476,7 +476,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## SFM
 
@@ -649,7 +649,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1355,7 +1355,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1570,7 +1570,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1784,7 +1784,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## NeRF
 
@@ -2670,14 +2670,14 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## AD
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-06**|**Frequency-based Matcher for Long-tailed Semantic Segmentation**|Shan Li et.al.|[2406.03917](http://arxiv.org/abs/2406.03917)|null|
-|**2024-06-06**|**Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving**|Xiaosong Jia et.al.|[2406.03877](http://arxiv.org/abs/2406.03877)|null|
+|**2024-06-06**|**Frequency-based Matcher for Long-tailed Semantic Segmentation**|Shan Li et.al.|[2406.03917](http://arxiv.org/abs/2406.03917)|**[link](https://github.com/caopulan/Mask2Former-LT)**|
+|**2024-06-06**|**Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving**|Xiaosong Jia et.al.|[2406.03877](http://arxiv.org/abs/2406.03877)|**[link](https://github.com/Thinklab-SJTU/Bench2Drive)**|
 |**2024-06-06**|**Monocular Localization with Semantics Map for Autonomous Vehicles**|Jixiang Wan et.al.|[2406.03835](http://arxiv.org/abs/2406.03835)|null|
 |**2024-06-05**|**FedPylot: Navigating Federated Learning for Real-Time Object Detection in Internet of Vehicles**|Cyprien Quéméneur et.al.|[2406.03611](http://arxiv.org/abs/2406.03611)|**[link](https://github.com/cyprienquemeneur/fedpylot)**|
 |**2024-06-05**|**AD-H: Autonomous Driving with Hierarchical Agents**|Zaibin Zhang et.al.|[2406.03474](http://arxiv.org/abs/2406.03474)|null|
@@ -2685,7 +2685,7 @@
 |**2024-06-05**|**Prompt-based Visual Alignment for Zero-shot Policy Transfer**|Haihan Gao et.al.|[2406.03250](http://arxiv.org/abs/2406.03250)|null|
 |**2024-06-05**|**Situation Monitor: Diversity-Driven Zero-Shot Out-of-Distribution Detection using Budding Ensemble Architecture for Object Detection**|Qutub Syed et.al.|[2406.03188](http://arxiv.org/abs/2406.03188)|null|
 |**2024-06-05**|**Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**|Eliraz Orfaig et.al.|[2406.03129](http://arxiv.org/abs/2406.03129)|null|
-|**2024-06-05**|**Enhancing 3D Lane Detection and Topology Reasoning with 2D Lane Priors**|Han Li et.al.|[2406.03105](http://arxiv.org/abs/2406.03105)|null|
+|**2024-06-05**|**Enhancing 3D Lane Detection and Topology Reasoning with 2D Lane Priors**|Han Li et.al.|[2406.03105](http://arxiv.org/abs/2406.03105)|**[link](https://github.com/homothetic/topo2d)**|
 |**2024-06-05**|**Task-Oriented Wireless Communications for Collaborative Perception in Intelligent Unmanned Systems**|Sheng Zhou et.al.|[2406.03086](http://arxiv.org/abs/2406.03086)|null|
 |**2024-06-05**|**Correlation of Software-in-the-Loop Simulation with Physical Testing for Autonomous Driving**|Zhennan Fei et.al.|[2406.03040](http://arxiv.org/abs/2406.03040)|null|
 |**2024-06-05**|**DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences**|Yidong Huang et.al.|[2406.03008](http://arxiv.org/abs/2406.03008)|null|
@@ -3019,7 +3019,7 @@
 |**2024-03-18**|**GraphBEV: Towards Robust BEV Feature Alignment for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2403.11848](http://arxiv.org/abs/2403.11848)|null|
 |**2024-03-18**|**EMIE-MAP: Large-Scale Road Surface Reconstruction Based on Explicit Mesh and Implicit Encoding**|Wenhua Wu et.al.|[2403.11789](http://arxiv.org/abs/2403.11789)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## FUSION
 
@@ -3066,7 +3066,7 @@
 |**2024-03-04**|**COMMIT: Certifying Robustness of Multi-Sensor Fusion Systems against Semantic Attacks**|Zijian Huang et.al.|[2403.02329](http://arxiv.org/abs/2403.02329)|null|
 |**2024-03-13**|**OccFusion: A Straightforward and Effective Multi-Sensor Fusion Framework for 3D Occupancy Prediction**|Zhenxing Ming et.al.|[2403.01644](http://arxiv.org/abs/2403.01644)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## VLM
 
@@ -3075,7 +3075,7 @@
 |**2023-10-24**|**Meta-learning For Vision-and-language Cross-lingual Transfer**|Hanxu Hu et.al.|[2305.14843](http://arxiv.org/abs/2305.14843)|null|
 |**2023-07-07**|**Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model**|Yinghui Xing et.al.|[2208.08340](http://arxiv.org/abs/2208.08340)|**[link](https://github.com/fanrena/dpt)**|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## LLM
 
@@ -3087,10 +3087,10 @@
 |**2024-06-06**|**DeepStack: Deeply Stacking Visual Tokens is Surprisingly Simple and Effective for LMMs**|Lingchen Meng et.al.|[2406.04334](http://arxiv.org/abs/2406.04334)|null|
 |**2024-06-06**|**PaCE: Parsimonious Concept Engineering for Large Language Models**|Jinqi Luo et.al.|[2406.04331](http://arxiv.org/abs/2406.04331)|**[link](https://github.com/peterljq/parsimonious-concept-engineering)**|
 |**2024-06-06**|**Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step**|Zhanhao Liang et.al.|[2406.04314](http://arxiv.org/abs/2406.04314)|null|
-|**2024-06-06**|**Semantically Diverse Language Generation for Uncertainty Estimation in Language Models**|Lukas Aichberger et.al.|[2406.04306](http://arxiv.org/abs/2406.04306)|null|
+|**2024-06-06**|**Semantically Diverse Language Generation for Uncertainty Estimation in Language Models**|Lukas Aichberger et.al.|[2406.04306](http://arxiv.org/abs/2406.04306)|**[link](https://github.com/ml-jku/SDLG)**|
 |**2024-06-06**|**Text-to-Drive: Diverse Driving Behavior Synthesis via Large Language Models**|Phat Nguyen et.al.|[2406.04300](http://arxiv.org/abs/2406.04300)|null|
 |**2024-06-06**|**What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages**|Nadav Borenstein et.al.|[2406.04289](http://arxiv.org/abs/2406.04289)|null|
-|**2024-06-06**|**Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People**|Dun-Ming Huang et.al.|[2406.04278](http://arxiv.org/abs/2406.04278)|null|
+|**2024-06-06**|**Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People**|Dun-Ming Huang et.al.|[2406.04278](http://arxiv.org/abs/2406.04278)|**[link](https://github.com/jacobyn/SamplingTonesACL)**|
 |**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496](http://arxiv.org/abs/2406.03496)|null|
 |**2024-06-06**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Ao Sun et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
 |**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487](http://arxiv.org/abs/2406.03487)|null|
@@ -3622,7 +3622,7 @@
 |**2024-03-20**|**VL-Mamba: Exploring State Space Models for Multimodal Learning**|Yanyuan Qiao et.al.|[2403.13600](http://arxiv.org/abs/2403.13600)|null|
 |**2024-03-20**|**No more optimization rules: LLM-enabled policy-based multi-modal query optimizer (version 1)**|Yifan Wang et.al.|[2403.13597](http://arxiv.org/abs/2403.13597)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
