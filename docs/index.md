@@ -690,7 +690,7 @@ layout: default
 |**2024-02-09**|**Large Language Models for Captioning and Retrieving Remote Sensing Images**|João Daniel Silva et.al.|[2402.06475](http://arxiv.org/abs/2402.06475)|null|
 |**2024-02-09**|**PAS-SLAM: A Visual SLAM System for Planar Ambiguous Scenes**|Xinggang Hu et.al.|[2402.06131](http://arxiv.org/abs/2402.06131)|null|
 |**2024-02-21**|**MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**|Heng Zhou et.al.|[2402.03762](http://arxiv.org/abs/2402.03762)|null|
-|**2024-02-04**|**Region-Based Representations Revisited**|Michal Shlapentokh-Rothman et.al.|[2402.02352](http://arxiv.org/abs/2402.02352)|null|
+|**2024-02-04**|**Region-Based Representations Revisited**|Michal Shlapentokh-Rothman et.al.|[2402.02352](http://arxiv.org/abs/2402.02352)|**[link](https://github.com/michalsr/regions)**|
 |**2024-02-03**|**Zero-shot sketch-based remote sensing image retrieval based on multi-level and attention-guided tokenization**|Bo Yang et.al.|[2402.02141](http://arxiv.org/abs/2402.02141)|**[link](https://github.com/snowstormfly/cross-modal-retrieval-mlagt)**|
 |**2024-02-01**|**BrainSLAM: SLAM on Neural Population Activity Data**|Kipp Freud et.al.|[2402.00588](http://arxiv.org/abs/2402.00588)|null|
 |**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330](http://arxiv.org/abs/2402.00330)|**[link](https://github.com/imrl/night-rider)**|
@@ -734,7 +734,7 @@ layout: default
 |**2023-12-14**|**Training-free Zero-shot Composed Image Retrieval with Local Concept Reranking**|Shitong Sun et.al.|[2312.08924](http://arxiv.org/abs/2312.08924)|null|
 |**2023-12-13**|**C-BEV: Contrastive Bird's Eye View Training for Cross-View Image Retrieval and 3-DoF Pose Estimation**|Florian Fervers et.al.|[2312.08060](http://arxiv.org/abs/2312.08060)|null|
 |**2023-12-12**|**Contextually Affinitive Neighborhood Refinery for Deep Clustering**|Chunlin Yu et.al.|[2312.07806](http://arxiv.org/abs/2312.07806)|**[link](https://github.com/cly234/deepclustering-connr)**|
-|**2023-12-12**|**Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval**|Qiwei Tian et.al.|[2312.07364](http://arxiv.org/abs/2312.07364)|null|
+|**2023-12-12**|**Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval**|Qiwei Tian et.al.|[2312.07364](http://arxiv.org/abs/2312.07364)|**[link](https://github.com/michaeltian108/ca-tride)**|
 |**2023-12-12**|**Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection**|Jonathan J. Y. Kim et.al.|[2312.06991](http://arxiv.org/abs/2312.06991)|null|
 |**2023-12-11**|**Dynamic Weighted Combiner for Mixed-Modal Image Retrieval**|Fuxiang Huang et.al.|[2312.06179](http://arxiv.org/abs/2312.06179)|**[link](https://github.com/fuxianghuang1/dwc)**|
 |**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781](http://arxiv.org/abs/2312.03781)|null|
@@ -2678,8 +2678,8 @@ layout: default
 |**2024-06-03**|**Extending Structural Causal Models for Use in Autonomous Embodied Systems**|Rhys Howard et.al.|[2406.01384](http://arxiv.org/abs/2406.01384)|**[link](https://github.com/cognitive-robots/scm-aes-paper-resources)**|
 |**2024-05-31**|**Hard Cases Detection in Motion Prediction by Vision-Language Foundation Models**|Yi Yang et.al.|[2405.20991](http://arxiv.org/abs/2405.20991)|**[link](https://github.com/kth-rpl/detect_vlm)**|
 |**2024-05-31**|**Uncertainty Quantification for Bird's Eye View Semantic Segmentation: Methods and Benchmarks**|Linlin Yu et.al.|[2405.20986](http://arxiv.org/abs/2405.20986)|null|
-|**2024-05-31**|**Robust Stable Spiking Neural Networks**|Jianhao Ding et.al.|[2405.20694](http://arxiv.org/abs/2405.20694)|null|
-|**2024-05-30**|**Aquatic Navigation: A Challenging Benchmark for Deep Reinforcement Learning**|Davide Corsi et.al.|[2405.20534](http://arxiv.org/abs/2405.20534)|null|
+|**2024-05-31**|**Robust Stable Spiking Neural Networks**|Jianhao Ding et.al.|[2405.20694](http://arxiv.org/abs/2405.20694)|**[link](https://github.com/DingJianhao/stable-snn)**|
+|**2024-05-30**|**Aquatic Navigation: A Challenging Benchmark for Deep Reinforcement Learning**|Davide Corsi et.al.|[2405.20534](http://arxiv.org/abs/2405.20534)|**[link](https://github.com/dadecampo/SafeRLAUV)**|
 |**2024-05-30**|**OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving**|Lening Wang et.al.|[2405.20337](http://arxiv.org/abs/2405.20337)|**[link](https://github.com/wzzheng/occsora)**|
 |**2024-05-30**|**$\textit{S}^3$ Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323](http://arxiv.org/abs/2405.20323)|**[link](https://github.com/nnanhuang/s3gaussian)**|
 |**2024-05-30**|**Learning Task-relevant Sequence Representations via Intrinsic Dynamics Characteristics in Reinforcement Learning**|Dayang Liang et.al.|[2405.19736](http://arxiv.org/abs/2405.19736)|null|
@@ -2687,7 +2687,7 @@ layout: default
 |**2024-05-31**|**SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation**|Wenchao Sun et.al.|[2405.19620](http://arxiv.org/abs/2405.19620)|**[link](https://github.com/swc-17/sparsedrive)**|
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326](http://arxiv.org/abs/2405.19326)|null|
 |**2024-05-29**|**Real-Time Environment Condition Classification for Autonomous Vehicles**|Marco Introvigne et.al.|[2405.19305](http://arxiv.org/abs/2405.19305)|**[link](https://github.com/marcointrovigne/WeatherDetection)**|
-|**2024-05-29**|**Conditional Latent ODEs for Motion Prediction in Autonomous Driving**|Khang Truong Giang et.al.|[2405.19183](http://arxiv.org/abs/2405.19183)|null|
+|**2024-05-29**|**Conditional Latent ODEs for Motion Prediction in Autonomous Driving**|Khang Truong Giang et.al.|[2405.19183](http://arxiv.org/abs/2405.19183)|**[link](https://github.com/truongkhang/clode)**|
 |**2024-05-29**|**Quantum Optimal Control of Squeezing in Cavity Optomechanics**|Anton Halaski et.al.|[2405.19070](http://arxiv.org/abs/2405.19070)|null|
 |**2024-05-29**|**A Good Foundation is Worth Many Labels: Label-Efficient Panoptic Segmentation**|Niclas Vödisch et.al.|[2405.19035](http://arxiv.org/abs/2405.19035)|**[link](https://github.com/robot-learning-freiburg/PASTEL)**|
 |**2024-05-29**|**Optimizing Vehicular Networks with Variational Quantum Circuits-based Reinforcement Learning**|Zijiang Yan et.al.|[2405.18984](http://arxiv.org/abs/2405.18984)|null|
@@ -2710,7 +2710,7 @@ layout: default
 |**2024-05-27**|**DINO-SD: Champion Solution for ICRA 2024 RoboDepth Challenge**|Yifan Mao et.al.|[2405.17102](http://arxiv.org/abs/2405.17102)|null|
 |**2024-05-27**|**A Two-Level Stochastic Model for the Lateral Movement of Vehicles Within Their Lane Under Homogeneous Traffic Conditions**|Nicole Neis et.al.|[2405.17080](http://arxiv.org/abs/2405.17080)|null|
 |**2024-05-27**|**SCaRL- A Synthetic Multi-Modal Dataset for Autonomous Driving**|Avinash Nittur Ramesh et.al.|[2405.17030](http://arxiv.org/abs/2405.17030)|null|
-|**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677](http://arxiv.org/abs/2405.15677)|null|
+|**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677](http://arxiv.org/abs/2405.15677)|**[link](https://github.com/regenmacher22/SMART)**|
 |**2024-05-24**|**Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving**|Jianbiao Mei et.al.|[2405.15324](http://arxiv.org/abs/2405.15324)|**[link](https://github.com/pjlab-adg/leapad)**|
 |**2024-05-24**|**3D Unsupervised Learning by Distilling 2D Open-Vocabulary Segmentation Models for Autonomous Driving**|Boyi Sun et.al.|[2405.15286](http://arxiv.org/abs/2405.15286)|**[link](https://github.com/sbysbysbys/uov)**|
 |**2024-05-24**|**Talk to Parallel LiDARs: A Human-LiDAR Interaction Method Based on 3D Visual Grounding**|Yuhang Liu et.al.|[2405.15274](http://arxiv.org/abs/2405.15274)|null|
@@ -3062,7 +3062,7 @@ layout: default
 |**2024-06-07**|**What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages**|Nadav Borenstein et.al.|[2406.04289](http://arxiv.org/abs/2406.04289)|null|
 |**2024-06-06**|**Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People**|Dun-Ming Huang et.al.|[2406.04278](http://arxiv.org/abs/2406.04278)|**[link](https://github.com/jacobyn/SamplingTonesACL)**|
 |**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496](http://arxiv.org/abs/2406.03496)|null|
-|**2024-06-06**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Ao Sun et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
+|**2024-06-06**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Ao Sun et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|**[link](https://github.com/maydomine/seq1f1b)**|
 |**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487](http://arxiv.org/abs/2406.03487)|null|
 |**2024-06-05**|**BIPED: Pedagogically Informed Tutoring System for ESL Education**|Soonwoo Kwon et.al.|[2406.03486](http://arxiv.org/abs/2406.03486)|null|
 |**2024-06-05**|**Does your data spark joy? Performance gains from domain upsampling at the end of training**|Cody Blakeney et.al.|[2406.03476](http://arxiv.org/abs/2406.03476)|null|
@@ -3077,9 +3077,9 @@ layout: default
 |**2024-06-04**|**Loki: Low-Rank Keys for Efficient Sparse Attention**|Prajwal Singhania et.al.|[2406.02542](http://arxiv.org/abs/2406.02542)|null|
 |**2024-06-04**|**Parrot: Multilingual Visual Instruction Tuning**|Hai-Long Sun et.al.|[2406.02539](http://arxiv.org/abs/2406.02539)|null|
 |**2024-06-04**|**Mitigate Position Bias in Large Language Models via Scaling a Single Dimension**|Yijiong Yu et.al.|[2406.02536](http://arxiv.org/abs/2406.02536)|null|
-|**2024-06-04**|**SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices**|Ruslan Svirschevski et.al.|[2406.02532](http://arxiv.org/abs/2406.02532)|null|
+|**2024-06-04**|**SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices**|Ruslan Svirschevski et.al.|[2406.02532](http://arxiv.org/abs/2406.02532)|**[link](https://github.com/yandex-research/specexec)**|
 |**2024-06-04**|**Scalable MatMul-free Language Modeling**|Rui-Jie Zhu et.al.|[2406.02528](http://arxiv.org/abs/2406.02528)|**[link](https://github.com/ridgerchu/matmulfreellm)**|
-|**2024-06-04**|**CheckEmbed: Effective Verification of LLM Solutions to Open-Ended Tasks**|Maciej Besta et.al.|[2406.02524](http://arxiv.org/abs/2406.02524)|null|
+|**2024-06-04**|**CheckEmbed: Effective Verification of LLM Solutions to Open-Ended Tasks**|Maciej Besta et.al.|[2406.02524](http://arxiv.org/abs/2406.02524)|**[link](https://github.com/spcl/checkembed)**|
 |**2024-06-04**|**RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots**|Soroush Nasiriany et.al.|[2406.02523](http://arxiv.org/abs/2406.02523)|null|
 |**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075](http://arxiv.org/abs/2405.21075)|null|
 |**2024-05-31**|**Grammar-Aligned Decoding**|Kanghee Park et.al.|[2405.21047](http://arxiv.org/abs/2405.21047)|null|
@@ -3098,7 +3098,7 @@ layout: default
 |**2024-05-30**|**CausalQuest: Collecting Natural Causal Questions for AI Agents**|Roberto Ceraolo et.al.|[2405.20318](http://arxiv.org/abs/2405.20318)|**[link](https://github.com/roberto-ceraolo/causal-quest)**|
 |**2024-05-30**|**ANAH: Analytical Annotation of Hallucinations in Large Language Models**|Ziwei Ji et.al.|[2405.20315](http://arxiv.org/abs/2405.20315)|**[link](https://github.com/open-compass/anah)**|
 |**2024-05-30**|**Sequence-Augmented SE(3)-Flow Matching For Conditional Protein Backbone Generation**|Guillaume Huguet et.al.|[2405.20313](http://arxiv.org/abs/2405.20313)|null|
-|**2024-05-30**|**Large Language Models Can Self-Improve At Web Agent Tasks**|Ajay Patel et.al.|[2405.20309](http://arxiv.org/abs/2405.20309)|null|
+|**2024-05-30**|**Large Language Models Can Self-Improve At Web Agent Tasks**|Ajay Patel et.al.|[2405.20309](http://arxiv.org/abs/2405.20309)|**[link](https://github.com/AjayP13/webdreamer)**|
 |**2024-05-30**|**Group Robust Preference Optimization in Reward-free RLHF**|Shyam Sundhar Ramesh et.al.|[2405.20304](http://arxiv.org/abs/2405.20304)|**[link](https://github.com/rsshyam/Group-robust-preference-optimization)**|
 |**2024-05-30**|**Who Writes the Review, Human or AI?**|Panagiotis C. Theocharopoulos et.al.|[2405.20285](http://arxiv.org/abs/2405.20285)|null|
 |**2024-05-29**|**X-VILA: Cross-Modality Alignment for Large Language Model**|Hanrong Ye et.al.|[2405.19335](http://arxiv.org/abs/2405.19335)|null|
@@ -3106,7 +3106,7 @@ layout: default
 |**2024-05-29**|**Multi-Modal Generative Embedding Model**|Feipeng Ma et.al.|[2405.19333](http://arxiv.org/abs/2405.19333)|null|
 |**2024-05-29**|**Self-Exploring Language Models: Active Preference Elicitation for Online Alignment**|Shenao Zhang et.al.|[2405.19332](http://arxiv.org/abs/2405.19332)|**[link](https://github.com/shenao-zhang/selm)**|
 |**2024-05-29**|**Normative Modules: A Generative Agent Architecture for Learning Norms that Supports Multi-Agent Cooperation**|Atrisha Sarkar et.al.|[2405.19328](http://arxiv.org/abs/2405.19328)|null|
-|**2024-05-30**|**MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series**|Ge Zhang et.al.|[2405.19327](http://arxiv.org/abs/2405.19327)|null|
+|**2024-05-30**|**MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series**|Ge Zhang et.al.|[2405.19327](http://arxiv.org/abs/2405.19327)|**[link](https://github.com/multimodal-art-projection/map-neo)**|
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326](http://arxiv.org/abs/2405.19326)|null|
 |**2024-05-29**|**Nearest Neighbor Speculative Decoding for LLM Generation and Attribution**|Minghan Li et.al.|[2405.19325](http://arxiv.org/abs/2405.19325)|null|
 |**2024-05-29**|**Are Large Language Models Chameleons?**|Mingmeng Geng et.al.|[2405.19323](http://arxiv.org/abs/2405.19323)|null|
@@ -3416,7 +3416,7 @@ layout: default
 |**2024-04-15**|**Unveiling Imitation Learning: Exploring the Impact of Data Falsity to Large Language Model**|Hyunsoo Cho et.al.|[2404.09717](http://arxiv.org/abs/2404.09717)|null|
 |**2024-04-15**|**Enhancing Robot Explanation Capabilities through Vision-Language Models: a Preliminary Study by Interpreting Visual Inputs for Improved Human-Robot Interaction**|David Sobrín-Hidalgo et.al.|[2404.09705](http://arxiv.org/abs/2404.09705)|null|
 |**2024-04-15**|**Generative AI for Game Theory-based Mobile Networking**|Long He et.al.|[2404.09699](http://arxiv.org/abs/2404.09699)|null|
-|**2024-04-15**|**Are Large Language Models Reliable Argument Quality Annotators?**|Nailia Mirzakhmedova et.al.|[2404.09696](http://arxiv.org/abs/2404.09696)|null|
+|**2024-04-15**|**Are Large Language Models Reliable Argument Quality Annotators?**|Nailia Mirzakhmedova et.al.|[2404.09696](http://arxiv.org/abs/2404.09696)|**[link](https://github.com/webis-de/ratio-24)**|
 |**2024-04-15**|**LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models**|Guangyan Li et.al.|[2404.09695](http://arxiv.org/abs/2404.09695)|null|
 |**2024-04-15**|**Multi-News+: Cost-efficient Dataset Cleansing via LLM-based Data Annotation**|Juhwan Choi et.al.|[2404.09682](http://arxiv.org/abs/2404.09682)|null|
 |**2024-04-15**|**Do LLMs Understand Visual Anomalies? Uncovering LLM Capabilities in Zero-shot Anomaly Detection**|Jiaqi Zhu et.al.|[2404.09654](http://arxiv.org/abs/2404.09654)|null|
