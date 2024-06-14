@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2652,7 +2652,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-12**|**Enhancing End-to-End Autonomous Driving with Latent World Model**|Yingyan Li et.al.|[2406.08481](http://arxiv.org/abs/2406.08481)|null|
+|**2024-06-12**|**Enhancing End-to-End Autonomous Driving with Latent World Model**|Yingyan Li et.al.|[2406.08481](http://arxiv.org/abs/2406.08481)|**[link](https://github.com/bravegroup/law)**|
 |**2024-06-12**|**PRIBOOT: A New Data-Driven Expert for Improved Driving Simulations**|Daniel Coelho et.al.|[2406.08421](http://arxiv.org/abs/2406.08421)|null|
 |**2024-06-12**|**LaneCPP: Continuous 3D Lane Detection using Physical Priors**|Maximilian Pittner et.al.|[2406.08381](http://arxiv.org/abs/2406.08381)|null|
 |**2024-06-12**|**Utilizing Navigation Path to Generate Target Point for Enhanced End-to-End Autonomous Driving Planning**|Yuanhua Shen et.al.|[2406.08349](http://arxiv.org/abs/2406.08349)|null|
@@ -3080,14 +3080,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477](http://arxiv.org/abs/2406.08477)|null|
-|**2024-06-12**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474](http://arxiv.org/abs/2406.08474)|null|
+|**2024-06-13**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474](http://arxiv.org/abs/2406.08474)|null|
 |**2024-06-12**|**Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing**|Zhangchen Xu et.al.|[2406.08464](http://arxiv.org/abs/2406.08464)|null|
-|**2024-06-12**|**TasTe: Teaching Large Language Models to Translate through Self-Reflection**|Yutong Wang et.al.|[2406.08434](http://arxiv.org/abs/2406.08434)|null|
+|**2024-06-12**|**TasTe: Teaching Large Language Models to Translate through Self-Reflection**|Yutong Wang et.al.|[2406.08434](http://arxiv.org/abs/2406.08434)|**[link](https://github.com/yutongwang1216/reflectionllmmt)**|
 |**2024-06-12**|**Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL**|Zijin Hong et.al.|[2406.08426](http://arxiv.org/abs/2406.08426)|null|
 |**2024-06-12**|**OmniCorpus: An Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text**|Qingyun Li et.al.|[2406.08418](http://arxiv.org/abs/2406.08418)|**[link](https://github.com/opengvlab/omnicorpus)**|
-|**2024-06-12**|**Discovering Preference Optimization Algorithms with and for Large Language Models**|Chris Lu et.al.|[2406.08414](http://arxiv.org/abs/2406.08414)|null|
+|**2024-06-12**|**Discovering Preference Optimization Algorithms with and for Large Language Models**|Chris Lu et.al.|[2406.08414](http://arxiv.org/abs/2406.08414)|**[link](https://github.com/luchris429/DiscoPOP)**|
 |**2024-06-12**|**Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference**|Christopher Wolters et.al.|[2406.08413](http://arxiv.org/abs/2406.08413)|null|
-|**2024-06-12**|**Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models**|Chun-Yi Kuan et.al.|[2406.08402](http://arxiv.org/abs/2406.08402)|null|
+|**2024-06-12**|**Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models**|Chun-Yi Kuan et.al.|[2406.08402](http://arxiv.org/abs/2406.08402)|**[link](https://github.com/kuan2jiu99/audio-hallucination)**|
 |**2024-06-12**|**cPAPERS: A Dataset of Situated and Multimodal Interactive Conversations in Scientific Papers**|Anirudh Sundar et.al.|[2406.08398](http://arxiv.org/abs/2406.08398)|null|
 |**2024-06-11**|**Open-LLM-Leaderboard: From Multi-choice to Open-style Questions for LLMs Evaluation, Benchmark, and Arena**|Aidar Myrzakhan et.al.|[2406.07545](http://arxiv.org/abs/2406.07545)|**[link](https://github.com/vila-lab/open-llm-leaderboard)**|
 |**2024-06-11**|**QuickLLaMA: Query-aware Inference Acceleration for Large Language Models**|Jingyao Li et.al.|[2406.07528](http://arxiv.org/abs/2406.07528)|**[link](https://github.com/dvlab-research/q-llm)**|
