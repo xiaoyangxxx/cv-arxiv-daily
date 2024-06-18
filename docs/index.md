@@ -2652,6 +2652,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**A First Physical-World Trajectory Prediction Attack via LiDAR-induced Deceptions in Autonomous Driving**|Yang Lou et.al.|[2406.11707](http://arxiv.org/abs/2406.11707)|null|
+|**2024-06-17**|**Communication-Efficient MARL for Platoon Stability and Energy-efficiency Co-optimization in Cooperative Adaptive Cruise Control of CAVs**|Min Hua et.al.|[2406.11653](http://arxiv.org/abs/2406.11653)|null|
+|**2024-06-17**|**Constrained Reinforcement Learning with Average Reward Objective: Model-Based and Model-Free Algorithms**|Vaneet Aggarwal et.al.|[2406.11481](http://arxiv.org/abs/2406.11481)|null|
+|**2024-06-17**|**Semi-Supervised Domain Adaptation Using Target-Oriented Domain Augmentation for 3D Object Detection**|Yecheol Kim et.al.|[2406.11313](http://arxiv.org/abs/2406.11313)|**[link](https://github.com/rasd3/toda)**|
+|**2024-06-17**|**Model Adaptation for Time Constrained Embodied Control**|Jaehyun Song et.al.|[2406.11128](http://arxiv.org/abs/2406.11128)|null|
+|**2024-06-16**|**SparseDet: A Simple and Effective Framework for Fully Sparse LiDAR-based 3D Object Detection**|Lin Liu et.al.|[2406.10907](http://arxiv.org/abs/2406.10907)|null|
+|**2024-06-16**|**TrafficBots V1.5: Traffic Simulation via Conditional VAEs and Transformers with Relative Pose Encoding**|Zhejun Zhang et.al.|[2406.10898](http://arxiv.org/abs/2406.10898)|**[link](https://github.com/zhejz/trafficbotsv1.5)**|
+|**2024-06-16**|**An LLM-enhanced Multi-objective Evolutionary Search for Autonomous Driving Test Scenario Generation**|Haoxiang Tian et.al.|[2406.10857](http://arxiv.org/abs/2406.10857)|null|
+|**2024-06-15**|**GenMM: Geometrically and Temporally Consistent Multimodal Data Generation for Video and LiDAR**|Bharat Singh et.al.|[2406.10722](http://arxiv.org/abs/2406.10722)|null|
+|**2024-06-15**|**Planning with Adaptive World Models for Autonomous Driving**|Arun Balajee Vasudevan et.al.|[2406.10714](http://arxiv.org/abs/2406.10714)|null|
 |**2024-06-14**|**CarLLaVA: Vision language models for camera-only closed-loop driving**|Katrin Renz et.al.|[2406.10165](http://arxiv.org/abs/2406.10165)|null|
 |**2024-06-14**|**MapVision: CVPR 2024 Autonomous Grand Challenge Mapless Driving Tech Report**|Zhongyu Yang et.al.|[2406.10125](http://arxiv.org/abs/2406.10125)|null|
 |**2024-06-14**|**DurLAR: A High-fidelity 128-channel LiDAR Dataset with Panoramic Ambient and Reflectivity Imagery for Multi-modal Autonomous Driving Applications**|Li Li et.al.|[2406.10068](http://arxiv.org/abs/2406.10068)|**[link](https://github.com/l1997i/DurLAR)**|
@@ -3094,6 +3104,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**LLaNA: Large Language and NeRF Assistant**|Andrea Amaduzzi et.al.|[2406.11840](http://arxiv.org/abs/2406.11840)|null|
+|**2024-06-17**|**mDPO: Conditional Preference Optimization for Multimodal Large Language Models**|Fei Wang et.al.|[2406.11839](http://arxiv.org/abs/2406.11839)|null|
+|**2024-06-17**|**Unveiling Encoder-Free Vision-Language Models**|Haiwen Diao et.al.|[2406.11832](http://arxiv.org/abs/2406.11832)|**[link](https://github.com/baaivision/eve)**|
+|**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831](http://arxiv.org/abs/2406.11831)|null|
+|**2024-06-17**|**WPO: Enhancing RLHF with Weighted Preference Optimization**|Wenxuan Zhou et.al.|[2406.11827](http://arxiv.org/abs/2406.11827)|**[link](https://github.com/wzhouad/wpo)**|
+|**2024-06-17**|**Embodied Instruction Following in Unknown Environments**|Zhenyu Wu et.al.|[2406.11818](http://arxiv.org/abs/2406.11818)|null|
+|**2024-06-17**|**VideoLLM-online: Online Video Large Language Model for Streaming Video**|Joya Chen et.al.|[2406.11816](http://arxiv.org/abs/2406.11816)|null|
+|**2024-06-17**|**How Do Large Language Models Acquire Factual Knowledge During Pretraining?**|Hoyeon Chang et.al.|[2406.11813](http://arxiv.org/abs/2406.11813)|null|
+|**2024-06-17**|**RepLiQA: A Question-Answering Dataset for Benchmarking LLMs on Unseen Reference Content**|Joao Monteiro et.al.|[2406.11811](http://arxiv.org/abs/2406.11811)|null|
+|**2024-06-17**|**Safety Arithmetic: A Framework for Test-time Safety Alignment of Language Models by Steering Parameters and Activations**|Rima Hazra et.al.|[2406.11801](http://arxiv.org/abs/2406.11801)|**[link](https://github.com/declare-lab/safety-arithmetic)**|
 |**2024-06-14**|**Quantifying Variance in Evaluation Benchmarks**|Lovish Madaan et.al.|[2406.10229](http://arxiv.org/abs/2406.10229)|null|
 |**2024-06-14**|**Semantic Membership Inference Attack against Large Language Models**|Hamid Mozaffari et.al.|[2406.10218](http://arxiv.org/abs/2406.10218)|null|
 |**2024-06-14**|**Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs**|Rui Yang et.al.|[2406.10216](http://arxiv.org/abs/2406.10216)|null|
