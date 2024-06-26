@@ -2676,6 +2676,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**End-to-End Autonomous Driving without Costly Modularization and 3D Manual Annotation**|Mingzhe Guo et.al.|[2406.17680](http://arxiv.org/abs/2406.17680)|null|
+|**2024-06-25**|**MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**|Michelle Adeline et.al.|[2406.17654](http://arxiv.org/abs/2406.17654)|null|
+|**2024-06-25**|**Querying Labeled Time Series Data with Scenario Programs**|Devan Shanker et.al.|[2406.17627](http://arxiv.org/abs/2406.17627)|null|
+|**2024-06-25**|**Image-Guided Outdoor LiDAR Perception Quality Assessment for Autonomous Driving**|Ce Zhang et.al.|[2406.17265](http://arxiv.org/abs/2406.17265)|null|
 |**2024-06-24**|**GPT-4V Explorations: Mining Autonomous Driving**|Zixuan Li et.al.|[2406.16817](http://arxiv.org/abs/2406.16817)|null|
 |**2024-06-24**|**ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets**|Bowen Xu et.al.|[2406.16713](http://arxiv.org/abs/2406.16713)|null|
 |**2024-06-24**|**SegNet4D: Effective and Efficient 4D LiDAR Semantic Segmentation in Autonomous Driving Environments**|Neng Wang et.al.|[2406.16279](http://arxiv.org/abs/2406.16279)|**[link](https://github.com/nubot-nudt/segnet4d)**|
@@ -3159,6 +3163,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning**|Xiangyu Zhao et.al.|[2406.17770](http://arxiv.org/abs/2406.17770)|**[link](https://github.com/phoenixz810/mg-llava)**|
+|**2024-06-25**|**BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning**|Ercong Nie et.al.|[2406.17764](http://arxiv.org/abs/2406.17764)|null|
+|**2024-06-25**|**CaLMQA: Exploring culturally specific long-form question answering across 23 languages**|Shane Arora et.al.|[2406.17761](http://arxiv.org/abs/2406.17761)|**[link](https://github.com/2015aroras/calmqa)**|
+|**2024-06-25**|**Accelerating Clinical Evidence Synthesis with Large Language Models**|Zifeng Wang et.al.|[2406.17755](http://arxiv.org/abs/2406.17755)|null|
+|**2024-06-25**|**Measuring and Benchmarking Large Language Models' Capabilities to Generate Persuasive Language**|Amalie Brogaard Pauli et.al.|[2406.17753](http://arxiv.org/abs/2406.17753)|null|
+|**2024-06-25**|**LLM Targeted Underperformance Disproportionately Impacts Vulnerable Users**|Elinor Poole-Dayan et.al.|[2406.17737](http://arxiv.org/abs/2406.17737)|null|
+|**2024-06-25**|**FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model**|Feijie Wu et.al.|[2406.17706](http://arxiv.org/abs/2406.17706)|null|
+|**2024-06-25**|**From Distributional to Overton Pluralism: Investigating Large Language Model Alignment**|Thom Lake et.al.|[2406.17692](http://arxiv.org/abs/2406.17692)|**[link](https://github.com/thomlake/investigating-alignment)**|
+|**2024-06-25**|**VarBench: Robust Language Model Benchmarking Through Dynamic Variable Perturbation**|Kun Qian et.al.|[2406.17681](http://arxiv.org/abs/2406.17681)|null|
+|**2024-06-25**|**Quantifying AI Psychology: A Psychometrics Benchmark for Large Language Models**|Yuan Li et.al.|[2406.17675](http://arxiv.org/abs/2406.17675)|null|
 |**2024-06-24**|**EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**|Yuhui Li et.al.|[2406.16858](http://arxiv.org/abs/2406.16858)|null|
 |**2024-06-24**|**From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models**|Sean Welleck et.al.|[2406.16838](http://arxiv.org/abs/2406.16838)|null|
 |**2024-06-24**|**USDC: A Dataset of $\underline{U}$ser $\underline{S}$tance and $\underline{D}$ogmatism in Long $\underline{C}$ onversations**|Mounika Marreddy et.al.|[2406.16833](http://arxiv.org/abs/2406.16833)|null|
