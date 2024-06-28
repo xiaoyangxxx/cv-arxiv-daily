@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2652,9 +2652,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-26**|**XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis**|Hao Li et.al.|[2406.18360](http://arxiv.org/abs/2406.18360)|null|
+|**2024-06-27**|**XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis**|Hao Li et.al.|[2406.18360](http://arxiv.org/abs/2406.18360)|null|
 |**2024-06-25**|**End-to-End Autonomous Driving without Costly Modularization and 3D Manual Annotation**|Mingzhe Guo et.al.|[2406.17680](http://arxiv.org/abs/2406.17680)|null|
-|**2024-06-25**|**MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**|Michelle Adeline et.al.|[2406.17654](http://arxiv.org/abs/2406.17654)|null|
+|**2024-06-25**|**MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**|Michelle Adeline et.al.|[2406.17654](http://arxiv.org/abs/2406.17654)|**[link](https://github.com/naomiex/mdha)**|
 |**2024-06-25**|**Querying Labeled Time Series Data with Scenario Programs**|Devan Shanker et.al.|[2406.17627](http://arxiv.org/abs/2406.17627)|null|
 |**2024-06-25**|**Image-Guided Outdoor LiDAR Perception Quality Assessment for Autonomous Driving**|Ce Zhang et.al.|[2406.17265](http://arxiv.org/abs/2406.17265)|null|
 |**2024-06-24**|**GPT-4V Explorations: Mining Autonomous Driving**|Zixuan Li et.al.|[2406.16817](http://arxiv.org/abs/2406.16817)|null|
