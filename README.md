@@ -2676,6 +2676,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**|Olga Zatsarynna et.al.|[2407.11954](http://arxiv.org/abs/2407.11954)|null|
+|**2024-07-16**|**MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation**|Xiaoshuai Hao et.al.|[2407.11682](http://arxiv.org/abs/2407.11682)|null|
+|**2024-07-16**|**Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures**|Guoliang You et.al.|[2407.11644](http://arxiv.org/abs/2407.11644)|null|
+|**2024-07-16**|**Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts**|Jianhao Li et.al.|[2407.11382](http://arxiv.org/abs/2407.11382)|null|
+|**2024-07-16**|**Continuity Preserving Online CenterLine Graph Learning**|Yunhui Han et.al.|[2407.11337](http://arxiv.org/abs/2407.11337)|**[link](https://github.com/xiaomi/cgnet)**|
 |**2024-07-15**|**RepVF: A Unified Vector Fields Representation for Multi-task 3D Perception**|Chunliang Li et.al.|[2407.10876](http://arxiv.org/abs/2407.10876)|**[link](https://github.com/jbji/repvf)**|
 |**2024-07-15**|**DINO Pre-training for Vision-based End-to-end Autonomous Driving**|Shubham Juneja et.al.|[2407.10803](http://arxiv.org/abs/2407.10803)|null|
 |**2024-07-14**|**Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models**|Yuchen Yang et.al.|[2407.10299](http://arxiv.org/abs/2407.10299)|null|
@@ -3178,6 +3183,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems**|Shuolong Chen et.al.|[2407.11420](http://arxiv.org/abs/2407.11420)|null|
 |**2024-07-12**|**Uplifting Range-View-based 3D Semantic Segmentation in Real-Time with Multi-Sensor Fusion**|Shiqi Tan et.al.|[2407.09697](http://arxiv.org/abs/2407.09697)|null|
 |**2024-07-04**|**ConPR: Ongoing Construction Site Dataset for Place Recognition**|Dongjae Lee et.al.|[2407.03684](http://arxiv.org/abs/2407.03684)|**[link](https://github.com/dongjae0107/conpr)**|
 |**2024-07-03**|**Efficient Fusion and Task Guided Embedding for End-to-end Autonomous Driving**|Yipin Guo et.al.|[2407.02878](http://arxiv.org/abs/2407.02878)|null|
@@ -3244,6 +3250,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**UrbanWorld: An Urban World Model for 3D City Generation**|Yu Shang et.al.|[2407.11965](http://arxiv.org/abs/2407.11965)|null|
+|**2024-07-16**|**NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?**|Mo Li et.al.|[2407.11963](http://arxiv.org/abs/2407.11963)|**[link](https://github.com/open-compass/opencompass)**|
+|**2024-07-16**|**Code Documentation and Analysis to Secure Software Development**|Paul Attie et.al.|[2407.11934](http://arxiv.org/abs/2407.11934)|null|
+|**2024-07-16**|**What's Wrong? Refining Meeting Summaries with LLM Feedback**|Frederic Kirstein et.al.|[2407.11919](http://arxiv.org/abs/2407.11919)|null|
+|**2024-07-16**|**Ascend-CC: Confidential Computing on Heterogeneous NPU for Emerging Generative AI Workloads**|Aritra Dhar et.al.|[2407.11888](http://arxiv.org/abs/2407.11888)|null|
+|**2024-07-16**|**Schema Matching with Large Language Models: an Experimental Study**|Marcel Parciak et.al.|[2407.11852](http://arxiv.org/abs/2407.11852)|**[link](https://github.com/uhasselt-dsi-data-systems-lab/code-schema-matching-llms-artefacs)**|
+|**2024-07-16**|**LoFTI: Localization and Factuality Transfer to Indian Locales**|Sona Elza Simon et.al.|[2407.11833](http://arxiv.org/abs/2407.11833)|**[link](https://github.com/csalt-research/lofti)**|
+|**2024-07-16**|**GPT Assisted Annotation of Rhetorical and Linguistic Features for Interpretable Propaganda Technique Detection in News Text**|Kyle Hamilton et.al.|[2407.11827](http://arxiv.org/abs/2407.11827)|null|
+|**2024-07-16**|**PipeInfer: Accelerating LLM Inference using Asynchronous Pipelined Speculation**|Branden Butler et.al.|[2407.11798](http://arxiv.org/abs/2407.11798)|null|
+|**2024-07-16**|**Large Language Models as Misleading Assistants in Conversation**|Betty Li Hou et.al.|[2407.11789](http://arxiv.org/abs/2407.11789)|null|
 |**2024-07-15**|**VGBench: Evaluating Large Language Models on Vector Graphics Understanding and Generation**|Bocheng Zou et.al.|[2407.10972](http://arxiv.org/abs/2407.10972)|**[link](https://github.com/vgbench/VGBench)**|
 |**2024-07-15**|**Q-Sparse: All Large Language Models can be Fully Sparsely-Activated**|Hongyu Wang et.al.|[2407.10969](http://arxiv.org/abs/2407.10969)|null|
 |**2024-07-15**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960](http://arxiv.org/abs/2407.10960)|null|
