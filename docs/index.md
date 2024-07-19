@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2652,6 +2652,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**|Sehwan Choi et.al.|[2407.13517](http://arxiv.org/abs/2407.13517)|null|
+|**2024-07-18**|**Risk-Aware Vehicle Trajectory Prediction Under Safety-Critical Scenarios**|Qingfan Wang et.al.|[2407.13480](http://arxiv.org/abs/2407.13480)|null|
+|**2024-07-18**|**Improving Out-of-Distribution Generalization of Trajectory Prediction for Autonomous Driving via Polynomial Representations**|Yue Yao et.al.|[2407.13431](http://arxiv.org/abs/2407.13431)|null|
+|**2024-07-18**|**Ultra-Low-Latency Edge Inference for Distributed Sensing**|Zhanwei Wang et.al.|[2407.13360](http://arxiv.org/abs/2407.13360)|null|
+|**2024-07-18**|**$μ$ Drive: User-Controlled Autonomous Driving**|Kun Wang et.al.|[2407.13201](http://arxiv.org/abs/2407.13201)|null|
+|**2024-07-18**|**Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement**|Yulin He et.al.|[2407.13155](http://arxiv.org/abs/2407.13155)|null|
+|**2024-07-18**|**OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation**|Jian Sun et.al.|[2407.13137](http://arxiv.org/abs/2407.13137)|null|
+|**2024-07-18**|**PG-Attack: A Precision-Guided Adversarial Attack Framework Against Vision Foundation Models for Autonomous Driving**|Jiyuan Fu et.al.|[2407.13111](http://arxiv.org/abs/2407.13111)|null|
+|**2024-07-17**|**Sparsity-based Safety Conservatism for Constrained Offline Reinforcement Learning**|Minjae Cho et.al.|[2407.13006](http://arxiv.org/abs/2407.13006)|null|
+|**2024-07-17**|**KiGRAS: Kinematic-Driven Generative Model for Realistic Agent Simulation**|Jianbo Zhao et.al.|[2407.12940](http://arxiv.org/abs/2407.12940)|null|
 |**2024-07-17**|**AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases**|Zhaorun Chen et.al.|[2407.12784](http://arxiv.org/abs/2407.12784)|null|
 |**2024-07-17**|**Hierarchical and Decoupled BEV Perception Learning Framework for Autonomous Driving**|Yuqi Dai et.al.|[2407.12491](http://arxiv.org/abs/2407.12491)|null|
 |**2024-07-17**|**Fisheye-Calib-Adapter: An Easy Tool for Fisheye Camera Model Conversion**|Sangjun Lee et.al.|[2407.12405](http://arxiv.org/abs/2407.12405)|null|
@@ -3160,6 +3170,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Bosch Street Dataset: A Multi-Modal Dataset with Imaging Radar for Automated Driving**|Karim Armanious et.al.|[2407.12803](http://arxiv.org/abs/2407.12803)|null|
 |**2024-07-16**|**iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems**|Shuolong Chen et.al.|[2407.11420](http://arxiv.org/abs/2407.11420)|null|
 |**2024-07-12**|**Uplifting Range-View-based 3D Semantic Segmentation in Real-Time with Multi-Sensor Fusion**|Shiqi Tan et.al.|[2407.09697](http://arxiv.org/abs/2407.09697)|null|
 |**2024-07-04**|**ConPR: Ongoing Construction Site Dataset for Place Recognition**|Dongjae Lee et.al.|[2407.03684](http://arxiv.org/abs/2407.03684)|**[link](https://github.com/dongjae0107/conpr)**|
@@ -3223,6 +3234,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**SegPoint: Segment Any Point Cloud via Large Language Model**|Shuting He et.al.|[2407.13761](http://arxiv.org/abs/2407.13761)|null|
+|**2024-07-18**|**Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models**|Zhuo Chen et.al.|[2407.13757](http://arxiv.org/abs/2407.13757)|null|
+|**2024-07-18**|**CellularLint: A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications**|Mirza Masfiqur Rahman et.al.|[2407.13742](http://arxiv.org/abs/2407.13742)|null|
+|**2024-07-18**|**Baba Is AI: Break the Rules to Beat the Benchmark**|Nathan Cloos et.al.|[2407.13729](http://arxiv.org/abs/2407.13729)|null|
+|**2024-07-18**|**CoDefeater: Using LLMs To Find Defeaters in Assurance Cases**|Usman Gohar et.al.|[2407.13717](http://arxiv.org/abs/2407.13717)|null|
+|**2024-07-18**|**Understanding Reference Policies in Direct Preference Optimization**|Yixin Liu et.al.|[2407.13709](http://arxiv.org/abs/2407.13709)|null|
+|**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699](http://arxiv.org/abs/2407.13699)|null|
+|**2024-07-18**|**Prover-Verifier Games improve legibility of LLM outputs**|Jan Hendrik Kirchner et.al.|[2407.13692](http://arxiv.org/abs/2407.13692)|null|
+|**2024-07-18**|**COMCAT: Leveraging Human Judgment to Improve Automatic Documentation and Summarization**|Skyler Grandel et.al.|[2407.13648](http://arxiv.org/abs/2407.13648)|null|
+|**2024-07-18**|**Weak-to-Strong Reasoning**|Yuqing Yang et.al.|[2407.13647](http://arxiv.org/abs/2407.13647)|null|
 |**2024-07-17**|**EchoSight: Advancing Visual-Language Models with Wiki Knowledge**|Yibin Yan et.al.|[2407.12735](http://arxiv.org/abs/2407.12735)|null|
 |**2024-07-17**|**NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model**|Zhongqun Zhang et.al.|[2407.12727](http://arxiv.org/abs/2407.12727)|null|
 |**2024-07-17**|**Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**|Ben Yao et.al.|[2407.12725](http://arxiv.org/abs/2407.12725)|null|
