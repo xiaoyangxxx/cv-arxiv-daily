@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3190,7 +3190,7 @@ layout: default
 |**2024-05-16**|**NaviSlim: Adaptive Context-Aware Navigation and Sensing via Dynamic Slimmable Networks**|Tim Johnsen et.al.|[2407.01563](http://arxiv.org/abs/2407.01563)|null|
 |**2024-07-01**|**Parallel Computing Architectures for Robotic Applications: A Comprehensive Review**|Md Rafid Islam et.al.|[2407.01011](http://arxiv.org/abs/2407.01011)|null|
 |**2024-06-27**|**RAVE: A Framework for Radar Ego-Velocity Estimation**|Vlaho-Josip Štironja et.al.|[2406.18850](http://arxiv.org/abs/2406.18850)|null|
-|**2024-06-21**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014](http://arxiv.org/abs/2406.09014)|null|
+|**2024-07-23**|**Deep learning empowered sensor fusion boosts infant movement classification**|Tomas Kulvicius et.al.|[2406.09014](http://arxiv.org/abs/2406.09014)|null|
 |**2024-06-10**|**Stabilized Adaptive Steering for 3D Sonar Microphone Arrays with IMU Sensor Fusion**|Wouter Jansen et.al.|[2406.06255](http://arxiv.org/abs/2406.06255)|null|
 |**2024-06-07**|**Harnessing Multimodal Sensing for Multi-user Beamforming in mmWave Systems**|Kartik Patel et.al.|[2406.05300](http://arxiv.org/abs/2406.05300)|null|
 |**2024-05-29**|**On the Condition Monitoring of Bolted Joints through Acoustic Emission and Deep Transfer Learning: Generalization, Ordinal Loss and Super-Convergence**|Emmanuel Ramasso et.al.|[2405.20887](http://arxiv.org/abs/2405.20887)|null|
