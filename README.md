@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -476,7 +476,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## SFM
 
@@ -649,7 +649,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1355,7 +1355,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1570,7 +1570,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1784,7 +1784,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## NeRF
 
@@ -2670,15 +2670,15 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## AD
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-23**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/abs/2407.16680)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
+|**2024-07-24**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/abs/2407.16680)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
 |**2024-07-23**|**Deformable Convolution Based Road Scene Semantic Segmentation of Fisheye Images in Autonomous Driving**|Anam Manzoor et.al.|[2407.16647](http://arxiv.org/abs/2407.16647)|null|
-|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
+|**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
 |**2024-07-23**|**MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection**|Youngmin Oh et.al.|[2407.16448](http://arxiv.org/abs/2407.16448)|**[link](https://github.com/visualaikhu/monowad)**|
 |**2024-07-23**|**Cleaning Robots in Public Spaces: A Survey and Proposal for Benchmarking Based on Stakeholders Interviews**|Raphael Memmesheimer et.al.|[2407.16393](http://arxiv.org/abs/2407.16393)|null|
 |**2024-07-23**|**Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection**|Youqian Zhang et.al.|[2407.16327](http://arxiv.org/abs/2407.16327)|null|
@@ -3209,13 +3209,13 @@
 |**2024-03-18**|**GraphBEV: Towards Robust BEV Feature Alignment for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2403.11848](http://arxiv.org/abs/2403.11848)|null|
 |**2024-03-18**|**EMIE-MAP: Large-Scale Road Surface Reconstruction Based on Explicit Mesh and Implicit Encoding**|Wenhua Wu et.al.|[2403.11789](http://arxiv.org/abs/2403.11789)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## FUSION
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
+|**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
 |**2024-07-22**|**H-infinity Optimization for Active Seismic Isolation Systems in Gravitational-Wave Detectors**|Terrence Tsang et.al.|[2407.15972](http://arxiv.org/abs/2407.15972)|null|
 |**2024-07-18**|**Boosting Online 3D Multi-Object Tracking through Camera-Radar Cross Check**|Sheng-Yao Kuan et.al.|[2407.13937](http://arxiv.org/abs/2407.13937)|null|
 |**2024-06-24**|**Bosch Street Dataset: A Multi-Modal Dataset with Imaging Radar for Automated Driving**|Karim Armanious et.al.|[2407.12803](http://arxiv.org/abs/2407.12803)|null|
@@ -3270,7 +3270,7 @@
 |**2024-03-04**|**COMMIT: Certifying Robustness of Multi-Sensor Fusion Systems against Semantic Attacks**|Zijian Huang et.al.|[2403.02329](http://arxiv.org/abs/2403.02329)|null|
 |**2024-03-13**|**OccFusion: A Straightforward and Effective Multi-Sensor Fusion Framework for 3D Occupancy Prediction**|Zhenxing Ming et.al.|[2403.01644](http://arxiv.org/abs/2403.01644)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## VLM
 
@@ -3280,7 +3280,7 @@
 |**2023-10-24**|**Meta-learning For Vision-and-language Cross-lingual Transfer**|Hanxu Hu et.al.|[2305.14843](http://arxiv.org/abs/2305.14843)|null|
 |**2023-07-07**|**Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model**|Yinghui Xing et.al.|[2208.08340](http://arxiv.org/abs/2208.08340)|**[link](https://github.com/fanrena/dpt)**|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## LLM
 
@@ -3294,8 +3294,8 @@
 |**2024-07-23**|**Exploring Automatic Cryptographic API Misuse Detection in the Era of LLMs**|Yifan Xia et.al.|[2407.16576](http://arxiv.org/abs/2407.16576)|null|
 |**2024-07-23**|**Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models**|Ioana Buhnila et.al.|[2407.16565](http://arxiv.org/abs/2407.16565)|null|
 |**2024-07-23**|**Patched RTC: evaluating LLMs for diverse software development tasks**|Asankhaya Sharma et.al.|[2407.16557](http://arxiv.org/abs/2407.16557)|null|
-|**2024-07-23**|**MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Micro-Expression Dynamics in Video Dialogues**|Liyun Zhang et.al.|[2407.16552](http://arxiv.org/abs/2407.16552)|null|
-|**2024-07-23**|**AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game**|Yizhou Chi et.al.|[2407.16521](http://arxiv.org/abs/2407.16521)|null|
+|**2024-07-24**|**MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Micro-Expression Dynamics in Video Dialogues**|Liyun Zhang et.al.|[2407.16552](http://arxiv.org/abs/2407.16552)|null|
+|**2024-07-24**|**AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game**|Yizhou Chi et.al.|[2407.16521](http://arxiv.org/abs/2407.16521)|null|
 |**2024-07-22**|**AutoAD-Zero: A Training-Free Framework for Zero-Shot Audio Description**|Junyu Xie et.al.|[2407.15850](http://arxiv.org/abs/2407.15850)|**[link](https://github.com/Jyxarthur/AutoAD-Zero)**|
 |**2024-07-22**|**LLMmap: Fingerprinting For Large Language Models**|Dario Pasquini et.al.|[2407.15847](http://arxiv.org/abs/2407.15847)|null|
 |**2024-07-22**|**SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**|Mingze Xu et.al.|[2407.15841](http://arxiv.org/abs/2407.15841)|null|
@@ -4127,7 +4127,7 @@
 |**2024-03-20**|**VL-Mamba: Exploring State Space Models for Multimodal Learning**|Yanyuan Qiao et.al.|[2403.13600](http://arxiv.org/abs/2403.13600)|null|
 |**2024-03-20**|**No more optimization rules: LLM-enabled policy-based multi-modal query optimizer (version 1)**|Yifan Wang et.al.|[2403.13597](http://arxiv.org/abs/2403.13597)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
