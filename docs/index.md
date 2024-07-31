@@ -2652,6 +2652,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Learning Ordinality in Semantic Segmentation**|Rafael Cristino et.al.|[2407.20959](http://arxiv.org/abs/2407.20959)|null|
+|**2024-07-30**|**Optimizing 5G-Advanced Networks for Time-critical Applications: The Role of L4S**|Guangjin Pan et.al.|[2407.20852](http://arxiv.org/abs/2407.20852)|null|
+|**2024-07-30**|**Task-Oriented Communication for Vehicle-to-Infrastructure Cooperative Perception**|Jiawei Shao et.al.|[2407.20748](http://arxiv.org/abs/2407.20748)|null|
+|**2024-07-30**|**Architectural Influence on Variational Quantum Circuits in Multi-Agent Reinforcement Learning: Evolutionary Strategies for Optimization**|Michael Kölle et.al.|[2407.20739](http://arxiv.org/abs/2407.20739)|null|
+|**2024-07-30**|**Scene-Specific Trajectory Sets: Maximizing Representation in Motion Forecasting**|Abhishek Vivekanandan et.al.|[2407.20732](http://arxiv.org/abs/2407.20732)|null|
+|**2024-07-30**|**On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds**|Xu Chen et.al.|[2407.20710](http://arxiv.org/abs/2407.20710)|null|
 |**2024-07-29**|**Collision Probability Distribution Estimation via Temporal Difference Learning**|Thomas Steinecker et.al.|[2407.20000](http://arxiv.org/abs/2407.20000)|**[link](https://github.com/unibwtas/collisionpro)**|
 |**2024-07-29**|**Hydrodynamics of pulsating active liquids**|Tirthankar Banerjee et.al.|[2407.19955](http://arxiv.org/abs/2407.19955)|null|
 |**2024-07-29**|**ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement**|Ezequiel Perez-Zarate et.al.|[2407.19708](http://arxiv.org/abs/2407.19708)|**[link](https://github.com/xingyumex/alen)**|
@@ -3285,6 +3291,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018](http://arxiv.org/abs/2407.21018)|null|
+|**2024-07-30**|**CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning**|Yuexi Du et.al.|[2407.21011](http://arxiv.org/abs/2407.21011)|**[link](https://github.com/xypb/cleft)**|
+|**2024-07-30**|**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**|Yupeng Chen et.al.|[2407.20999](http://arxiv.org/abs/2407.20999)|null|
+|**2024-07-30**|**From Feature Importance to Natural Language Explanations Using LLMs with RAG**|Sule Tekkesinoglu et.al.|[2407.20990](http://arxiv.org/abs/2407.20990)|null|
+|**2024-07-30**|**Large Language Models (LLMs) for Semantic Communication in Edge-based IoT Networks**|Alakesh Kalita et.al.|[2407.20970](http://arxiv.org/abs/2407.20970)|null|
+|**2024-07-30**|**Automated Review Generation Method Based on Large Language Models**|Shican Wu et.al.|[2407.20906](http://arxiv.org/abs/2407.20906)|**[link](https://github.com/tju-ecat-ai/automaticreviewgeneration)**|
+|**2024-07-30**|**ThinkRepair: Self-Directed Automated Program Repair**|Xin Yin et.al.|[2407.20898](http://arxiv.org/abs/2407.20898)|**[link](https://github.com/vinci-grape/ThinkRepair)**|
+|**2024-07-30**|**Effective Black Box Testing of Sentiment Analysis Classification Networks**|Parsa Karbasizadeh et.al.|[2407.20884](http://arxiv.org/abs/2407.20884)|null|
+|**2024-07-30**|**Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification**|Boyang Zhang et.al.|[2407.20859](http://arxiv.org/abs/2407.20859)|null|
+|**2024-07-30**|**Learn by Selling: Equipping Large Language Models with Product Knowledge for Context-Driven Recommendations**|Sarthak Anand et.al.|[2407.20856](http://arxiv.org/abs/2407.20856)|null|
 |**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232](http://arxiv.org/abs/2407.20232)|null|
 |**2024-07-29**|**Can Editing LLMs Inject Harm?**|Canyu Chen et.al.|[2407.20224](http://arxiv.org/abs/2407.20224)|null|
 |**2024-07-29**|**QAEA-DR: A Unified Text Augmentation Framework for Dense Retrieval**|Hongming Tan et.al.|[2407.20207](http://arxiv.org/abs/2407.20207)|null|
