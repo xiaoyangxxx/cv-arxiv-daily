@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.01
+## Updated on 2024.08.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2653,7 +2653,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-31**|**MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction**|Seongju Lee et.al.|[2407.21635](http://arxiv.org/abs/2407.21635)|null|
-|**2024-07-31**|**Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner**|Mirko Conrad et.al.|[2407.21569](http://arxiv.org/abs/2407.21569)|null|
+|**2024-08-01**|**Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner**|Mirko Conrad et.al.|[2407.21569](http://arxiv.org/abs/2407.21569)|null|
 |**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[2407.21293](http://arxiv.org/abs/2407.21293)|null|
 |**2024-07-30**|**Self-supervised Multi-future Occupancy Forecasting for Autonomous Driving**|Bernard Lange et.al.|[2407.21126](http://arxiv.org/abs/2407.21126)|null|
 |**2024-07-30**|**Learning Ordinality in Semantic Segmentation**|Rafael Cristino et.al.|[2407.20959](http://arxiv.org/abs/2407.20959)|null|
