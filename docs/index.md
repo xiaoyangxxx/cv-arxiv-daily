@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.05
+## Updated on 2024.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3311,7 +3311,7 @@ layout: default
 |**2024-08-02**|**Talk Less, Interact Better: Evaluating In-context Conversational Adaptation in Multimodal LLMs**|Yilun Hua et.al.|[2408.01417](http://arxiv.org/abs/2408.01417)|null|
 |**2024-08-02**|**Coalitions of Large Language Models Increase the Robustness of AI Agents**|Prattyush Mangal et.al.|[2408.01380](http://arxiv.org/abs/2408.01380)|null|
 |**2024-08-02**|**Toward Automatic Relevance Judgment using Vision--Language Models for Image--Text Retrieval Evaluation**|Jheng-Hong Yang et.al.|[2408.01363](http://arxiv.org/abs/2408.01363)|null|
-|**2024-08-02**|**Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs**|Peng Ding et.al.|[2408.01355](http://arxiv.org/abs/2408.01355)|null|
+|**2024-08-05**|**Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs**|Peng Ding et.al.|[2408.01355](http://arxiv.org/abs/2408.01355)|null|
 |**2024-08-02**|**MCGMark: An Encodable and Robust Online Watermark for LLM-Generated Malicious Code**|Kaiwen Ning et.al.|[2408.01354](http://arxiv.org/abs/2408.01354)|null|
 |**2024-08-02**|**Prompt Refinement or Fine-tuning? Best Practices for using LLMs in Computational Social Science Tasks**|Anders Giovanni Møller et.al.|[2408.01346](http://arxiv.org/abs/2408.01346)|null|
 |**2024-08-02**|**A Backbone for Long-Horizon Robot Task Understanding**|Xiaoshuai Chen et.al.|[2408.01334](http://arxiv.org/abs/2408.01334)|null|
