@@ -2676,6 +2676,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**FlatFusion: Delving into Details of Sparse Transformer-based Camera-LiDAR Fusion for Autonomous Driving**|Yutao Zhu et.al.|[2408.06832](http://arxiv.org/abs/2408.06832)|null|
+|**2024-08-13**|**Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions**|Miao Zhang et.al.|[2408.06772](http://arxiv.org/abs/2408.06772)|null|
+|**2024-08-13**|**A lightweight YOLOv5-FFM model for occlusion pedestrian detection**|Xiangjie Luo et.al.|[2408.06633](http://arxiv.org/abs/2408.06633)|null|
 |**2024-08-12**|**IIT Bombay Racing Driverless: Autonomous Driving Stack for Formula Student AI**|Yash Rampuria et.al.|[2408.06113](http://arxiv.org/abs/2408.06113)|null|
 |**2024-08-12**|**A-BDD: Leveraging Data Augmentations for Safe Autonomous Driving in Adverse Weather and Lighting**|Felix Assion et.al.|[2408.06071](http://arxiv.org/abs/2408.06071)|null|
 |**2024-08-12**|**Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network**|Kailai Sun et.al.|[2408.05877](http://arxiv.org/abs/2408.05877)|null|
@@ -3366,6 +3369,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Diversity Empowers Intelligence: Integrating Expertise of Software Engineering Agents**|Kexun Zhang et.al.|[2408.07060](http://arxiv.org/abs/2408.07060)|null|
+|**2024-08-13**|**LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs**|Yushi Bai et.al.|[2408.07055](http://arxiv.org/abs/2408.07055)|**[link](https://github.com/thudm/longwriter)**|
+|**2024-08-13**|**Casper: Prompt Sanitization for Protecting User Privacy in Web-Based Large Language Models**|Chun Jie Chong et.al.|[2408.07004](http://arxiv.org/abs/2408.07004)|null|
+|**2024-08-13**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993](http://arxiv.org/abs/2408.06993)|**[link](https://github.com/starjob42/datasetjsp)**|
+|**2024-08-13**|**OpenResearcher: Unleashing AI for Accelerated Scientific Research**|Yuxiang Zheng et.al.|[2408.06941](http://arxiv.org/abs/2408.06941)|**[link](https://github.com/gair-nlp/openresearcher)**|
+|**2024-08-13**|**Evaluating Cultural Adaptability of a Large Language Model via Simulation of Synthetic Personas**|Louis Kwok et.al.|[2408.06929](http://arxiv.org/abs/2408.06929)|null|
+|**2024-08-13**|**Re-TASK: Revisiting LLM Tasks from Capability, Skill, and Knowledge Perspectives**|Zhihu Wang et.al.|[2408.06904](http://arxiv.org/abs/2408.06904)|null|
+|**2024-08-13**|**Leveraging Language Models for Emotion and Behavior Analysis in Education**|Kaito Tanaka et.al.|[2408.06874](http://arxiv.org/abs/2408.06874)|null|
+|**2024-08-13**|**LoRA $^2$ : Multi-Scale Low-Rank Approximations for Fine-Tuning Large Language Models**|Jia-Chen Zhang et.al.|[2408.06854](http://arxiv.org/abs/2408.06854)|null|
+|**2024-08-13**|**Causal Agent based on Large Language Model**|Kairong Han et.al.|[2408.06849](http://arxiv.org/abs/2408.06849)|**[link](https://github.com/kairong-han/causal_agent)**|
 |**2024-08-12**|**Animate, or Inanimate, That is the Question for Large Language Models**|Leonardo Ranaldi et.al.|[2408.06332](http://arxiv.org/abs/2408.06332)|null|
 |**2024-08-12**|**Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example**|Yanan Chen et.al.|[2408.06318](http://arxiv.org/abs/2408.06318)|null|
 |**2024-08-12**|**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**|Chris Lu et.al.|[2408.06292](http://arxiv.org/abs/2408.06292)|**[link](https://github.com/sakanaai/ai-scientist)**|
