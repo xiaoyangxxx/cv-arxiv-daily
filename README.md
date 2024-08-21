@@ -2676,6 +2676,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Enhancing End-to-End Autonomous Driving Systems Through Synchronized Human Behavior Data**|Yiqun Duan et.al.|[2408.10908](http://arxiv.org/abs/2408.10908)|null|
+|**2024-08-20**|**Open 3D World in Autonomous Driving**|Xinlong Cheng et.al.|[2408.10880](http://arxiv.org/abs/2408.10880)|null|
+|**2024-08-19**|**CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving**|Hidehisa Arai et.al.|[2408.10845](http://arxiv.org/abs/2408.10845)|null|
+|**2024-08-20**|**Privacy-preserving Universal Adversarial Defense for Black-box Models**|Qiao Li et.al.|[2408.10647](http://arxiv.org/abs/2408.10647)|null|
+|**2024-08-20**|**MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation**|Jintao Cheng et.al.|[2408.10602](http://arxiv.org/abs/2408.10602)|null|
+|**2024-08-20**|**Constrained Behavior Cloning for Robotic Learning**|Wensheng Liang et.al.|[2408.10568](http://arxiv.org/abs/2408.10568)|null|
+|**2024-08-20**|**Leveraging Temporal Contexts to Enhance Vehicle-Infrastructure Cooperative Perception**|Jiaru Zhong et.al.|[2408.10531](http://arxiv.org/abs/2408.10531)|null|
+|**2024-08-19**|**System-Level Design Space Exploration for High-Level Synthesis under End-to-End Latency Constraints**|Yuchao Liao et.al.|[2408.10431](http://arxiv.org/abs/2408.10431)|null|
 |**2024-08-19**|**Edge-Cloud Collaborative Motion Planning for Autonomous Driving with Large Language Models**|Jiao Chen et.al.|[2408.09972](http://arxiv.org/abs/2408.09972)|null|
 |**2024-08-19**|**Segment-Anything Models Achieve Zero-shot Robustness in Autonomous Driving**|Jun Yan et.al.|[2408.09839](http://arxiv.org/abs/2408.09839)|**[link](https://github.com/momo1986/robust_sam_iv)**|
 |**2024-08-19**|**Automated Vehicle Driver Monitoring Dataset from Real-World Scenarios**|Mohamed Sabry et.al.|[2408.09833](http://arxiv.org/abs/2408.09833)|null|
@@ -3382,6 +3390,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Learning Instruction-Guided Manipulation Affordance via Large Models for Embodied Robotic Tasks**|Dayou Li et.al.|[2408.10658](http://arxiv.org/abs/2408.10658)|null|
 |**2024-06-27**|**Advancing Cross-domain Discriminability in Continual Learning of Vison-Language Models**|Yicheng Xu et.al.|[2406.18868](http://arxiv.org/abs/2406.18868)|null|
 |**2023-10-24**|**Meta-learning For Vision-and-language Cross-lingual Transfer**|Hanxu Hu et.al.|[2305.14843](http://arxiv.org/abs/2305.14843)|null|
 |**2023-07-07**|**Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model**|Yinghui Xing et.al.|[2208.08340](http://arxiv.org/abs/2208.08340)|**[link](https://github.com/fanrena/dpt)**|
@@ -3392,6 +3401,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|null|
+|**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|null|
+|**2024-08-20**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Jian Chen et.al.|[2408.11049](http://arxiv.org/abs/2408.11049)|null|
+|**2024-08-20**|**Reconciling Methodological Paradigms: Employing Large Language Models as Novice Qualitative Research Assistants in Talent Management Research**|Sreyoshi Bhaduri et.al.|[2408.11043](http://arxiv.org/abs/2408.11043)|null|
+|**2024-08-20**|**Scaling Law with Learning Rate Annealing**|Howe Tissue et.al.|[2408.11029](http://arxiv.org/abs/2408.11029)|null|
+|**2024-08-20**|**Athena: Safe Autonomous Agents with Verbal Contrastive Learning**|Tanmana Sadhu et.al.|[2408.11021](http://arxiv.org/abs/2408.11021)|null|
+|**2024-08-20**|**While GitHub Copilot Excels at Coding, Does It Ensure Responsible Output?**|Wen Cheng et.al.|[2408.11006](http://arxiv.org/abs/2408.11006)|**[link](https://github.com/sensente/security-attacks-on-lccts)**|
+|**2024-08-20**|**CTP-LLM: Clinical Trial Phase Transition Prediction Using Large Language Models**|Michael Reinisch et.al.|[2408.10995](http://arxiv.org/abs/2408.10995)|null|
+|**2024-08-20**|**Dr.Academy: A Benchmark for Evaluating Questioning Capability in Education for Large Language Models**|Yuyan Chen et.al.|[2408.10947](http://arxiv.org/abs/2408.10947)|null|
+|**2024-08-20**|**Large Language Model Driven Recommendation**|Anton Korikov et.al.|[2408.10946](http://arxiv.org/abs/2408.10946)|null|
 |**2024-08-19**|**Demystifying the Communication Characteristics for Distributed Transformer Models**|Quentin Anthony et.al.|[2408.10197](http://arxiv.org/abs/2408.10197)|null|
 |**2024-08-19**|**SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models**|Anke Tang et.al.|[2408.10174](http://arxiv.org/abs/2408.10174)|**[link](https://github.com/tanganke/fusion_bench)**|
 |**2024-08-19**|**Customizing Language Models with Instance-wise LoRA for Sequential Recommendation**|Xiaoyu Kong et.al.|[2408.10159](http://arxiv.org/abs/2408.10159)|null|
