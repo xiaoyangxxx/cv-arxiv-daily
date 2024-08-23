@@ -2676,6 +2676,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Multimodal Foundational Models for Unsupervised 3D General Obstacle Detection**|Tamás Matuszka et.al.|[2408.12322](http://arxiv.org/abs/2408.12322)|null|
+|**2024-08-22**|**A Safety-Oriented Self-Learning Algorithm for Autonomous Driving: Evolution Starting from a Basic Model**|Shuo Yang et.al.|[2408.12190](http://arxiv.org/abs/2408.12190)|null|
+|**2024-08-22**|**A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems**|Shuo Yang et.al.|[2408.12187](http://arxiv.org/abs/2408.12187)|null|
+|**2024-08-22**|**Pareto Inverse Reinforcement Learning for Diverse Expert Policy Generation**|Woo Kyung Kim et.al.|[2408.12110](http://arxiv.org/abs/2408.12110)|null|
+|**2024-08-22**|**Enhancing Sampling Protocol for Robust Point Cloud Classification**|Chongshou Li et.al.|[2408.12062](http://arxiv.org/abs/2408.12062)|null|
 |**2024-08-21**|**MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering**|Yonglin Tian et.al.|[2408.11464](http://arxiv.org/abs/2408.11464)|null|
 |**2024-08-20**|**Enhancing End-to-End Autonomous Driving Systems Through Synchronized Human Behavior Data**|Yiqun Duan et.al.|[2408.10908](http://arxiv.org/abs/2408.10908)|null|
 |**2024-08-20**|**Open 3D World in Autonomous Driving**|Xinlong Cheng et.al.|[2408.10880](http://arxiv.org/abs/2408.10880)|null|
@@ -3325,11 +3330,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Recursive Distributed Collaborative Aided Inertial Navigation**|Roland Jung et.al.|[2408.12360](http://arxiv.org/abs/2408.12360)|null|
 |**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809](http://arxiv.org/abs/2408.11809)|null|
 |**2024-08-20**|**Robust Long-Range Perception Against Sensor Misalignment in Autonomous Vehicles**|Zi-Xiang Xia et.al.|[2408.11196](http://arxiv.org/abs/2408.11196)|null|
 |**2024-08-22**|**ALS-HAR: Harnessing Wearable Ambient Light Sensors to Enhance IMU-based Human Activity Recogntion**|Lala Shakti Swarup Ray et.al.|[2408.09527](http://arxiv.org/abs/2408.09527)|null|
 |**2024-08-17**|**Segment Anything with Multiple Modalities**|Aoran Xiao et.al.|[2408.09085](http://arxiv.org/abs/2408.09085)|null|
-|**2024-08-14**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330](http://arxiv.org/abs/2408.07330)|null|
+|**2024-08-14**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330](http://arxiv.org/abs/2408.07330)|**[link](https://github.com/sparolab/solid)**|
 |**2024-08-01**|**AI-Enabled sensor fusion of time of flight imaging and mmwave for concealed metal detection**|Chaitanya Kaul et.al.|[2408.00816](http://arxiv.org/abs/2408.00816)|null|
 |**2024-07-25**|**YOCO: You Only Calibrate Once for Accurate Extrinsic Parameter in LiDAR-Camera Systems**|Tianle Zeng et.al.|[2407.18043](http://arxiv.org/abs/2407.18043)|null|
 |**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
@@ -3404,6 +3410,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Controllable Text Generation for Large Language Models: A Survey**|Xun Liang et.al.|[2408.12599](http://arxiv.org/abs/2408.12599)|**[link](https://github.com/iaar-shanghai/ctgsurvey)**|
+|**2024-08-22**|**RuleAlign: Making Large Language Models Better Physicians with Diagnostic Rule Alignment**|Xiaohan Wang et.al.|[2408.12579](http://arxiv.org/abs/2408.12579)|null|
+|**2024-08-22**|**Jamba-1.5: Hybrid Transformer-Mamba Models at Scale**|Jamba Team et.al.|[2408.12570](http://arxiv.org/abs/2408.12570)|null|
+|**2024-08-22**|**ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation**|Lujia Zhong et.al.|[2408.12561](http://arxiv.org/abs/2408.12561)|**[link](https://github.com/lujiazho/ssprop)**|
+|**2024-08-22**|**Towards Evaluating and Building Versatile Large Language Models for Medicine**|Chaoyi Wu et.al.|[2408.12547](http://arxiv.org/abs/2408.12547)|**[link](https://github.com/magic-ai4med/meds-ins)**|
+|**2024-08-22**|**MEDCO: Medical Education Copilots Based on A Multi-Agent Framework**|Hao Wei et.al.|[2408.12496](http://arxiv.org/abs/2408.12496)|null|
+|**2024-08-22**|**GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models**|Kunsheng Tang et.al.|[2408.12494](http://arxiv.org/abs/2408.12494)|**[link](https://github.com/kstanghere/gendercare-ccs24)**|
+|**2024-08-22**|**Vintern-1B: An Efficient Multimodal Large Language Model for Vietnamese**|Khang T. Doan et.al.|[2408.12480](http://arxiv.org/abs/2408.12480)|null|
+|**2024-08-22**|**Frame Order Matters: A Temporal Sequence-Aware Model for Few-Shot Action Recognition**|Bozheng Li et.al.|[2408.12475](http://arxiv.org/abs/2408.12475)|null|
+|**2024-08-22**|**DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems**|Jiaju Chen et.al.|[2408.12470](http://arxiv.org/abs/2408.12470)|null|
 |**2024-08-21**|**SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs**|Yuanyang Yin et.al.|[2408.11813](http://arxiv.org/abs/2408.11813)|null|
 |**2024-08-21**|**Story3D-Agent: Exploring 3D Storytelling Visualization with Large Language Models**|Yuzhou Huang et.al.|[2408.11801](http://arxiv.org/abs/2408.11801)|null|
 |**2024-08-21**|**PermitQA: A Benchmark for Retrieval Augmented Generation in Wind Siting and Permitting domain**|Rounak Meyur et.al.|[2408.11800](http://arxiv.org/abs/2408.11800)|null|
