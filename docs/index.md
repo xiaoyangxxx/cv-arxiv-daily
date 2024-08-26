@@ -2652,6 +2652,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**General Intelligent Imaging and Uncertainty Quantification by Deterministic Diffusion Model**|Weiru Fan et.al.|[2408.13061](http://arxiv.org/abs/2408.13061)|null|
+|**2024-08-23**|**Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment**|Yanze Zhang et.al.|[2408.12822](http://arxiv.org/abs/2408.12822)|null|
+|**2024-08-23**|**A Safe Self-evolution Algorithm for Autonomous Driving Based on Data-Driven Risk Quantification Model**|Shuo Yang et.al.|[2408.12805](http://arxiv.org/abs/2408.12805)|null|
+|**2024-08-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al.|[2408.12708](http://arxiv.org/abs/2408.12708)|null|
+|**2024-08-22**|**Can LLMs Understand Social Norms in Autonomous Driving Games?**|Boxuan Wang et.al.|[2408.12680](http://arxiv.org/abs/2408.12680)|null|
 |**2024-08-22**|**Multimodal Foundational Models for Unsupervised 3D General Obstacle Detection**|Tamás Matuszka et.al.|[2408.12322](http://arxiv.org/abs/2408.12322)|null|
 |**2024-08-22**|**A Safety-Oriented Self-Learning Algorithm for Autonomous Driving: Evolution Starting from a Basic Model**|Shuo Yang et.al.|[2408.12190](http://arxiv.org/abs/2408.12190)|null|
 |**2024-08-22**|**A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems**|Shuo Yang et.al.|[2408.12187](http://arxiv.org/abs/2408.12187)|null|
@@ -3380,6 +3385,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**|Yi-Fan Zhang et.al.|[2408.13257](http://arxiv.org/abs/2408.13257)|null|
+|**2024-08-23**|**Domain-specific long text classification from sparse relevant information**|Célia D'Cruz et.al.|[2408.13253](http://arxiv.org/abs/2408.13253)|null|
+|**2024-08-23**|**Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time**|Yingyu Liang et.al.|[2408.13233](http://arxiv.org/abs/2408.13233)|null|
+|**2024-08-23**|**EUR-USD Exchange Rate Forecasting Based on Information Fusion with Large Language Models and Deep Learning Methods**|Hongcheng Ding et.al.|[2408.13214](http://arxiv.org/abs/2408.13214)|null|
+|**2024-08-23**|**DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code Generation**|Qiming Zhu et.al.|[2408.13204](http://arxiv.org/abs/2408.13204)|null|
+|**2024-08-23**|**Can LLM be a Good Path Planner based on Prompt Engineering? Mitigating the Hallucination for Path Planning**|Hourui Deng et.al.|[2408.13184](http://arxiv.org/abs/2408.13184)|null|
+|**2024-08-23**|**IntelliCare: Improving Healthcare Analysis with Variance-Controlled Patient-Level Knowledge from Large Language Models**|Zhihao Yu et.al.|[2408.13073](http://arxiv.org/abs/2408.13073)|null|
+|**2024-08-23**|**Guiding IoT-Based Healthcare Alert Systems with Large Language Models**|Yulan Gao et.al.|[2408.13071](http://arxiv.org/abs/2408.13071)|null|
+|**2024-08-23**|**VFM-Det: Towards High-Performance Vehicle Detection via Large Foundation Models**|Wentao Wu et.al.|[2408.13031](http://arxiv.org/abs/2408.13031)|**[link](https://github.com/event-ahu/vfm-det)**|
+|**2024-08-23**|**In-Context Learning with Reinforcement Learning for Incomplete Utterance Rewriting**|Haowei Du et.al.|[2408.13028](http://arxiv.org/abs/2408.13028)|null|
 |**2024-08-22**|**Controllable Text Generation for Large Language Models: A Survey**|Xun Liang et.al.|[2408.12599](http://arxiv.org/abs/2408.12599)|**[link](https://github.com/iaar-shanghai/ctgsurvey)**|
 |**2024-08-22**|**RuleAlign: Making Large Language Models Better Physicians with Diagnostic Rule Alignment**|Xiaohan Wang et.al.|[2408.12579](http://arxiv.org/abs/2408.12579)|null|
 |**2024-08-22**|**Jamba-1.5: Hybrid Transformer-Mamba Models at Scale**|Jamba Team et.al.|[2408.12570](http://arxiv.org/abs/2408.12570)|null|
