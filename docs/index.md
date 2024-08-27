@@ -2652,6 +2652,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving**|Yu Yang et.al.|[2408.14197](http://arxiv.org/abs/2408.14197)|null|
+|**2024-08-26**|**EMDFNet: Efficient Multi-scale and Diverse Feature Network for Traffic Sign Detection**|Pengyu Li et.al.|[2408.14189](http://arxiv.org/abs/2408.14189)|null|
+|**2024-08-26**|**Quantitative Representation of Scenario Difficulty for Autonomous Driving Based on Adversarial Policy Search**|Shuo Yang et.al.|[2408.14000](http://arxiv.org/abs/2408.14000)|null|
+|**2024-08-26**|**FusionSAM: Latent Space driven Segment Anything Model for Multimodal Fusion and Segmentation**|Daixun Li et.al.|[2408.13980](http://arxiv.org/abs/2408.13980)|null|
+|**2024-08-25**|**Bridging the Gap between Real-world and Synthetic Images for Testing Autonomous Driving Systems**|Mohammad Hossein Amini et.al.|[2408.13950](http://arxiv.org/abs/2408.13950)|null|
+|**2024-08-25**|**TraIL-Det: Transformation-Invariant Local Feature Networks for 3D LiDAR Object Detection with Unsupervised Pre-Training**|Li Li et.al.|[2408.13902](http://arxiv.org/abs/2408.13902)|null|
+|**2024-08-25**|**Making Large Language Models Better Planners with Reasoning-Decision Alignment**|Zhijian Huang et.al.|[2408.13890](http://arxiv.org/abs/2408.13890)|null|
+|**2024-08-25**|**Exploring Reliable Matching with Phase Enhancement for Night-time Semantic Segmentation**|Yuwen Pan et.al.|[2408.13838](http://arxiv.org/abs/2408.13838)|null|
+|**2024-08-25**|**TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather**|Xiongwei Zhao et.al.|[2408.13802](http://arxiv.org/abs/2408.13802)|**[link](https://github.com/grandzxw/triplemixer)**|
+|**2024-08-25**|**CV-MOS: A Cross-View Model for Motion Segmentation**|Xiaoyu Tang et.al.|[2408.13790](http://arxiv.org/abs/2408.13790)|**[link](https://github.com/scnu-rislab/cv-mos)**|
 |**2024-08-23**|**General Intelligent Imaging and Uncertainty Quantification by Deterministic Diffusion Model**|Weiru Fan et.al.|[2408.13061](http://arxiv.org/abs/2408.13061)|null|
 |**2024-08-23**|**Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment**|Yanze Zhang et.al.|[2408.12822](http://arxiv.org/abs/2408.12822)|null|
 |**2024-08-23**|**A Safe Self-evolution Algorithm for Autonomous Driving Based on Data-Driven Risk Quantification Model**|Shuo Yang et.al.|[2408.12805](http://arxiv.org/abs/2408.12805)|null|
@@ -3309,6 +3319,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Modular Meshed Ultra-Wideband Aided Inertial Navigation with Robust Anchor Calibration**|Roland Jung et.al.|[2408.14081](http://arxiv.org/abs/2408.14081)|null|
+|**2024-08-24**|**Decentralised Gradient-based Variational Inference for Multi-sensor Fusion and Tracking in Clutter**|Qing Li et.al.|[2408.13689](http://arxiv.org/abs/2408.13689)|null|
 |**2024-08-22**|**Recursive Distributed Collaborative Aided Inertial Navigation**|Roland Jung et.al.|[2408.12360](http://arxiv.org/abs/2408.12360)|null|
 |**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809](http://arxiv.org/abs/2408.11809)|null|
 |**2024-08-20**|**Robust Long-Range Perception Against Sensor Misalignment in Autonomous Vehicles**|Zi-Xiang Xia et.al.|[2408.11196](http://arxiv.org/abs/2408.11196)|null|
@@ -3385,6 +3397,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470](http://arxiv.org/abs/2408.14470)|null|
+|**2024-08-26**|**Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos**|Qirui Chen et.al.|[2408.14469](http://arxiv.org/abs/2408.14469)|null|
+|**2024-08-26**|**Explicit Inductive Inference using Large Language Models**|Tianyang Liu et.al.|[2408.14467](http://arxiv.org/abs/2408.14467)|null|
+|**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu Shuo Zhao et.al.|[2408.14438](http://arxiv.org/abs/2408.14438)|null|
+|**2024-08-26**|**CHARTOM: A Visual Theory-of-Mind Benchmark for Multimodal Large Language Models**|Shubham Bharti et.al.|[2408.14419](http://arxiv.org/abs/2408.14419)|null|
+|**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
+|**2024-08-26**|**Language-specific Calibration for Pruning Multilingual Language Models**|Simon Kurz et.al.|[2408.14398](http://arxiv.org/abs/2408.14398)|null|
+|**2024-08-26**|**Reprogramming Foundational Large Language Models(LLMs) for Enterprise Adoption for Spatio-Temporal Forecasting Applications: Unveiling a New Era in Copilot-Guided Cross-Modal Time Series Representation Learning**|Sakhinana Sagar Srinivas et.al.|[2408.14387](http://arxiv.org/abs/2408.14387)|null|
+|**2024-08-26**|**Probing Causality Manipulation of Large Language Models**|Chenyang Zhang et.al.|[2408.14380](http://arxiv.org/abs/2408.14380)|**[link](https://github.com/tongjinlp/llm-causality-probing)**|
+|**2024-08-26**|**SWE-bench-java: A GitHub Issue Resolving Benchmark for Java**|Daoguang Zan et.al.|[2408.14354](http://arxiv.org/abs/2408.14354)|**[link](https://github.com/multi-swe-bench/multi-swe-bench-env)**|
 |**2024-08-23**|**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**|Yi-Fan Zhang et.al.|[2408.13257](http://arxiv.org/abs/2408.13257)|null|
 |**2024-08-23**|**Domain-specific long text classification from sparse relevant information**|Célia D'Cruz et.al.|[2408.13253](http://arxiv.org/abs/2408.13253)|null|
 |**2024-08-23**|**Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time**|Yingyu Liang et.al.|[2408.13233](http://arxiv.org/abs/2408.13233)|null|
