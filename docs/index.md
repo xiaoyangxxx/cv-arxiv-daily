@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.15
+## Updated on 2024.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2652,7 +2652,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-12**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253](http://arxiv.org/abs/2409.08253)|null|
+|**2024-09-13**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253](http://arxiv.org/abs/2409.08253)|null|
 |**2024-09-12**|**The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**|André F. R. Guarda et.al.|[2409.08130](http://arxiv.org/abs/2409.08130)|null|
 |**2024-09-12**|**SoVAR: Building Generalizable Scenarios from Accident Reports for Autonomous Driving Testing**|An Guo et.al.|[2409.08081](http://arxiv.org/abs/2409.08081)|null|
 |**2024-09-12**|**LED: Light Enhanced Depth Estimation at Night**|Simon de Moreau et.al.|[2409.08031](http://arxiv.org/abs/2409.08031)|**[link](https://github.com/simondemoreau/led)**|
