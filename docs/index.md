@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2661,7 +2661,7 @@ layout: default
 |**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[2409.10165](http://arxiv.org/abs/2409.10165)|null|
 |**2024-09-16**|**Human Insights Driven Latent Space for Different Driving Perspectives: A Unified Encoder for Efficient Multi-Task Inference**|Huy-Dung Nguyen et.al.|[2409.10095](http://arxiv.org/abs/2409.10095)|null|
 |**2024-09-16**|**LeGEND: A Top-Down Approach to Scenario Generation of Autonomous Driving Systems Assisted by Large Language Models**|Shuncheng Tang et.al.|[2409.10066](http://arxiv.org/abs/2409.10066)|null|
-|**2024-09-16**|**GlobalMapNet: An Online Framework for Vectorized Global HD Map Construction**|Anqi Shi et.al.|[2409.10063](http://arxiv.org/abs/2409.10063)|null|
+|**2024-09-17**|**GlobalMapNet: An Online Framework for Vectorized Global HD Map Construction**|Anqi Shi et.al.|[2409.10063](http://arxiv.org/abs/2409.10063)|null|
 |**2024-09-13**|**Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry**|Yunus Bilge Kurt et.al.|[2409.08769](http://arxiv.org/abs/2409.08769)|**[link](https://github.com/ybkurt/vift)**|
 |**2024-09-13**|**GenMapping: Unleashing the Potential of Inverse Perspective Mapping for Robust Online HD Map Construction**|Siyu Li et.al.|[2409.08688](http://arxiv.org/abs/2409.08688)|**[link](https://github.com/lynn-yu/genmapping)**|
 |**2024-09-13**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253](http://arxiv.org/abs/2409.08253)|null|
@@ -3494,10 +3494,10 @@ layout: default
 |**2024-09-16**|**Causal Language Modeling Can Elicit Search and Reasoning Capabilities on Logic Puzzles**|Kulin Shah et.al.|[2409.10502](http://arxiv.org/abs/2409.10502)|null|
 |**2024-09-16**|**Code Vulnerability Detection: A Comparative Analysis of Emerging Large Language Models**|Shaznin Sultana et.al.|[2409.10490](http://arxiv.org/abs/2409.10490)|null|
 |**2024-09-16**|**XLM for Autonomous Driving Systems: A Comprehensive Review**|Sonda Fourati et.al.|[2409.10484](http://arxiv.org/abs/2409.10484)|null|
-|**2024-09-16**|**Schrodinger's Memory: Large Language Models**|Wei Wang et.al.|[2409.10482](http://arxiv.org/abs/2409.10482)|null|
+|**2024-09-17**|**Schrodinger's Memory: Large Language Models**|Wei Wang et.al.|[2409.10482](http://arxiv.org/abs/2409.10482)|null|
 |**2024-09-16**|**LLM as BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning**|Jicong Ao et.al.|[2409.10444](http://arxiv.org/abs/2409.10444)|null|
 |**2024-09-16**|**A Large-Scale Privacy Assessment of Android Third-Party SDKs**|Mark Huasong Meng et.al.|[2409.10411](http://arxiv.org/abs/2409.10411)|null|
-|**2024-09-16**|**Learnings from a Large-Scale Deployment of an LLM-Powered Expert-in-the-Loop Healthcare Chatbot**|Bhuvan Sachdeva et.al.|[2409.10354](http://arxiv.org/abs/2409.10354)|null|
+|**2024-09-17**|**Learnings from a Large-Scale Deployment of an LLM-Powered Expert-in-the-Loop Healthcare Chatbot**|Bhuvan Sachdeva et.al.|[2409.10354](http://arxiv.org/abs/2409.10354)|null|
 |**2024-09-13**|**Agents in Software Engineering: Survey, Landscape, and Vision**|Yanxian Huang et.al.|[2409.09030](http://arxiv.org/abs/2409.09030)|**[link](https://github.com/deepsoftwareanalytics/awesome-agent4se)**|
 |**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010](http://arxiv.org/abs/2409.09010)|null|
 |**2024-09-13**|**Safeguarding Decentralized Social Media: LLM Agents for Automating Community Rule Compliance**|Lucio La Cava et.al.|[2409.08963](http://arxiv.org/abs/2409.08963)|null|
