@@ -485,7 +485,7 @@
 |**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639](http://arxiv.org/abs/2403.11639)|null|
 |**2024-03-14**|**Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting**|Jaewoo Jung et.al.|[2403.09413](http://arxiv.org/abs/2403.09413)|**[link](https://github.com/KU-CVLAB/RAIN-GS)**|
 |**2024-03-13**|**Refractive COLMAP: Refractive Structure-from-Motion Revisited**|Mengkun She et.al.|[2403.08640](http://arxiv.org/abs/2403.08640)|null|
-|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
+|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|**[link](https://github.com/AliYoussef97/SuperPoint-PrP)**|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
 |**2024-03-07**|**BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling**|Cheng Peng et.al.|[2403.04926](http://arxiv.org/abs/2403.04926)|**[link](https://github.com/snldmt/bags)**|
 |**2024-02-22**|**GaussianPro: 3D Gaussian Splatting with Progressive Propagation**|Kai Cheng et.al.|[2402.14650](http://arxiv.org/abs/2402.14650)|null|
@@ -667,7 +667,7 @@
 |**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/abs/2403.09577)|null|
 |**2024-03-14**|**VDNA-PR: Using General Dataset Representations for Robust Sequential Visual Place Recognition**|Benjamin Ramtoula et.al.|[2403.09025](http://arxiv.org/abs/2403.09025)|null|
 |**2024-03-13**|**PAPERCLIP: Associating Astronomical Observations and Natural Language with Multi-Modal Models**|Siddharth Mishra-Sharma et.al.|[2403.08851](http://arxiv.org/abs/2403.08851)|**[link](https://github.com/smsharma/paperclip-hubble)**|
-|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
+|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|**[link](https://github.com/AliYoussef97/SuperPoint-PrP)**|
 |**2024-03-12**|**It's All About Your Sketch: Democratising Sketch Control in Diffusion Models**|Subhadeep Koley et.al.|[2403.07234](http://arxiv.org/abs/2403.07234)|**[link](https://github.com/subhadeepkoley/demosketch2rgb)**|
 |**2024-03-12**|**You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval**|Subhadeep Koley et.al.|[2403.07222](http://arxiv.org/abs/2403.07222)|null|
 |**2024-03-12**|**Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers**|Subhadeep Koley et.al.|[2403.07214](http://arxiv.org/abs/2403.07214)|null|
@@ -1807,7 +1807,7 @@
 |**2024-03-17**|**Creating Seamless 3D Maps Using Radiance Fields**|Sai Tarun Sathyan et.al.|[2403.11364](http://arxiv.org/abs/2403.11364)|null|
 |**2024-03-17**|**SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream**|Lin Zhu et.al.|[2403.11222](http://arxiv.org/abs/2403.11222)|**[link](https://github.com/bit-vision/spikenerf)**|
 |**2024-03-17**|**Recent Advances in 3D Gaussian Splatting**|Tong Wu et.al.|[2403.11134](http://arxiv.org/abs/2403.11134)|null|
-|**2024-03-17**|**Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications**|Yonggan Fu et.al.|[2403.11131](http://arxiv.org/abs/2403.11131)|null|
+|**2024-03-17**|**Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications**|Yonggan Fu et.al.|[2403.11131](http://arxiv.org/abs/2403.11131)|**[link](https://github.com/GATECH-EIC/Omni-Recon)**|
 |**2024-03-16**|**Fast Sparse View Guided NeRF Update for Object Reconfigurations**|Ziqi Lu et.al.|[2403.11024](http://arxiv.org/abs/2403.11024)|null|
 |**2024-03-16**|**HourglassNeRF: Casting an Hourglass as a Bundle of Rays for Few-shot Neural Rendering**|Seunghyeon Seo et.al.|[2403.10906](http://arxiv.org/abs/2403.10906)|null|
 |**2024-03-15**|**FeatUp: A Model-Agnostic Framework for Features at Any Resolution**|Stephanie Fu et.al.|[2403.10516](http://arxiv.org/abs/2403.10516)|**[link](https://github.com/mhamilton723/FeatUp)**|
@@ -1825,7 +1825,7 @@
 |**2024-03-14**|**PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**|Tianyuan Yuan et.al.|[2403.09079](http://arxiv.org/abs/2403.09079)|**[link](https://github.com/yuantianyuan01/presight)**|
 |**2024-03-13**|**Gaussian Splatting in Style**|Abhishek Saroha et.al.|[2403.08498](http://arxiv.org/abs/2403.08498)|null|
 |**2024-03-13**|**StyleDyRF: Zero-shot 4D Style Transfer for Dynamic Neural Radiance Fields**|Hongbin Xu et.al.|[2403.08310](http://arxiv.org/abs/2403.08310)|**[link](https://github.com/toughstonex/styledyrf)**|
-|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
+|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|**[link](https://github.com/AliYoussef97/SuperPoint-PrP)**|
 |**2024-03-12**|**Q-SLAM: Quadric Representations for Monocular SLAM**|Chensheng Peng et.al.|[2403.08125](http://arxiv.org/abs/2403.08125)|null|
 |**2024-03-12**|**SMURF: Continuous Dynamics for Motion-Deblurring Radiance Fields**|Jungho Lee et.al.|[2403.07547](http://arxiv.org/abs/2403.07547)|**[link](https://github.com/jho-yonsei/smurf)**|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
@@ -1883,7 +1883,7 @@
 |**2024-02-11**|**3D Gaussian as a New Vision Era: A Survey**|Ben Fei et.al.|[2402.07181](http://arxiv.org/abs/2402.07181)|null|
 |**2024-02-09**|**ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**|Georgii Stanishevskii et.al.|[2402.06390](http://arxiv.org/abs/2402.06390)|**[link](https://github.com/quereste/implicit-deepfake)**|
 |**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829](http://arxiv.org/abs/2402.04829)|null|
-|**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|null|
+|**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|**[link](https://github.com/pcl3dv/ov-nerf)**|
 |**2024-02-11**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554](http://arxiv.org/abs/2402.04554)|null|
 |**2024-02-06**|**Improved Generalization of Weight Space Networks via Augmentations**|Aviv Shamsian et.al.|[2402.04081](http://arxiv.org/abs/2402.04081)|null|
 |**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906](http://arxiv.org/abs/2402.02906)|**[link](https://github.com/bronemos/view-fusion)**|
@@ -2786,11 +2786,11 @@
 |**2024-08-28**|**A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions**|Yu Wang et.al.|[2408.16530](http://arxiv.org/abs/2408.16530)|**[link](https://github.com/fishsoup0/autonomous-driving-perception)**|
 |**2024-08-29**|**CooTest: An Automated Testing Approach for V2X Communication Systems**|An Guo et.al.|[2408.16470](http://arxiv.org/abs/2408.16470)|null|
 |**2024-08-29**|**BEVal: A Cross-dataset Evaluation Study of BEV Segmentation Models for Autononomous Driving**|Manuel Alejandro Diaz-Zapata et.al.|[2408.16322](http://arxiv.org/abs/2408.16322)|**[link](https://github.com/manueldiaz96/beval)**|
-|**2024-08-29**|**PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**|Zichen Yu et.al.|[2408.16200](http://arxiv.org/abs/2408.16200)|null|
+|**2024-08-29**|**PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**|Zichen Yu et.al.|[2408.16200](http://arxiv.org/abs/2408.16200)|**[link](https://github.com/yzichen/polarbevdet)**|
 |**2024-08-28**|**GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model**|Yongjie Fu et.al.|[2408.15868](http://arxiv.org/abs/2408.15868)|null|
 |**2024-08-28**|**Str-L Pose: Integrating Point and Structured Line for Relative Pose Estimation in Dual-Graph**|Zherong Zhang et.al.|[2408.15750](http://arxiv.org/abs/2408.15750)|null|
 |**2024-08-28**|**TeFF: Tracking-enhanced Forgetting-free Few-shot 3D LiDAR Semantic Segmentation**|Junbao Zhou et.al.|[2408.15657](http://arxiv.org/abs/2408.15657)|**[link](https://github.com/junbao-zhou/track-no-forgetting)**|
-|**2024-08-28**|**RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**|Haisheng Su et.al.|[2408.15503](http://arxiv.org/abs/2408.15503)|null|
+|**2024-08-28**|**RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**|Haisheng Su et.al.|[2408.15503](http://arxiv.org/abs/2408.15503)|**[link](https://github.com/suhaisheng/robosense)**|
 |**2024-08-27**|**Panoptic Perception for Autonomous Driving: A Survey**|Yunge Li et.al.|[2408.15388](http://arxiv.org/abs/2408.15388)|null|
 |**2024-08-27**|**Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty**|Saining Zhang et.al.|[2408.15242](http://arxiv.org/abs/2408.15242)|**[link](https://github.com/sainingzhang/uc-gs)**|
 |**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235](http://arxiv.org/abs/2408.15235)|null|
@@ -3094,7 +3094,7 @@
 |**2024-06-12**|**PRIBOOT: A New Data-Driven Expert for Improved Driving Simulations**|Daniel Coelho et.al.|[2406.08421](http://arxiv.org/abs/2406.08421)|**[link](https://github.com/DanielCoelho112/priboot)**|
 |**2024-06-12**|**LaneCPP: Continuous 3D Lane Detection using Physical Priors**|Maximilian Pittner et.al.|[2406.08381](http://arxiv.org/abs/2406.08381)|null|
 |**2024-06-12**|**Utilizing Navigation Path to Generate Target Point for Enhanced End-to-End Autonomous Driving Planning**|Yuanhua Shen et.al.|[2406.08349](http://arxiv.org/abs/2406.08349)|null|
-|**2024-06-12**|**Valeo4Cast: A Modular Approach to End-to-End Forecasting**|Yihong Xu et.al.|[2406.08113](http://arxiv.org/abs/2406.08113)|null|
+|**2024-06-12**|**Valeo4Cast: A Modular Approach to End-to-End Forecasting**|Yihong Xu et.al.|[2406.08113](http://arxiv.org/abs/2406.08113)|**[link](https://github.com/valeoai/valeo4cast)**|
 |**2024-06-11**|**PLT-D3: A High-fidelity Dynamic Driving Simulation Dataset for Stereo Depth and Scene Flow**|Joshua Tokarsky et.al.|[2406.07667](http://arxiv.org/abs/2406.07667)|null|
 |**2024-06-11**|**Instruct Large Language Models to Drive like Humans**|Ruijun Zhang et.al.|[2406.07296](http://arxiv.org/abs/2406.07296)|**[link](https://github.com/bonbon-rj/instructdriver)**|
 |**2024-06-11**|**EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network**|Yining Shi et.al.|[2406.07042](http://arxiv.org/abs/2406.07042)|**[link](https://github.com/synsin0/effocc)**|
@@ -3484,7 +3484,7 @@
 |**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809](http://arxiv.org/abs/2408.11809)|null|
 |**2024-08-20**|**Robust Long-Range Perception Against Sensor Misalignment in Autonomous Vehicles**|Zi-Xiang Xia et.al.|[2408.11196](http://arxiv.org/abs/2408.11196)|null|
 |**2024-08-22**|**ALS-HAR: Harnessing Wearable Ambient Light Sensors to Enhance IMU-based Human Activity Recogntion**|Lala Shakti Swarup Ray et.al.|[2408.09527](http://arxiv.org/abs/2408.09527)|null|
-|**2024-08-17**|**Segment Anything with Multiple Modalities**|Aoran Xiao et.al.|[2408.09085](http://arxiv.org/abs/2408.09085)|null|
+|**2024-08-17**|**Segment Anything with Multiple Modalities**|Aoran Xiao et.al.|[2408.09085](http://arxiv.org/abs/2408.09085)|**[link](https://github.com/weihao1115/mm-sam)**|
 |**2024-08-26**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330](http://arxiv.org/abs/2408.07330)|**[link](https://github.com/sparolab/solid)**|
 |**2024-08-01**|**AI-Enabled sensor fusion of time of flight imaging and mmwave for concealed metal detection**|Chaitanya Kaul et.al.|[2408.00816](http://arxiv.org/abs/2408.00816)|null|
 |**2024-07-25**|**YOCO: You Only Calibrate Once for Accurate Extrinsic Parameter in LiDAR-Camera Systems**|Tianle Zeng et.al.|[2407.18043](http://arxiv.org/abs/2407.18043)|null|
@@ -4357,7 +4357,7 @@
 |**2024-05-27**|**Self-Corrected Multimodal Large Language Model for End-to-End Robot Manipulation**|Jiaming Liu et.al.|[2405.17418](http://arxiv.org/abs/2405.17418)|null|
 |**2024-05-27**|**THREAD: Thinking Deeper with Recursive Spawning**|Philip Schroeder et.al.|[2405.17402](http://arxiv.org/abs/2405.17402)|**[link](https://github.com/philipmit/thread)**|
 |**2024-05-27**|**MindMerger: Efficient Boosting LLM Reasoning in non-English Languages**|Zixian Huang et.al.|[2405.17386](http://arxiv.org/abs/2405.17386)|**[link](https://github.com/cone-mt/mindmerger)**|
-|**2024-05-27**|**ReMoDetect: Reward Models Recognize Aligned LLM's Generations**|Hyunseok Lee et.al.|[2405.17382](http://arxiv.org/abs/2405.17382)|null|
+|**2024-05-27**|**ReMoDetect: Reward Models Recognize Aligned LLM's Generations**|Hyunseok Lee et.al.|[2405.17382](http://arxiv.org/abs/2405.17382)|**[link](https://github.com/hyunseoklee-ai/reward_llm_detect)**|
 |**2024-05-27**|**RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design Projects**|Ahmed Allam et.al.|[2405.17378](http://arxiv.org/abs/2405.17378)|**[link](https://github.com/AUCOHL/RTL-Repo)**|
 |**2024-05-28**|**Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models**|ShengYun Peng et.al.|[2405.17374](http://arxiv.org/abs/2405.17374)|null|
 |**2024-05-24**|**Scaling Laws for Discriminative Classification in Large Language Models**|Dean Wyatte et.al.|[2405.15765](http://arxiv.org/abs/2405.15765)|null|
@@ -4419,7 +4419,7 @@
 |**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|**[link](https://github.com/activevisionlab/awesome-llm-3d)**|
 |**2024-05-16**|**A Systematic Evaluation of Large Language Models for Natural Language Generation Tasks**|Xuanfan Ni et.al.|[2405.10251](http://arxiv.org/abs/2405.10251)|null|
 |**2024-05-16**|**IntelliExplain: Enhancing Interactive Code Generation through Natural Language Explanations for Non-Professional Programmers**|Hao Yan et.al.|[2405.10250](http://arxiv.org/abs/2405.10250)|null|
-|**2024-05-16**|**CPsyExam: A Chinese Benchmark for Evaluating Psychology using Examinations**|Jiahao Zhao et.al.|[2405.10212](http://arxiv.org/abs/2405.10212)|null|
+|**2024-05-16**|**CPsyExam: A Chinese Benchmark for Evaluating Psychology using Examinations**|Jiahao Zhao et.al.|[2405.10212](http://arxiv.org/abs/2405.10212)|**[link](https://github.com/CAS-SIAT-XinHai/CPsyExam)**|
 |**2024-05-15**|**Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming**|Bushi Xiao et.al.|[2405.09508](http://arxiv.org/abs/2405.09508)|null|
 |**2024-05-15**|**Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts**|Donya Rooein et.al.|[2405.09482](http://arxiv.org/abs/2405.09482)|null|
 |**2024-05-15**|**Tell Me Why: Explainable Public Health Fact-Checking with Large Language Models**|Majid Zarharan et.al.|[2405.09454](http://arxiv.org/abs/2405.09454)|**[link](https://github.com/Zarharan/NLE-for-fact-checking)**|
@@ -4647,7 +4647,7 @@
 |**2024-04-15**|**Generative AI for Game Theory-based Mobile Networking**|Long He et.al.|[2404.09699](http://arxiv.org/abs/2404.09699)|null|
 |**2024-04-15**|**Are Large Language Models Reliable Argument Quality Annotators?**|Nailia Mirzakhmedova et.al.|[2404.09696](http://arxiv.org/abs/2404.09696)|**[link](https://github.com/webis-de/ratio-24)**|
 |**2024-04-15**|**LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models**|Guangyan Li et.al.|[2404.09695](http://arxiv.org/abs/2404.09695)|null|
-|**2024-04-15**|**Multi-News+: Cost-efficient Dataset Cleansing via LLM-based Data Annotation**|Juhwan Choi et.al.|[2404.09682](http://arxiv.org/abs/2404.09682)|null|
+|**2024-04-15**|**Multi-News+: Cost-efficient Dataset Cleansing via LLM-based Data Annotation**|Juhwan Choi et.al.|[2404.09682](http://arxiv.org/abs/2404.09682)|**[link](https://github.com/c-juhwan/multi_news_plus)**|
 |**2024-04-15**|**Do LLMs Understand Visual Anomalies? Uncovering LLM Capabilities in Zero-shot Anomaly Detection**|Jiaqi Zhu et.al.|[2404.09654](http://arxiv.org/abs/2404.09654)|null|
 |**2024-04-15**|**Bridging Vision and Language Spaces with Assignment Prediction**|Jungin Park et.al.|[2404.09632](http://arxiv.org/abs/2404.09632)|**[link](https://github.com/park-jungin/vlap)**|
 |**2024-04-12**|**Enhancing Visual Question Answering through Question-Driven Image Captions as Prompts**|Övgü Özdemir et.al.|[2404.08589](http://arxiv.org/abs/2404.08589)|**[link](https://github.com/ovguyo/captions-in-vqa)**|
