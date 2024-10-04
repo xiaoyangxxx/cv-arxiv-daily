@@ -2676,6 +2676,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**|Hanrong Zhang et.al.|[2410.02644](http://arxiv.org/abs/2410.02644)|**[link](https://github.com/agiresearch/asb)**|
+|**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.|[2410.02638](http://arxiv.org/abs/2410.02638)|null|
+|**2024-10-03**|**Behavior Trees in Functional Safety Supervisors for Autonomous Vehicles**|Carlos Conejo et.al.|[2410.02469](http://arxiv.org/abs/2410.02469)|null|
+|**2024-10-03**|**End-to-end Driving in High-Interaction Traffic Scenarios with Reinforcement Learning**|Yueyuan Li et.al.|[2410.02253](http://arxiv.org/abs/2410.02253)|null|
+|**2024-10-03**|**Remember and Recall: Associative-Memory-based Trajectory Prediction**|Hang Guo et.al.|[2410.02201](http://arxiv.org/abs/2410.02201)|null|
+|**2024-10-03**|**Abstract Reward Processes: Leveraging State Abstraction for Consistent Off-Policy Evaluation**|Shreyas Chaudhari et.al.|[2410.02172](http://arxiv.org/abs/2410.02172)|null|
+|**2024-10-02**|**Scene Flow as a Partial Differential Equation**|Kyle Vedder et.al.|[2410.02031](http://arxiv.org/abs/2410.02031)|null|
 |**2024-10-02**|**Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking**|Ayesha Ishaq et.al.|[2410.01678](http://arxiv.org/abs/2410.01678)|**[link](https://github.com/ayesha-ishaq/open3dtrack)**|
 |**2024-10-02**|**Entropy-Based Uncertainty Modeling for Trajectory Prediction in Autonomous Driving**|Aron Distelzweig et.al.|[2410.01628](http://arxiv.org/abs/2410.01628)|null|
 |**2024-10-02**|**Perceptual Piercing: Human Visual Cue-based Object Detection in Low Visibility Conditions**|Ashutosh Kumar et.al.|[2410.01225](http://arxiv.org/abs/2410.01225)|**[link](https://github.com/ashu1069/perceptual-piercing)**|
@@ -3582,6 +3589,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models**|Zhipei Xu et.al.|[2410.02761](http://arxiv.org/abs/2410.02761)|null|
+|**2024-10-03**|**Loong: Generating Minute-level Long Videos with Autoregressive Language Models**|Yuqing Wang et.al.|[2410.02757](http://arxiv.org/abs/2410.02757)|null|
+|**2024-10-03**|**SIEVE: General Purpose Data Filtering System Matching GPT-4o Accuracy at 1% the Cost**|Jifan Zhang et.al.|[2410.02755](http://arxiv.org/abs/2410.02755)|null|
+|**2024-10-03**|**Training Language Models on Synthetic Edit Sequences Improves Code Synthesis**|Ulyana Piterbarg et.al.|[2410.02749](http://arxiv.org/abs/2410.02749)|null|
+|**2024-10-03**|**CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**|Han He et.al.|[2410.02748](http://arxiv.org/abs/2410.02748)|null|
+|**2024-10-03**|**Contrastive Localized Language-Image Pre-Training**|Hong-You Chen et.al.|[2410.02746](http://arxiv.org/abs/2410.02746)|null|
+|**2024-10-03**|**Neutral residues: revisiting adapters for model extension**|Franck Signe Talla et.al.|[2410.02744](http://arxiv.org/abs/2410.02744)|null|
+|**2024-10-03**|**MA-RLHF: Reinforcement Learning from Human Feedback with Macro Actions**|Yekun Chai et.al.|[2410.02743](http://arxiv.org/abs/2410.02743)|null|
+|**2024-10-03**|**Grounding Large Language Models In Embodied Environment With Imperfect World Models**|Haolan Liu et.al.|[2410.02742](http://arxiv.org/abs/2410.02742)|null|
+|**2024-10-03**|**Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**|Lei Xu et.al.|[2410.02741](http://arxiv.org/abs/2410.02741)|null|
 |**2024-10-02**|**Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads**|Yuxiang Huang et.al.|[2410.01805](http://arxiv.org/abs/2410.01805)|**[link](https://github.com/huangyuxiang03/Locret)**|
 |**2024-10-02**|**Efficient $1$ -bit tensor approximations**|Alex W. Neal Riasanovsky et.al.|[2410.01799](http://arxiv.org/abs/2410.01799)|null|
 |**2024-10-02**|**Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models**|Joseph Lee et.al.|[2410.01795](http://arxiv.org/abs/2410.01795)|**[link](https://github.com/pennshenlab/freeform)**|
