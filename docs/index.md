@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.05
+## Updated on 2024.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2653,7 +2653,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-03**|**Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**|Hanrong Zhang et.al.|[2410.02644](http://arxiv.org/abs/2410.02644)|**[link](https://github.com/agiresearch/asb)**|
-|**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.|[2410.02638](http://arxiv.org/abs/2410.02638)|null|
+|**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.|[2410.02638](http://arxiv.org/abs/2410.02638)|**[link](https://github.com/fubel/stmc)**|
 |**2024-10-03**|**Behavior Trees in Functional Safety Supervisors for Autonomous Vehicles**|Carlos Conejo et.al.|[2410.02469](http://arxiv.org/abs/2410.02469)|null|
 |**2024-10-03**|**End-to-end Driving in High-Interaction Traffic Scenarios with Reinforcement Learning**|Yueyuan Li et.al.|[2410.02253](http://arxiv.org/abs/2410.02253)|null|
 |**2024-10-03**|**Remember and Recall: Associative-Memory-based Trajectory Prediction**|Hang Guo et.al.|[2410.02201](http://arxiv.org/abs/2410.02201)|null|
