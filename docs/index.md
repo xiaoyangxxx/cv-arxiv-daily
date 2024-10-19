@@ -2658,9 +2658,9 @@ layout: default
 |**2024-10-17**|**Accurate Checkerboard Corner Detection under Defoucs**|Zezhun Shi et.al.|[2410.13371](http://arxiv.org/abs/2410.13371)|null|
 |**2024-10-16**|**MambaBEV: An efficient 3D detection model with Mamba2**|Zihan You et.al.|[2410.12673](http://arxiv.org/abs/2410.12673)|null|
 |**2024-10-16**|**Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**|Sihao Wu et.al.|[2410.12568](http://arxiv.org/abs/2410.12568)|null|
-|**2024-10-16**|**Real-time Stereo-based 3D Object Detection for Streaming Perception**|Changcai Li et.al.|[2410.12394](http://arxiv.org/abs/2410.12394)|null|
+|**2024-10-16**|**Real-time Stereo-based 3D Object Detection for Streaming Perception**|Changcai Li et.al.|[2410.12394](http://arxiv.org/abs/2410.12394)|**[link](https://github.com/weiyangdaren/streamdsgn-pytorch)**|
 |**2024-10-16**|**Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors**|Linwei Tao et.al.|[2410.12295](http://arxiv.org/abs/2410.12295)|null|
-|**2024-10-16**|**Sparse Prototype Network for Explainable Pedestrian Behavior Prediction**|Yan Feng et.al.|[2410.12195](http://arxiv.org/abs/2410.12195)|null|
+|**2024-10-16**|**Sparse Prototype Network for Explainable Pedestrian Behavior Prediction**|Yan Feng et.al.|[2410.12195](http://arxiv.org/abs/2410.12195)|**[link](https://github.com/equinoxxxxx/spn)**|
 |**2024-10-16**|**RTI-NMPC for Control of Autonomous Vehicles Using Implicit Discretization Methods**|Matheus Wagner et.al.|[2410.12170](http://arxiv.org/abs/2410.12170)|null|
 |**2024-10-16**|**Augmented Intelligence in Smart Intersections: Local Digital Twins-Assisted Hybrid Autonomous Driving**|Kui Wang et.al.|[2410.12163](http://arxiv.org/abs/2410.12163)|null|
 |**2024-10-15**|**System-Level Analysis of Module Uncertainty Quantification in the Autonomy Pipeline**|Sampada Deglurkar et.al.|[2410.12019](http://arxiv.org/abs/2410.12019)|null|
@@ -3532,7 +3532,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-16**|**Cocoon: Robust Multi-Modal Perception with Uncertainty-Aware Sensor Fusion**|Minkyoung Cho et.al.|[2410.12592](http://arxiv.org/abs/2410.12592)|null|
 |**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|null|
-|**2024-10-14**|**SMART-TRACK: A Novel Kalman Filter-Guided Sensor Fusion For Robust UAV Object Tracking in Dynamic Environments**|Khaled Gabr et.al.|[2410.10409](http://arxiv.org/abs/2410.10409)|null|
+|**2024-10-14**|**SMART-TRACK: A Novel Kalman Filter-Guided Sensor Fusion For Robust UAV Object Tracking in Dynamic Environments**|Khaled Gabr et.al.|[2410.10409](http://arxiv.org/abs/2410.10409)|**[link](https://github.com/mzahana/smart-track)**|
 |**2024-10-12**|**A Collaborative Team of UAV-Hexapod for an Autonomous Retrieval System in GNSS-Denied Maritime Environments**|Seungwook Lee et.al.|[2410.09606](http://arxiv.org/abs/2410.09606)|null|
 |**2024-10-12**|**Towards Design and Development of a Low-Cost Unmanned Surface Vehicle for Aquaculture Water Quality Monitoring in Shallow Water Environments**|Aiyelari Temilolorun et.al.|[2410.09513](http://arxiv.org/abs/2410.09513)|null|
 |**2024-10-10**|**A Visual Cooperative Localization Method for Airborne Magnetic Surveying Based on a Manifold Sensor Fusion Algorithm Using Lie Groups**|Liang Liu et.al.|[2410.07700](http://arxiv.org/abs/2410.07700)|null|
@@ -3640,7 +3640,7 @@ layout: default
 |**2024-10-17**|**How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs**|Guhao Feng et.al.|[2410.13857](http://arxiv.org/abs/2410.13857)|null|
 |**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854](http://arxiv.org/abs/2410.13854)|**[link](https://github.com/MING-ZCH/CII-Bench)**|
 |**2024-10-17**|**Retrospective Learning from Interactions**|Zizhao Chen et.al.|[2410.13852](http://arxiv.org/abs/2410.13852)|null|
-|**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|null|
+|**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|**[link](https://github.com/sail-sg/simlayerkv)**|
 |**2024-10-17**|**Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs**|Tianyu Guo et.al.|[2410.13835](http://arxiv.org/abs/2410.13835)|null|
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-17**|**Harnessing Webpage UIs for Text-Rich Visual Understanding**|Junpeng Liu et.al.|[2410.13824](http://arxiv.org/abs/2410.13824)|null|
