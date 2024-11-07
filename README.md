@@ -2676,6 +2676,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Graph-Based Multi-Modal Sensor Fusion for Autonomous Driving**|Depanshu Sani et.al.|[2411.03702](http://arxiv.org/abs/2411.03702)|null|
+|**2024-11-06**|**OccLoff: Learning Optimized Feature Fusion for 3D Occupancy Prediction**|Ji Zhang et.al.|[2411.03696](http://arxiv.org/abs/2411.03696)|null|
+|**2024-11-06**|**Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model**|Yansong Qu et.al.|[2411.03672](http://arxiv.org/abs/2411.03672)|null|
+|**2024-11-06**|**Hybrid Attention for Robust RGB-T Pedestrian Detection in Real-World Conditions**|Arunkumar Rathinam et.al.|[2411.03576](http://arxiv.org/abs/2411.03576)|null|
 |**2024-11-05**|**Knowledge Graphs of Driving Scenes to Empower the Emerging Capabilities of Neurosymbolic AI**|Ruwan Wickramarachchi et.al.|[2411.03225](http://arxiv.org/abs/2411.03225)|null|
 |**2024-11-05**|**Precise Drive with VLM: First Prize Solution for PRCV 2024 Drive LM challenge**|Bin Huang et.al.|[2411.02999](http://arxiv.org/abs/2411.02999)|null|
 |**2024-11-05**|**Region-Guided Attack on the Segment Anything Model (SAM)**|Xiaoliang Liu et.al.|[2411.02974](http://arxiv.org/abs/2411.02974)|null|
@@ -3622,6 +3626,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Graph-Based Multi-Modal Sensor Fusion for Autonomous Driving**|Depanshu Sani et.al.|[2411.03702](http://arxiv.org/abs/2411.03702)|null|
 |**2024-11-02**|**GPTR: Gaussian Process Trajectory Representation for Continuous-Time Motion Estimation**|Thien-Minh Nguyen et.al.|[2410.22931](http://arxiv.org/abs/2410.22931)|**[link](https://github.com/brytsknguyen/gptr)**|
 |**2024-10-27**|**Sensor Fusion for Autonomous Indoor UAV Navigation in Confined Spaces**|Alice James et.al.|[2410.20599](http://arxiv.org/abs/2410.20599)|null|
 |**2024-10-22**|**Resource-Efficient Sensor Fusion via System-Wide Dynamic Gated Neural Networks**|Chetna Singhal et.al.|[2410.16723](http://arxiv.org/abs/2410.16723)|null|
@@ -3736,6 +3741,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|null|
+|**2024-11-06**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105](http://arxiv.org/abs/2411.04105)|null|
+|**2024-11-06**|**Textual Decomposition Then Sub-motion-space Scattering for Open-Vocabulary Motion Generation**|Ke Fan et.al.|[2411.04079](http://arxiv.org/abs/2411.04079)|null|
+|**2024-11-06**|**Beemo: Benchmark of Expert-edited Machine-generated Outputs**|Ekaterina Artemova et.al.|[2411.04032](http://arxiv.org/abs/2411.04032)|null|
+|**2024-11-06**|**Prompt Engineering Using GPT for Word-Level Code-Mixed Language Identification in Low-Resource Dravidian Languages**|Aniket Deroy et.al.|[2411.04025](http://arxiv.org/abs/2411.04025)|null|
+|**2024-11-06**|**Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning**|Jiawei Yao et.al.|[2411.03978](http://arxiv.org/abs/2411.03978)|null|
+|**2024-11-06**|**What Really is Commonsense Knowledge?**|Quyet V. Do et.al.|[2411.03964](http://arxiv.org/abs/2411.03964)|null|
+|**2024-11-06**|**How Does A Text Preprocessing Pipeline Affect Ontology Syntactic Matching?**|Zhangcheng Qiang et.al.|[2411.03962](http://arxiv.org/abs/2411.03962)|null|
+|**2024-11-06**|**Fine-Grained Guidance for Retrievers: Leveraging LLMs' Feedback in Retrieval-Augmented Generation**|Yuhang Liu et.al.|[2411.03957](http://arxiv.org/abs/2411.03957)|null|
+|**2024-11-06**|**Long-Form Text-to-Music Generation with Adaptive Prompts: A Case of Study in Tabletop Role-Playing Games Soundtracks**|Felipe Marra et.al.|[2411.03948](http://arxiv.org/abs/2411.03948)|null|
 |**2024-11-05**|**LLMs for Domain Generation Algorithm Detection**|Reynier Leyva La O et.al.|[2411.03307](http://arxiv.org/abs/2411.03307)|null|
 |**2024-11-05**|**VERITAS: A Unified Approach to Reliability Evaluation**|Rajkumar Ramamurthy et.al.|[2411.03300](http://arxiv.org/abs/2411.03300)|null|
 |**2024-11-05**|**Examining Human-AI Collaboration for Co-Writing Constructive Comments Online**|Farhana Shahid et.al.|[2411.03295](http://arxiv.org/abs/2411.03295)|null|
