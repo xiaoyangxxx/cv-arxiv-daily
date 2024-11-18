@@ -2676,6 +2676,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Moving Forward: A Review of Autonomous Driving Software and Hardware Systems**|Xu Wang et.al.|[2411.10291](http://arxiv.org/abs/2411.10291)|null|
+|**2024-11-15**|**Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles**|Anant Garg et.al.|[2411.10171](http://arxiv.org/abs/2411.10171)|null|
+|**2024-11-15**|**Better Safe Than Sorry: Enhancing Arbitration Graphs for Safe and Robust Autonomous Decision-Making**|Piotr Spieker et.al.|[2411.10170](http://arxiv.org/abs/2411.10170)|null|
+|**2024-11-15**|**Explanation for Trajectory Planning using Multi-modal Large Language Model for Autonomous Driving**|Shota Yamazaki et.al.|[2411.09971](http://arxiv.org/abs/2411.09971)|null|
+|**2024-11-15**|**Planning by Simulation: Motion Planning with Learning-based Parallel Scenario Prediction for Autonomous Driving**|Tian Niu et.al.|[2411.09887](http://arxiv.org/abs/2411.09887)|null|
 |**2024-11-14**|**Modular Fault Diagnosis Framework for Complex Autonomous Driving Systems**|Stefan Orf et.al.|[2411.09643](http://arxiv.org/abs/2411.09643)|null|
 |**2024-11-13**|**Methodology for a Statistical Analysis of Influencing Factors on 3D Object Detection Performance**|Anton Kuznietsov et.al.|[2411.08482](http://arxiv.org/abs/2411.08482)|null|
 |**2024-11-13**|**3D Multi-Object Tracking with Semi-Supervised GRU-Kalman Filter**|Xiaoxiang Wang et.al.|[2411.08433](http://arxiv.org/abs/2411.08433)|null|
@@ -3765,6 +3770,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization**|Weiyun Wang et.al.|[2411.10442](http://arxiv.org/abs/2411.10442)|null|
+|**2024-11-15**|**LLaVA-o1: Let Vision Language Models Reason Step-by-Step**|Guowei Xu et.al.|[2411.10440](http://arxiv.org/abs/2411.10440)|null|
+|**2024-11-15**|**MARS: Unleashing the Power of Variance Reduction for Training Large Models**|Huizhuo Yuan et.al.|[2411.10438](http://arxiv.org/abs/2411.10438)|null|
+|**2024-11-15**|**Mitigating Hallucination in Multimodal Large Language Model via Hallucination-targeted Direct Preference Optimization**|Yuhan Fu et.al.|[2411.10436](http://arxiv.org/abs/2411.10436)|null|
+|**2024-11-15**|**Evaluating Creativity and Deception in Large Language Models: A Simulation Framework for Multi-Agent Balderdash**|Parsa Hejabi et.al.|[2411.10422](http://arxiv.org/abs/2411.10422)|**[link](https://github.com/parsahejabi/simulation-framework-for-multi-agent-balderdash)**|
+|**2024-11-15**|**Interactive Cycle Model -- The Linkage Combination among Automatic Speech Recognition, Large Language Models and Smart Glasses**|Libo Wang et.al.|[2411.10362](http://arxiv.org/abs/2411.10362)|null|
+|**2024-11-15**|**Bias Unveiled: Investigating Social Bias in LLM-Generated Code**|Lin Ling et.al.|[2411.10351](http://arxiv.org/abs/2411.10351)|null|
+|**2024-11-15**|**Number it: Temporal Grounding Videos like Flipping Manga**|Yongliang Wu et.al.|[2411.10332](http://arxiv.org/abs/2411.10332)|**[link](https://github.com/yongliang-wu/numpro)**|
+|**2024-11-15**|**Modification Takes Courage: Seamless Image Stitching via Reference-Driven Inpainting**|Ziqi Xie et.al.|[2411.10309](http://arxiv.org/abs/2411.10309)|**[link](https://github.com/yayoyo66/rdistitcher)**|
+|**2024-11-15**|**Static network structure cannot stabilize cooperation among Large Language Model agents**|Jin Han et.al.|[2411.10294](http://arxiv.org/abs/2411.10294)|null|
 |**2024-11-14**|**MagicQuill: An Intelligent Interactive Image Editing System**|Zichen Liu et.al.|[2411.09703](http://arxiv.org/abs/2411.09703)|null|
 |**2024-11-14**|**Advancing Fine-Grained Visual Understanding with Multi-Scale Alignment in Multi-Modal Models**|Wei Wang et.al.|[2411.09691](http://arxiv.org/abs/2411.09691)|null|
 |**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|null|
