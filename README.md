@@ -2676,6 +2676,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**FlowCLAS: Enhancing Normalizing Flow Via Contrastive Learning For Anomaly Segmentation**|Chang Won Lee et.al.|[2411.19888](http://arxiv.org/abs/2411.19888)|null|
+|**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860](http://arxiv.org/abs/2411.19860)|null|
+|**2024-11-29**|**A Multi-Loss Strategy for Vehicle Trajectory Prediction: Combining Off-Road, Diversity, and Directional Consistency Losses**|Ahmad Rahimi et.al.|[2411.19747](http://arxiv.org/abs/2411.19747)|**[link](https://github.com/vita-epfl/stay-on-track)**|
+|**2024-11-29**|**AdvFuzz: Finding More Violations Caused by the EGO Vehicle in Simulation Testing by Adversarial NPC Vehicles**|You Lu et.al.|[2411.19567](http://arxiv.org/abs/2411.19567)|null|
+|**2024-11-29**|**ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration**|Chaojun Ni et.al.|[2411.19548](http://arxiv.org/abs/2411.19548)|null|
+|**2024-11-28**|**Mapping Public Perception of Artificial Intelligence: Expectations, Risk-Benefit Tradeoffs, and Value As Determinants for Societal Acceptance**|Philipp Brauner et.al.|[2411.19356](http://arxiv.org/abs/2411.19356)|null|
+|**2024-11-28**|**UrbanCAD: Towards Highly Controllable and Photorealistic 3D Vehicles for Urban Scene Simulation**|Yichong Lu et.al.|[2411.19292](http://arxiv.org/abs/2411.19292)|null|
+|**2024-11-28**|**SADG: Segment Any Dynamic Gaussian Without Object Trackers**|Yun-Jin Li et.al.|[2411.19290](http://arxiv.org/abs/2411.19290)|**[link](https://github.com/yunjinli/SADG-SegmentAnyDynamicGaussian)**|
+|**2024-11-28**|**On-chip Hyperspectral Image Segmentation with Fully Convolutional Networks for Scene Understanding in Autonomous Driving**|Jon Gutiérrez-Zaballa et.al.|[2411.19274](http://arxiv.org/abs/2411.19274)|null|
+|**2024-11-28**|**InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception**|Haijie Li et.al.|[2411.19235](http://arxiv.org/abs/2411.19235)|null|
 |**2024-11-27**|**InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving**|Xiyan Jiang et.al.|[2411.18302](http://arxiv.org/abs/2411.18302)|**[link](https://github.com/zxc-tju/InterHub)**|
 |**2024-11-27**|**Visual Adversarial Attack on Vision-Language Models for Autonomous Driving**|Tianyuan Zhang et.al.|[2411.18275](http://arxiv.org/abs/2411.18275)|null|
 |**2024-11-27**|**From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**|Zizhao Li et.al.|[2411.18207](http://arxiv.org/abs/2411.18207)|**[link](https://github.com/343gltysprk/ovow)**|
@@ -3722,6 +3732,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-28**|**An Integrated Artificial Intelligence Operating System for Advanced Low-Altitude Aviation Applications**|Minzhe Tan et.al.|[2411.18845](http://arxiv.org/abs/2411.18845)|null|
 |**2024-11-26**|**MetaGraphLoc: A Graph-based Meta-learning Scheme for Indoor Localization via Sensor Fusion**|Yaya Etiabi et.al.|[2411.17781](http://arxiv.org/abs/2411.17781)|null|
 |**2024-11-19**|**3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality**|Hanbeom Chang et.al.|[2411.12514](http://arxiv.org/abs/2411.12514)|null|
 |**2024-11-19**|**Sensor-fusion based Prognostics Framework for Complex Engineering Systems Exhibiting Multiple Failure Modes**|Benjamin Peters et.al.|[2411.12159](http://arxiv.org/abs/2411.12159)|null|
@@ -3844,6 +3855,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951](http://arxiv.org/abs/2411.19951)|**[link](https://github.com/xjtupanda/t2vid)**|
+|**2024-11-29**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
+|**2024-11-29**|**VLSBench: Unveiling Visual Leakage in Multimodal Safety**|Xuhao Hu et.al.|[2411.19939](http://arxiv.org/abs/2411.19939)|null|
+|**2024-11-29**|**On Domain-Specific Post-Training for Multimodal Large Language Models**|Daixuan Cheng et.al.|[2411.19930](http://arxiv.org/abs/2411.19930)|null|
+|**2024-11-29**|**SIMS: Simulating Human-Scene Interactions with Real World Script Planning**|Wenjia Wang et.al.|[2411.19921](http://arxiv.org/abs/2411.19921)|null|
+|**2024-11-29**|**PDDLFuse: A Tool for Generating Diverse Planning Domains**|Vedant Khandelwal et.al.|[2411.19886](http://arxiv.org/abs/2411.19886)|null|
+|**2024-11-29**|**LUMIA: Linear probing for Unimodal and MultiModal Membership Inference A!acks leveraging internal LLM states**|Luis Ibanez-Lissen et.al.|[2411.19876](http://arxiv.org/abs/2411.19876)|null|
+|**2024-11-29**|**AIDetx: a compression-based method for identification of machine-learning generated text**|Leonardo Almeida et.al.|[2411.19869](http://arxiv.org/abs/2411.19869)|**[link](https://github.com/aidetx/aidetx)**|
+|**2024-11-29**|**Reverse Thinking Makes LLMs Stronger Reasoners**|Justin Chih-Yao Chen et.al.|[2411.19865](http://arxiv.org/abs/2411.19865)|null|
+|**2024-11-29**|**Cross-Domain Recommendation Meets Large Language Models**|Ajay Krishna Vajjala et.al.|[2411.19862](http://arxiv.org/abs/2411.19862)|**[link](https://github.com/ajaykv1/CDR_Meets_LLMs)**|
 |**2024-11-27**|**Cross-modal Information Flow in Multimodal Large Language Models**|Zhi Zhang et.al.|[2411.18620](http://arxiv.org/abs/2411.18620)|null|
 |**2024-11-27**|**Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation**|Nurshat Fateh Ali et.al.|[2411.18583](http://arxiv.org/abs/2411.18583)|null|
 |**2024-11-27**|**Challenges in Adapting Multilingual LLMs to Low-Resource Languages using LoRA PEFT Tuning**|Omkar Khade et.al.|[2411.18571](http://arxiv.org/abs/2411.18571)|null|
