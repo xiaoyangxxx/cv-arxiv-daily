@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2661,7 +2661,7 @@ layout: default
 |**2024-12-02**|**HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**|Jacky Kwok et.al.|[2412.01799](http://arxiv.org/abs/2412.01799)|null|
 |**2024-12-02**|**HUGSIM: A Real-Time, Photo-Realistic and Closed-Loop Simulator for Autonomous Driving**|Hongyu Zhou et.al.|[2412.01718](http://arxiv.org/abs/2412.01718)|null|
 |**2024-12-02**|**6DOPE-GS: Online 6D Object Pose Estimation using Gaussian Splatting**|Yufeng Jin et.al.|[2412.01543](http://arxiv.org/abs/2412.01543)|null|
-|**2024-12-02**|**InfinityDrive: Breaking Time Limits in Driving World Models**|Xi Guo et.al.|[2412.01522](http://arxiv.org/abs/2412.01522)|null|
+|**2024-12-04**|**InfinityDrive: Breaking Time Limits in Driving World Models**|Xi Guo et.al.|[2412.01522](http://arxiv.org/abs/2412.01522)|null|
 |**2024-11-29**|**FlowCLAS: Enhancing Normalizing Flow Via Contrastive Learning For Anomaly Segmentation**|Chang Won Lee et.al.|[2411.19888](http://arxiv.org/abs/2411.19888)|null|
 |**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860](http://arxiv.org/abs/2411.19860)|null|
 |**2024-11-29**|**A Multi-Loss Strategy for Vehicle Trajectory Prediction: Combining Off-Road, Diversity, and Directional Consistency Losses**|Ahmad Rahimi et.al.|[2411.19747](http://arxiv.org/abs/2411.19747)|**[link](https://github.com/vita-epfl/stay-on-track)**|
