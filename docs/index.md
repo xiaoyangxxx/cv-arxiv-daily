@@ -2652,6 +2652,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**DeepMF: Deep Motion Factorization for Closed-Loop Safety-Critical Driving Scenario Simulation**|Yizhe Li et.al.|[2412.17487](http://arxiv.org/abs/2412.17487)|null|
+|**2024-12-23**|**Feature Based Methods Domain Adaptation for Object Detection: A Review Paper**|Helia Mohamadi et.al.|[2412.17325](http://arxiv.org/abs/2412.17325)|null|
+|**2024-12-23**|**OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**|Tianyi Yan et.al.|[2412.17226](http://arxiv.org/abs/2412.17226)|null|
+|**2024-12-22**|**NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors**|Ziqi Zhou et.al.|[2412.16955](http://arxiv.org/abs/2412.16955)|**[link](https://github.com/cgcl-codes/numbod)**|
+|**2024-12-22**|**Lightweight Design and Optimization methods for DCNNs: Progress and Futures**|Hanhua Long et.al.|[2412.16886](http://arxiv.org/abs/2412.16886)|null|
+|**2024-12-22**|**Phase-change metasurfaces for reconfigurable image processing**|Tingting Liu et.al.|[2412.16856](http://arxiv.org/abs/2412.16856)|null|
+|**2024-12-21**|**Towards Selection and Transition Between Behavior-Based Neural Networks for Automated Driving**|Iqra Aslam et.al.|[2412.16764](http://arxiv.org/abs/2412.16764)|null|
+|**2024-12-21**|**A Method for the Runtime Validation of AI-based Environment Perception in Automated Driving System**|Iqra Aslam et.al.|[2412.16762](http://arxiv.org/abs/2412.16762)|null|
+|**2024-12-21**|**Application of Multimodal Large Language Models in Autonomous Driving**|Md Robiul Islam et.al.|[2412.16410](http://arxiv.org/abs/2412.16410)|null|
 |**2024-12-20**|**Camera-Based Localization and Enhanced Normalized Mutual Information**|Vishnu Teja Kunde et.al.|[2412.16137](http://arxiv.org/abs/2412.16137)|null|
 |**2024-12-20**|**Sparse Point Clouds Assisted Learned Image Compression**|Yiheng Jiang et.al.|[2412.15752](http://arxiv.org/abs/2412.15752)|null|
 |**2024-12-20**|**Mask-RadarNet: Enhancing Transformer With Spatial-Temporal Semantic Context for Radar Object Detection in Autonomous Driving**|Yuzhi Wu et.al.|[2412.15595](http://arxiv.org/abs/2412.15595)|null|
@@ -3811,6 +3820,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Robust Heart Rate Detection via Multi-Site Photoplethysmography**|Manuel Meier et.al.|[2412.17538](http://arxiv.org/abs/2412.17538)|null|
+|**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235](http://arxiv.org/abs/2412.17235)|null|
 |**2024-12-19**|**Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties**|Wenqiao Li et.al.|[2412.14592](http://arxiv.org/abs/2412.14592)|**[link](https://github.com/zzzbbbzzz/mulsen-ad)**|
 |**2024-12-16**|**Dual Unscented Kalman Filter Architecture for Sensor Fusion in Water Networks Leak Localization**|Luis Romero-Ben et.al.|[2412.11687](http://arxiv.org/abs/2412.11687)|**[link](https://github.com/luisromeroben/d-ukf-aw-gsi)**|
 |**2024-12-12**|**Integrating Vision Systems and STPA for Robust Landing and Take-Off in VTOL Aircraft**|Sandeep Banik et.al.|[2412.09505](http://arxiv.org/abs/2412.09505)|null|
@@ -3940,6 +3951,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**ChatGarment: Garment Estimation, Generation and Editing via Large Language Models**|Siyuan Bian et.al.|[2412.17811](http://arxiv.org/abs/2412.17811)|null|
+|**2024-12-23**|**ResearchTown: Simulator of Human Research Community**|Haofei Yu et.al.|[2412.17767](http://arxiv.org/abs/2412.17767)|**[link](https://github.com/ulab-uiuc/research-town)**|
+|**2024-12-23**|**ADC: Enhancing Function Calling Via Adversarial Datasets and Code Line-Level Feedback**|Wei Zhang et.al.|[2412.17754](http://arxiv.org/abs/2412.17754)|null|
+|**2024-12-23**|**Deliberation in Latent Space via Differentiable Cache Augmentation**|Luyang Liu et.al.|[2412.17747](http://arxiv.org/abs/2412.17747)|null|
+|**2024-12-23**|**YuLan-Mini: An Open Data-efficient Language Model**|Yiwen Hu et.al.|[2412.17743](http://arxiv.org/abs/2412.17743)|**[link](https://github.com/ruc-gsai/yulan-mini)**|
+|**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|null|
+|**2024-12-23**|**Knowledge Editing through Chain-of-Thought**|Changyue Wang et.al.|[2412.17727](http://arxiv.org/abs/2412.17727)|**[link](https://github.com/bebr2/editcot)**|
+|**2024-12-23**|**Understanding the Logic of Direct Preference Alignment through Logic**|Kyle Richardson et.al.|[2412.17696](http://arxiv.org/abs/2412.17696)|null|
+|**2024-12-23**|**Large Language Model Safety: A Holistic Survey**|Dan Shi et.al.|[2412.17686](http://arxiv.org/abs/2412.17686)|null|
+|**2024-12-23**|**Generating Completions for Fragmented Broca's Aphasic Sentences Using Large Language Models**|Sijbren van Vaals et.al.|[2412.17669](http://arxiv.org/abs/2412.17669)|**[link](https://github.com/sijbrenvv/completions_for_broca-s_aphasia)**|
 |**2024-12-20**|**HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding**|Chenxin Tao et.al.|[2412.16158](http://arxiv.org/abs/2412.16158)|null|
 |**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
 |**2024-12-20**|**Can LLMs Obfuscate Code? A Systematic Analysis of Large Language Models into Assembly Code Obfuscation**|Seyedreza Mohseni et.al.|[2412.16135](http://arxiv.org/abs/2412.16135)|null|
