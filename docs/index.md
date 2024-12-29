@@ -3828,7 +3828,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-23**|**Adaptive Signal Analysis for Automated Subsurface Defect Detection Using Impact Echo in Concrete Slabs**|Deepthi Pavurala et.al.|[2412.17953](http://arxiv.org/abs/2412.17953)|null|
-|**2024-12-23**|**Robust Heart Rate Detection via Multi-Site Photoplethysmography**|Manuel Meier et.al.|[2412.17538](http://arxiv.org/abs/2412.17538)|null|
+|**2024-12-23**|**Robust Heart Rate Detection via Multi-Site Photoplethysmography**|Manuel Meier et.al.|[2412.17538](http://arxiv.org/abs/2412.17538)|**[link](https://github.com/eth-siplab/MultiSite-PPG-Robust_HeartRate)**|
 |**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235](http://arxiv.org/abs/2412.17235)|null|
 |**2024-12-19**|**Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties**|Wenqiao Li et.al.|[2412.14592](http://arxiv.org/abs/2412.14592)|**[link](https://github.com/zzzbbbzzz/mulsen-ad)**|
 |**2024-12-16**|**Dual Unscented Kalman Filter Architecture for Sensor Fusion in Water Networks Leak Localization**|Luis Romero-Ben et.al.|[2412.11687](http://arxiv.org/abs/2412.11687)|**[link](https://github.com/luisromeroben/d-ukf-aw-gsi)**|
