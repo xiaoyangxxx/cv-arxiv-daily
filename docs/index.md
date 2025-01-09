@@ -2652,11 +2652,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**|Doaa Mahmud et.al.|[2501.04437](http://arxiv.org/abs/2501.04437)|null|
+|**2025-01-08**|**FGU3R: Fine-Grained Fusion via Unified 3D Representation for Multimodal 3D Object Detection**|Guoxin Zhang et.al.|[2501.04373](http://arxiv.org/abs/2501.04373)|null|
+|**2025-01-08**|**H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving**|Siran Chen et.al.|[2501.04302](http://arxiv.org/abs/2501.04302)|null|
 |**2025-01-07**|**LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving**|Lingdong Kong et.al.|[2501.04005](http://arxiv.org/abs/2501.04005)|null|
 |**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003](http://arxiv.org/abs/2501.04003)|null|
 |**2025-01-07**|**Image Segmentation: Inducing graph-based learning**|Aryan Singh et.al.|[2501.03765](http://arxiv.org/abs/2501.03765)|**[link](https://github.com/aryan-at-ul/electronic-imaging-2025-paper-4492)**|
 |**2025-01-07**|**Hybrid Machine Learning Model with a Constrained Action Space for Trajectory Prediction**|Alexander Fertig et.al.|[2501.03666](http://arxiv.org/abs/2501.03666)|null|
-|**2025-01-07**|**SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**|Xuewen Luo et.al.|[2501.03535](http://arxiv.org/abs/2501.03535)|null|
+|**2025-01-08**|**SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**|Xuewen Luo et.al.|[2501.03535](http://arxiv.org/abs/2501.03535)|null|
 |**2025-01-06**|**MObI: Multimodal Object Inpainting Using Diffusion Models**|Alexandru Buburuzan et.al.|[2501.03173](http://arxiv.org/abs/2501.03173)|null|
 |**2025-01-06**|**4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation**|Jiexi Zhong et.al.|[2501.02937](http://arxiv.org/abs/2501.02937)|null|
 |**2025-01-06**|**A Novel Vision Transformer for Camera-LiDAR Fusion based Traffic Object Segmentation**|Toomas Tahves et.al.|[2501.02858](http://arxiv.org/abs/2501.02858)|null|
@@ -4002,6 +4005,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
+|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
+|**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675](http://arxiv.org/abs/2501.04675)|null|
+|**2025-01-08**|**Assessing Language Comprehension in Large Language Models Using Construction Grammar**|Wesley Scivetti et.al.|[2501.04661](http://arxiv.org/abs/2501.04661)|null|
+|**2025-01-08**|**Multi-task retriever fine-tuning for domain-specific and efficient RAG**|Patrice Béchard et.al.|[2501.04652](http://arxiv.org/abs/2501.04652)|null|
+|**2025-01-08**|**FlairGPT: Repurposing LLMs for Interior Designs**|Gabrielle Littlefair et.al.|[2501.04648](http://arxiv.org/abs/2501.04648)|null|
+|**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635](http://arxiv.org/abs/2501.04635)|null|
+|**2025-01-08**|**"Can you be my mum?": Manipulating Social Robots in the Large Language Models Era**|Giulio Antonio Abbo et.al.|[2501.04633](http://arxiv.org/abs/2501.04633)|null|
+|**2025-01-08**|**Quantum-inspired Embeddings Projection and Similarity Metrics for Representation Learning**|Ivan Kankeu et.al.|[2501.04591](http://arxiv.org/abs/2501.04591)|null|
+|**2025-01-08**|**InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection**|Yuhang Liu et.al.|[2501.04575](http://arxiv.org/abs/2501.04575)|**[link](https://github.com/reallm-labs/infiguiagent)**|
 |**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|null|
 |**2025-01-07**|**RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance**|Matin Mortaheb et.al.|[2501.03995](http://arxiv.org/abs/2501.03995)|null|
 |**2025-01-07**|**Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles**|Yuxi Xia et.al.|[2501.03991](http://arxiv.org/abs/2501.03991)|null|
