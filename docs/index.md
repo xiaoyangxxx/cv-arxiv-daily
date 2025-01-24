@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.23
+## Updated on 2025.01.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2652,7 +2652,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-22**|**AdaWM: Adaptive World Model based Planning for Autonomous Driving**|Hang Wang et.al.|[2501.13072](http://arxiv.org/abs/2501.13072)|null|
+|**2025-01-23**|**AdaWM: Adaptive World Model based Planning for Autonomous Driving**|Hang Wang et.al.|[2501.13072](http://arxiv.org/abs/2501.13072)|null|
 |**2025-01-22**|**Int2Planner: An Intention-based Multi-modal Motion Planner for Integrated Prediction and Planning**|Xiaolei Chen et.al.|[2501.12799](http://arxiv.org/abs/2501.12799)|null|
 |**2025-01-22**|**PPO-Based Vehicle Control for Ramp Merging Scheme Assisted by Enhanced C-V2X**|Qiong Wu et.al.|[2501.12656](http://arxiv.org/abs/2501.12656)|**[link](https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x)**|
 |**2025-01-22**|**Improved Detection and Diagnosis of Faults in Deep Neural Networks Using Hierarchical and Explainable Classification**|Sigma Jahan et.al.|[2501.12560](http://arxiv.org/abs/2501.12560)|null|
