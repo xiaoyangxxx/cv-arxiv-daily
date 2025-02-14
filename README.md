@@ -2676,6 +2676,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Rolling Ahead Diffusion for Traffic Scene Simulation**|Yunpeng Liu et.al.|[2502.09587](http://arxiv.org/abs/2502.09587)|null|
+|**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
+|**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
+|**2025-02-13**|**LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**|Daocheng Fu et.al.|[2502.09170](http://arxiv.org/abs/2502.09170)|null|
+|**2025-02-13**|**Topo2Seq: Enhanced Topology Reasoning via Topology Sequence Learning**|Yiming Yang et.al.|[2502.08974](http://arxiv.org/abs/2502.08974)|null|
 |**2025-02-12**|**MoDitector: Module-Directed Testing for Autonomous Driving Systems**|Renzhi Wang et.al.|[2502.08504](http://arxiv.org/abs/2502.08504)|null|
 |**2025-02-12**|**AdvSwap: Covert Adversarial Perturbation with High Frequency Info-swapping for Autonomous Driving Perception**|Yuanhao Huang et.al.|[2502.08374](http://arxiv.org/abs/2502.08374)|null|
 |**2025-02-12**|**FixDrive: Automatically Repairing Autonomous Vehicle Driving Behaviour for $0.08 per Violation**|Yang Sun et.al.|[2502.08260](http://arxiv.org/abs/2502.08260)|null|
@@ -4017,6 +4022,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Data Sensor Fusion In Digital Twin Technology For Enhanced Capabilities In A Home Environment**|Benjamin Momoh et.al.|[2502.08874](http://arxiv.org/abs/2502.08874)|null|
 |**2025-02-07**|**The Role of Integrity Monitoring in Connected and Automated Vehicles: Current State-of-Practice and Future Directions**|Saswat Priyadarshi Nayak et.al.|[2502.04874](http://arxiv.org/abs/2502.04874)|null|
 |**2025-02-07**|**High-Speed Dynamic 3D Imaging with Sensor Fusion Splatting**|Zihao Zou et.al.|[2502.04630](http://arxiv.org/abs/2502.04630)|null|
 |**2025-02-06**|**On the effects of angular acceleration in orientation estimation using inertial measurement units**|Felix Brändle et.al.|[2502.03681](http://arxiv.org/abs/2502.03681)|null|
@@ -4175,6 +4181,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621](http://arxiv.org/abs/2502.09621)|null|
+|**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620](http://arxiv.org/abs/2502.09620)|null|
+|**2025-02-13**|**Human-LLM Coevolution: Evidence from Academic Writing**|Mingmeng Geng et.al.|[2502.09606](http://arxiv.org/abs/2502.09606)|null|
+|**2025-02-13**|**SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models**|Yung-Sung Chuang et.al.|[2502.09604](http://arxiv.org/abs/2502.09604)|null|
+|**2025-02-13**|**Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs**|Siyan Zhao et.al.|[2502.09597](http://arxiv.org/abs/2502.09597)|null|
+|**2025-02-13**|**KIMAs: A Configurable Knowledge Integrated Multi-Agent System**|Zitao Li et.al.|[2502.09596](http://arxiv.org/abs/2502.09596)|null|
+|**2025-02-13**|**Logical forms complement probability in understanding language model (and human) performance**|Yixuan Wang et.al.|[2502.09589](http://arxiv.org/abs/2502.09589)|null|
+|**2025-02-13**|**Polymind: Parallel Visual Diagramming with Large Language Models to Support Prewriting Through Microtasks**|Qian Wan et.al.|[2502.09577](http://arxiv.org/abs/2502.09577)|null|
+|**2025-02-13**|**Zero-shot generation of synthetic neurosurgical data with large language models**|Austin A. Barr et.al.|[2502.09566](http://arxiv.org/abs/2502.09566)|null|
+|**2025-02-13**|**MDCrow: Automating Molecular Dynamics Workflows with Large Language Models**|Quintina Campbell et.al.|[2502.09565](http://arxiv.org/abs/2502.09565)|null|
 |**2025-02-12**|**Examining Multilingual Embedding Models Cross-Lingually Through LLM-Generated Adversarial Examples**|Andrianos Michail et.al.|[2502.08638](http://arxiv.org/abs/2502.08638)|null|
 |**2025-02-12**|**Ensemble based approach to quantifying uncertainty of LLM based classifications**|Srijith Rajamohan et.al.|[2502.08631](http://arxiv.org/abs/2502.08631)|null|
 |**2025-02-12**|**Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks**|Ang Li et.al.|[2502.08586](http://arxiv.org/abs/2502.08586)|null|
