@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2655,7 +2655,7 @@ layout: default
 |**2025-02-13**|**Rolling Ahead Diffusion for Traffic Scene Simulation**|Yunpeng Liu et.al.|[2502.09587](http://arxiv.org/abs/2502.09587)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
-|**2025-02-13**|**LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**|Daocheng Fu et.al.|[2502.09170](http://arxiv.org/abs/2502.09170)|null|
+|**2025-02-13**|**LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**|Daocheng Fu et.al.|[2502.09170](http://arxiv.org/abs/2502.09170)|**[link](https://github.com/PJLab-ADG/LimSim)**|
 |**2025-02-13**|**Topo2Seq: Enhanced Topology Reasoning via Topology Sequence Learning**|Yiming Yang et.al.|[2502.08974](http://arxiv.org/abs/2502.08974)|null|
 |**2025-02-12**|**MoDitector: Module-Directed Testing for Autonomous Driving Systems**|Renzhi Wang et.al.|[2502.08504](http://arxiv.org/abs/2502.08504)|null|
 |**2025-02-12**|**AdvSwap: Covert Adversarial Perturbation with High Frequency Info-swapping for Autonomous Driving Perception**|Yuanhao Huang et.al.|[2502.08374](http://arxiv.org/abs/2502.08374)|null|
