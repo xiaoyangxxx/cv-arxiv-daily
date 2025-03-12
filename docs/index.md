@@ -2652,6 +2652,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[2503.08683](http://arxiv.org/abs/2503.08683)|null|
+|**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
+|**2025-03-11**|**Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**|Yufeng Diao et.al.|[2503.08661](http://arxiv.org/abs/2503.08661)|null|
+|**2025-03-11**|**HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**|Yingqi Tang et.al.|[2503.08612](http://arxiv.org/abs/2503.08612)|null|
+|**2025-03-11**|**LiSu: A Dataset and Method for LiDAR Surface Normal Estimation**|Dušan Malić et.al.|[2503.08601](http://arxiv.org/abs/2503.08601)|null|
+|**2025-03-11**|**JiSAM: Alleviate Labeling Burden and Corner Case Problems in Autonomous Driving via Minimal Real-World Data**|Runjian Chen et.al.|[2503.08422](http://arxiv.org/abs/2503.08422)|null|
+|**2025-03-11**|**V-Max: Making RL practical for Autonomous Driving**|Valentin Charraut et.al.|[2503.08388](http://arxiv.org/abs/2503.08388)|null|
+|**2025-03-11**|**Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**|Runwei Guan et.al.|[2503.08336](http://arxiv.org/abs/2503.08336)|null|
+|**2025-03-11**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
+|**2025-03-11**|**FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[2503.08162](http://arxiv.org/abs/2503.08162)|null|
 |**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587](http://arxiv.org/abs/2503.07587)|null|
 |**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/abs/2503.07485)|null|
 |**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425](http://arxiv.org/abs/2503.07425)|null|
@@ -4276,6 +4286,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs**|Ariba Khan et.al.|[2503.08688](http://arxiv.org/abs/2503.08688)|null|
+|**2025-03-11**|**Self-Taught Self-Correction for Small Language Models**|Viktor Moskvoretskii et.al.|[2503.08681](http://arxiv.org/abs/2503.08681)|null|
+|**2025-03-11**|**Exploring the Word Sense Disambiguation Capabilities of Large Language Models**|Pierpaolo Basile et.al.|[2503.08662](http://arxiv.org/abs/2503.08662)|null|
+|**2025-03-11**|**LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization**|Xianfeng Wu et.al.|[2503.08619](http://arxiv.org/abs/2503.08619)|null|
+|**2025-03-11**|**EMMOE: A Comprehensive Benchmark for Embodied Mobile Manipulation in Open Environments**|Dongping Li et.al.|[2503.08604](http://arxiv.org/abs/2503.08604)|null|
+|**2025-03-11**|**NSF-SciFy: Mining the NSF Awards Database for Scientific Claims**|Delip Rao et.al.|[2503.08600](http://arxiv.org/abs/2503.08600)|null|
+|**2025-03-11**|**HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding**|Shehreen Azad et.al.|[2503.08585](http://arxiv.org/abs/2503.08585)|null|
+|**2025-03-11**|**RAG-Adapter: A Plug-and-Play RAG-enhanced Framework for Long Video Understanding**|Xichen Tan et.al.|[2503.08576](http://arxiv.org/abs/2503.08576)|null|
+|**2025-03-11**|**DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process**|Minjun Zhu et.al.|[2503.08569](http://arxiv.org/abs/2503.08569)|null|
+|**2025-03-11**|**Reasoning and Sampling-Augmented MCQ Difficulty Prediction via LLMs**|Wanyong Feng et.al.|[2503.08551](http://arxiv.org/abs/2503.08551)|null|
 |**2025-03-10**|**Talking to GDELT Through Knowledge Graphs**|Audun Myers et.al.|[2503.07584](http://arxiv.org/abs/2503.07584)|null|
 |**2025-03-10**|**Junior Software Developers' Perspectives on Adopting LLMs for Software Engineering: a Systematic Literature Review**|Samuel Ferino et.al.|[2503.07556](http://arxiv.org/abs/2503.07556)|null|
 |**2025-03-10**|**KSOD: Knowledge Supplement for LLMs On Demand**|Haoran Li et.al.|[2503.07550](http://arxiv.org/abs/2503.07550)|null|
