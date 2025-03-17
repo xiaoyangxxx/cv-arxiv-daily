@@ -2676,6 +2676,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**|Chonghao Sima et.al.|[2503.11650](http://arxiv.org/abs/2503.11650)|null|
+|**2025-03-14**|**A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**|Tin Stribor Sohn et.al.|[2503.11400](http://arxiv.org/abs/2503.11400)|null|
+|**2025-03-14**|**BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**|Ziyue Wang et.al.|[2503.11372](http://arxiv.org/abs/2503.11372)|null|
+|**2025-03-14**|**Learning-Based MPC for Efficient Control of Autonomous Vehicles**|Samuel Mallick et.al.|[2503.11359](http://arxiv.org/abs/2503.11359)|null|
+|**2025-03-14**|**DynRsl-VLM: Enhancing Autonomous Driving Perception with Dynamic Resolution Vision-Language Models**|Xirui Zhou et.al.|[2503.11265](http://arxiv.org/abs/2503.11265)|null|
+|**2025-03-14**|**DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation**|Hongbin Lin et.al.|[2503.11122](http://arxiv.org/abs/2503.11122)|null|
+|**2025-03-14**|**Active Learning from Scene Embeddings for End-to-End Autonomous Driving**|Wenhao Jiang et.al.|[2503.11062](http://arxiv.org/abs/2503.11062)|null|
+|**2025-03-13**|**Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM**|Yizhou Huang et.al.|[2503.10898](http://arxiv.org/abs/2503.10898)|null|
+|**2025-03-13**|**TAIJI: Textual Anchoring for Immunizing Jailbreak Images in Vision Language Models**|Xiangyu Yin et.al.|[2503.10872](http://arxiv.org/abs/2503.10872)|null|
 |**2025-03-13**|**DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[2503.10621](http://arxiv.org/abs/2503.10621)|**[link](https://github.com/ayesha-ishaq/drivelmm-o1)**|
 |**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[2503.10605](http://arxiv.org/abs/2503.10605)|**[link](https://github.com/ika-rwth-aachen/occuq)**|
 |**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604](http://arxiv.org/abs/2503.10604)|null|
@@ -4322,6 +4331,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**PARIC: Probabilistic Attention Regularization for Language Guided Image Classification from Pre-trained Vison Language Models**|Mayank Nautiyal et.al.|[2503.11360](http://arxiv.org/abs/2503.11360)|null|
 |**2024-10-12**|**Debiasing Vison-Language Models with Text-Only Training**|Yunfan Yang et.al.|[2410.09365](http://arxiv.org/abs/2410.09365)|null|
 |**2024-08-20**|**Learning Instruction-Guided Manipulation Affordance via Large Models for Embodied Robotic Tasks**|Dayou Li et.al.|[2408.10658](http://arxiv.org/abs/2408.10658)|null|
 |**2024-10-28**|**Advancing Cross-domain Discriminability in Continual Learning of Vision-Language Models**|Yicheng Xu et.al.|[2406.18868](http://arxiv.org/abs/2406.18868)|**[link](https://github.com/linghan1997/regression-based-analytic-incremental-learning)**|
@@ -4334,6 +4344,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**ASMA-Tune: Unlocking LLMs' Assembly Code Comprehension via Structural-Semantic Instruction Tuning**|Xinyi Wang et.al.|[2503.11617](http://arxiv.org/abs/2503.11617)|null|
+|**2025-03-14**|**Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs using Semantic Space**|Zhiliang Chen et.al.|[2503.11586](http://arxiv.org/abs/2503.11586)|null|
+|**2025-03-14**|**Synthesizing Access Control Policies using Large Language Models**|Adarsh Vatsa et.al.|[2503.11573](http://arxiv.org/abs/2503.11573)|null|
+|**2025-03-14**|**Implicit Bias-Like Patterns in Reasoning Models**|Messi H. J. Lee et.al.|[2503.11572](http://arxiv.org/abs/2503.11572)|null|
+|**2025-03-14**|**VERIFY: A Benchmark of Visual Explanation and Reasoning for Investigating Multimodal Reasoning Fidelity**|Jing Bi et.al.|[2503.11557](http://arxiv.org/abs/2503.11557)|null|
+|**2025-03-14**|**Potential of large language model-powered nudges for promoting daily water and energy conservation**|Zonghan Li et.al.|[2503.11531](http://arxiv.org/abs/2503.11531)|null|
+|**2025-03-14**|**HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models**|Ziqin Zhou et.al.|[2503.11513](http://arxiv.org/abs/2503.11513)|null|
+|**2025-03-14**|**V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning**|Zixu Cheng et.al.|[2503.11495](http://arxiv.org/abs/2503.11495)|null|
+|**2025-03-14**|**A Review of DeepSeek Models' Key Innovative Techniques**|Chengen Wang et.al.|[2503.11486](http://arxiv.org/abs/2503.11486)|null|
+|**2025-03-14**|**Integrating LLMs in Gamified Systems**|Carlos J. Costa et.al.|[2503.11458](http://arxiv.org/abs/2503.11458)|null|
 |**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639](http://arxiv.org/abs/2503.10639)|**[link](https://github.com/rongyaofang/got)**|
 |**2025-03-13**|**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**|Jiaming Liu et.al.|[2503.10631](http://arxiv.org/abs/2503.10631)|null|
 |**2025-03-13**|**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**|Hang Yin et.al.|[2503.10630](http://arxiv.org/abs/2503.10630)|null|
