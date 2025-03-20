@@ -2676,7 +2676,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-19**|**Advances in 4D Generation: A Survey**|Qiaowei Miao et.al.|[2503.14501](http://arxiv.org/abs/2503.14501)|null|
+|**2025-03-19**|**V2X-DG: Domain Generalization for Vehicle-to-Everything Cooperative Perception**|Baolu Li et.al.|[2503.15435](http://arxiv.org/abs/2503.15435)|null|
+|**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[2503.15284](http://arxiv.org/abs/2503.15284)|null|
+|**2025-03-19**|**An Investigation of Beam Density on LiDAR Object Detection Performance**|Christoph Griesbacher et.al.|[2503.15087](http://arxiv.org/abs/2503.15087)|null|
+|**2025-03-19**|**DRoPE: Directional Rotary Position Embedding for Efficient Agent Interaction Modeling**|Jianbo Zhao et.al.|[2503.15029](http://arxiv.org/abs/2503.15029)|null|
+|**2025-03-19**|**USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network**|Joseph Emmanuel DL Dayo et.al.|[2503.14950](http://arxiv.org/abs/2503.14950)|null|
+|**2025-03-19**|**Generating Multimodal Driving Scenes via Next-Scene Prediction**|Yanhao Wu et.al.|[2503.14945](http://arxiv.org/abs/2503.14945)|null|
+|**2025-03-19**|**SemanticFlow: A Self-Supervised Framework for Joint Scene Flow Prediction and Instance Segmentation in Dynamic Environments**|Yinqi Chen et.al.|[2503.14837](http://arxiv.org/abs/2503.14837)|null|
+|**2025-03-19**|**MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models**|Chejian Xu et.al.|[2503.14827](http://arxiv.org/abs/2503.14827)|null|
+|**2025-03-18**|**RAT: Boosting Misclassification Detection Ability without Extra Data**|Ge Yan et.al.|[2503.14783](http://arxiv.org/abs/2503.14783)|null|
+|**2025-03-19**|**Advances in 4D Generation: A Survey**|Qiaowei Miao et.al.|[2503.14501](http://arxiv.org/abs/2503.14501)|**[link](https://github.com/miaoqiaowei/awesome-4d)**|
 |**2025-03-18**|**Tracking Meets Large Multimodal Models for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[2503.14498](http://arxiv.org/abs/2503.14498)|null|
 |**2025-03-18**|**Driving behavior recognition via self-discovery learning**|Yilin Wang et.al.|[2503.14194](http://arxiv.org/abs/2503.14194)|null|
 |**2025-03-18**|**Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**|Bozhou Zhang et.al.|[2503.14182](http://arxiv.org/abs/2503.14182)|null|
@@ -4365,6 +4374,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks**|Yifei Zhou et.al.|[2503.15478](http://arxiv.org/abs/2503.15478)|null|
+|**2025-03-19**|**Cube: A Roblox View of 3D Intelligence**|Foundation AI Team et.al.|[2503.15475](http://arxiv.org/abs/2503.15475)|null|
+|**2025-03-19**|**From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment**|Jia-Nan Li et.al.|[2503.15463](http://arxiv.org/abs/2503.15463)|null|
+|**2025-03-19**|**Visual Position Prompt for MLLM based Visual Grounding**|Wei Tang et.al.|[2503.15426](http://arxiv.org/abs/2503.15426)|null|
+|**2025-03-19**|**Probing the topology of the space of tokens with structured prompts**|Michael Robinson et.al.|[2503.15421](http://arxiv.org/abs/2503.15421)|null|
+|**2025-03-19**|**EfficientLLaVA:Generalizable Auto-Pruning for Large Vision-language Models**|Yinan Liang et.al.|[2503.15369](http://arxiv.org/abs/2503.15369)|null|
+|**2025-03-19**|**SemEval-2025 Task 1: AdMIRe -- Advancing Multimodal Idiomaticity Representation**|Thomas Pickard et.al.|[2503.15358](http://arxiv.org/abs/2503.15358)|null|
+|**2025-03-19**|**SPILL: Domain-Adaptive Intent Clustering based on Selection and Pooling with Large Language Models**|I-Fan Lin et.al.|[2503.15351](http://arxiv.org/abs/2503.15351)|null|
+|**2025-03-19**|**TruthLens:A Training-Free Paradigm for DeepFake Detection**|Ritabrata Chakraborty et.al.|[2503.15342](http://arxiv.org/abs/2503.15342)|null|
+|**2025-03-19**|**Uncertainty-Guided Chain-of-Thought for Code Generation with LLMs**|Yuqi Zhu et.al.|[2503.15341](http://arxiv.org/abs/2503.15341)|null|
 |**2025-03-18**|**Aligning Multimodal LLM with Human Preference: A Survey**|Tao Yu et.al.|[2503.14504](http://arxiv.org/abs/2503.14504)|null|
 |**2025-03-18**|**Engineering Scientific Assistants using Interactive Structured Induction of Programs**|Shraddha Surana et.al.|[2503.14488](http://arxiv.org/abs/2503.14488)|null|
 |**2025-03-18**|**Gricean Norms as a Basis for Effective Collaboration**|Fardin Saad et.al.|[2503.14484](http://arxiv.org/abs/2503.14484)|null|
