@@ -2676,13 +2676,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**|Jingyi Wang et.al.|[2504.02450](http://arxiv.org/abs/2504.02450)|null|
+|**2025-04-03**|**MinkOcc: Towards real-time label-efficient semantic occupancy prediction**|Samuel Sze et.al.|[2504.02270](http://arxiv.org/abs/2504.02270)|null|
+|**2025-04-02**|**On Simulation-Guided LLM-based Code Generation for Safe Autonomous Driving Software**|Ali Nouri et.al.|[2504.02141](http://arxiv.org/abs/2504.02141)|null|
 |**2025-04-03**|**Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[2504.01957](http://arxiv.org/abs/2504.01957)|null|
 |**2025-04-02**|**End-to-End Driving with Online Trajectory Evaluation via BEV World Model**|Yingyan Li et.al.|[2504.01941](http://arxiv.org/abs/2504.01941)|null|
 |**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668](http://arxiv.org/abs/2504.01668)|null|
 |**2025-04-02**|**Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning**|Luca Garello et.al.|[2504.01588](http://arxiv.org/abs/2504.01588)|null|
 |**2025-04-02**|**Deep LG-Track: An Enhanced Localization-Confidence-Guided Multi-Object Tracker**|Ting Meng et.al.|[2504.01457](http://arxiv.org/abs/2504.01457)|null|
 |**2025-04-02**|**DF-Calib: Targetless LiDAR-Camera Calibration via Depth Flow**|Shu Han et.al.|[2504.01416](http://arxiv.org/abs/2504.01416)|null|
-|**2025-04-02**|**Pedestrian-Aware Motion Planning for Autonomous Driving in Complex Urban Scenarios**|Korbinian Moller et.al.|[2504.01409](http://arxiv.org/abs/2504.01409)|null|
+|**2025-04-02**|**Pedestrian-Aware Motion Planning for Autonomous Driving in Complex Urban Scenarios**|Korbinian Moller et.al.|[2504.01409](http://arxiv.org/abs/2504.01409)|**[link](https://github.com/tum-avs/pedestrianawaremotionplanning)**|
 |**2025-04-02**|**From Shadows to Safety: Occlusion Tracking and Risk Mitigation for Urban Autonomous Driving**|Korbinian Moller et.al.|[2504.01408](http://arxiv.org/abs/2504.01408)|null|
 |**2025-04-01**|**Foundation Models for Autonomous Driving System: An Initial Roadmap**|Xiongfei Wu et.al.|[2504.00911](http://arxiv.org/abs/2504.00911)|null|
 |**2025-04-01**|**NeuRadar: Neural Radiance Fields for Automotive Radar Point Clouds**|Mahan Rafidashti et.al.|[2504.00859](http://arxiv.org/abs/2504.00859)|null|
@@ -4279,7 +4282,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-31**|**Cal or No Cal? -- Real-Time Miscalibration Detection of LiDAR and Camera Sensors**|Ilir Tahiraj et.al.|[2504.01040](http://arxiv.org/abs/2504.01040)|null|
+|**2025-04-03**|**MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion**|Trung Thanh Nguyen et.al.|[2504.02287](http://arxiv.org/abs/2504.02287)|null|
+|**2025-04-03**|**MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition**|Trung Thanh Nguyen et.al.|[2504.02279](http://arxiv.org/abs/2504.02279)|null|
+|**2025-03-31**|**Cal or No Cal? -- Real-Time Miscalibration Detection of LiDAR and Camera Sensors**|Ilir Tahiraj et.al.|[2504.01040](http://arxiv.org/abs/2504.01040)|**[link](https://github.com/tumftm/miscalibrationdetection)**|
 |**2025-03-30**|**Design and Experimental Validation of an Autonomous USV for Sensor Fusion-Based Navigation in GNSS-Denied Environments**|Samuel Cohen-Salmon et.al.|[2503.23445](http://arxiv.org/abs/2503.23445)|null|
 |**2025-03-30**|**VideoFusion: A Spatio-Temporal Collaborative Network for Mutli-modal Video Fusion and Restoration**|Linfeng Tang et.al.|[2503.23359](http://arxiv.org/abs/2503.23359)|null|
 |**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-mobility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
@@ -4460,6 +4465,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/abs/2504.02821)|null|
+|**2025-04-03**|**Generative Evaluation of Complex Reasoning in Large Language Models**|Haowei Lin et.al.|[2504.02810](http://arxiv.org/abs/2504.02810)|null|
+|**2025-04-03**|**MegaMath: Pushing the Limits of Open Math Corpora**|Fan Zhou et.al.|[2504.02807](http://arxiv.org/abs/2504.02807)|null|
+|**2025-04-03**|**A Survey of Large Language Models in Mental Health Disorder Detection on Social Media**|Zhuohan Ge et.al.|[2504.02800](http://arxiv.org/abs/2504.02800)|null|
+|**2025-04-03**|**A Framework for Robust Cognitive Evaluation of LLMs**|Karin de Langis et.al.|[2504.02789](http://arxiv.org/abs/2504.02789)|null|
+|**2025-04-03**|**From Consumption to Collaboration: Measuring Interaction Patterns to Augment Human Cognition in Open-Ended Tasks**|Joshua Holstein et.al.|[2504.02780](http://arxiv.org/abs/2504.02780)|null|
+|**2025-04-03**|**BT-ACTION: A Test-Driven Approach for Modular Understanding of User Instruction Leveraging Behaviour Trees and LLMs**|Alexander Leszczynski et.al.|[2504.02779](http://arxiv.org/abs/2504.02779)|null|
+|**2025-04-03**|**How Deep Do Large Language Models Internalize Scientific Literature and Citation Practices?**|Andres Algaba et.al.|[2504.02767](http://arxiv.org/abs/2504.02767)|null|
+|**2025-04-03**|**Enhancing LLM Robustness to Perturbed Instructions: An Empirical Study**|Aryan Agrawal et.al.|[2504.02733](http://arxiv.org/abs/2504.02733)|null|
+|**2025-04-03**|**Why do LLMs attend to the first token?**|Federico Barbero et.al.|[2504.02732](http://arxiv.org/abs/2504.02732)|null|
 |**2025-04-02**|**Towards Unified Referring Expression Segmentation Across Omni-Level Visual Target Granularities**|Jing Liu et.al.|[2504.01954](http://arxiv.org/abs/2504.01954)|null|
 |**2025-04-02**|**The LLM Wears Prada: Analysing Gender Bias and Stereotypes through Online Shopping Data**|Massimiliano Luca et.al.|[2504.01951](http://arxiv.org/abs/2504.01951)|null|
 |**2025-04-02**|**OpenCodeReasoning: Advancing Data Distillation for Competitive Coding**|Wasi Uddin Ahmad et.al.|[2504.01943](http://arxiv.org/abs/2504.01943)|null|
