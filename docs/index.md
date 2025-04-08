@@ -2652,6 +2652,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Texture2LoD3: Enabling LoD3 Building Reconstruction With Panoramic Images**|Wenzhao Tang et.al.|[2504.05249](http://arxiv.org/abs/2504.05249)|null|
+|**2025-04-07**|**Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**|Yu Min Park et.al.|[2504.05187](http://arxiv.org/abs/2504.05187)|null|
+|**2025-04-07**|**Balancing Robustness and Efficiency in Embedded DNNs Through Activation Function Selection**|Jon Gutiérrez Zaballa et.al.|[2504.05119](http://arxiv.org/abs/2504.05119)|null|
+|**2025-04-07**|**MIAT: Maneuver-Intention-Aware Transformer for Spatio-Temporal Trajectory Prediction**|Chandra Raskoti et.al.|[2504.05059](http://arxiv.org/abs/2504.05059)|null|
+|**2025-04-07**|**GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network**|Yunxiang Liu et.al.|[2504.04862](http://arxiv.org/abs/2504.04862)|null|
+|**2025-04-07**|**Prior2Former -- Evidential Modeling of Mask Transformers for Assumption-Free Open-World Panoptic Segmentation**|Sebastian Schmidt et.al.|[2504.04841](http://arxiv.org/abs/2504.04841)|null|
+|**2025-04-07**|**Large-Scale Mixed-Traffic and Intersection Control using Multi-agent Reinforcement Learning**|Songyang Liu et.al.|[2504.04691](http://arxiv.org/abs/2504.04691)|null|
+|**2025-04-06**|**Targetless LiDAR-Camera Calibration with Anchored 3D Gaussians**|Haebeom Jung et.al.|[2504.04597](http://arxiv.org/abs/2504.04597)|null|
+|**2025-04-06**|**"You just can't go around killing people" Explaining Agent Behavior to a Human Terminator**|Uri Menkes et.al.|[2504.04592](http://arxiv.org/abs/2504.04592)|null|
+|**2025-04-06**|**Understanding Collective Stability of ACC Systems: From Theory to Real-World Observations**|Raphael Korbmacher et.al.|[2504.04530](http://arxiv.org/abs/2504.04530)|null|
 |**2025-04-04**|**PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector**|Kaidong Li et.al.|[2504.03563](http://arxiv.org/abs/2504.03563)|null|
 |**2025-04-04**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438](http://arxiv.org/abs/2504.03438)|null|
 |**2025-04-07**|**NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving**|Kexin Tian et.al.|[2504.03164](http://arxiv.org/abs/2504.03164)|null|
@@ -4260,9 +4270,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-06**|**Systematic Literature Review on Vehicular Collaborative Perception -- A Computer Vision Perspective**|Lei Wan et.al.|[2504.04631](http://arxiv.org/abs/2504.04631)|null|
 |**2025-04-04**|**Real-Time Roadway Obstacle Detection for Electric Scooters Using Deep Learning and Multi-Sensor Fusion**|Zeyang Zheng et.al.|[2504.03171](http://arxiv.org/abs/2504.03171)|null|
 |**2025-04-03**|**MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion**|Trung Thanh Nguyen et.al.|[2504.02287](http://arxiv.org/abs/2504.02287)|null|
-|**2025-04-03**|**MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition**|Trung Thanh Nguyen et.al.|[2504.02279](http://arxiv.org/abs/2504.02279)|null|
+|**2025-04-07**|**MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition**|Trung Thanh Nguyen et.al.|[2504.02279](http://arxiv.org/abs/2504.02279)|null|
 |**2025-03-31**|**Cal or No Cal? -- Real-Time Miscalibration Detection of LiDAR and Camera Sensors**|Ilir Tahiraj et.al.|[2504.01040](http://arxiv.org/abs/2504.01040)|**[link](https://github.com/tumftm/miscalibrationdetection)**|
 |**2025-03-30**|**Design and Experimental Validation of an Autonomous USV for Sensor Fusion-Based Navigation in GNSS-Denied Environments**|Samuel Cohen-Salmon et.al.|[2503.23445](http://arxiv.org/abs/2503.23445)|null|
 |**2025-03-30**|**VideoFusion: A Spatio-Temporal Collaborative Network for Mutli-modal Video Fusion and Restoration**|Linfeng Tang et.al.|[2503.23359](http://arxiv.org/abs/2503.23359)|null|
@@ -4440,6 +4451,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305](http://arxiv.org/abs/2504.05305)|null|
+|**2025-04-07**|**Truthful or Fabricated? Using Causal Attribution to Mitigate Reward Hacking in Explanations**|Pedro Ferreira et.al.|[2504.05294](http://arxiv.org/abs/2504.05294)|null|
+|**2025-04-07**|**The challenge of uncertainty quantification of large language models in medicine**|Zahra Atf et.al.|[2504.05278](http://arxiv.org/abs/2504.05278)|null|
+|**2025-04-07**|**Enhancing LLM-Based Short Answer Grading with Retrieval-Augmented Generation**|Yucheng Chu et.al.|[2504.05276](http://arxiv.org/abs/2504.05276)|null|
+|**2025-04-07**|**Do PhD-level LLMs Truly Grasp Elementary Addition? Probing Rule Learning vs. Memorization in Large Language Models**|Yang Yan et.al.|[2504.05262](http://arxiv.org/abs/2504.05262)|null|
+|**2025-04-07**|**Learning to Reason Over Time: Timeline Self-Reflection for Improved Temporal Reasoning in Language Models**|Adrián Bazaga et.al.|[2504.05258](http://arxiv.org/abs/2504.05258)|null|
+|**2025-04-07**|**Explaining Low Perception Model Competency with High-Competency Counterfactuals**|Sara Pohland et.al.|[2504.05254](http://arxiv.org/abs/2504.05254)|null|
+|**2025-04-07**|**LLM-based Automated Grading with Human-in-the-Loop**|Hang Li et.al.|[2504.05239](http://arxiv.org/abs/2504.05239)|null|
+|**2025-04-07**|**Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG**|Hengran Zhang et.al.|[2504.05220](http://arxiv.org/abs/2504.05220)|null|
+|**2025-04-07**|**Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling**|Hengran Zhang et.al.|[2504.05216](http://arxiv.org/abs/2504.05216)|null|
 |**2025-04-04**|**Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning**|Xinyi Wang et.al.|[2504.03635](http://arxiv.org/abs/2504.03635)|null|
 |**2025-04-04**|**Align to Structure: Aligning Large Language Models with Structural Information**|Zae Myung Kim et.al.|[2504.03622](http://arxiv.org/abs/2504.03622)|null|
 |**2025-04-04**|**VISTA-OCR: Towards generative and interactive end to end OCR models**|Laziz Hamdi et.al.|[2504.03621](http://arxiv.org/abs/2504.03621)|null|
