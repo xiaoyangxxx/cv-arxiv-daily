@@ -2676,6 +2676,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[2504.10485](http://arxiv.org/abs/2504.10485)|null|
+|**2025-04-14**|**Siamese Network with Dual Attention for EEG-Driven Social Learning: Bridging the Human-Robot Gap in Long-Tail Autonomous Driving**|Xiaoshan Zhou et.al.|[2504.10296](http://arxiv.org/abs/2504.10296)|null|
+|**2025-04-14**|**LMFormer: Lane based Motion Prediction Transformer**|Harsh Yadav et.al.|[2504.10275](http://arxiv.org/abs/2504.10275)|null|
+|**2025-04-14**|**Vision based driving agent for race car simulation environments**|Gergely Bári et.al.|[2504.10266](http://arxiv.org/abs/2504.10266)|null|
+|**2025-04-14**|**Balancing Two Classifiers via A Simplex ETF Structure for Model Calibration**|Jiani Ni et.al.|[2504.10007](http://arxiv.org/abs/2504.10007)|null|
+|**2025-04-14**|**Towards Resilient Tracking in Autonomous Vehicles: A Distributionally Robust Input and State Estimation Approach**|Kasra Azizi et.al.|[2504.09974](http://arxiv.org/abs/2504.09974)|null|
+|**2025-04-13**|**FastRSR: Efficient and Accurate Road Surface Reconstruction from Bird's Eye View**|Yuting Zhao et.al.|[2504.09535](http://arxiv.org/abs/2504.09535)|null|
+|**2025-04-13**|**ADDT -- A Digital Twin Framework for Proactive Safety Validation in Autonomous Driving Systems**|Bo Yu et.al.|[2504.09461](http://arxiv.org/abs/2504.09461)|null|
+|**2025-04-12**|**Minority Reports: Balancing Cost and Quality in Ground Truth Data Annotation**|Hsuan Wei Liao et.al.|[2504.09341](http://arxiv.org/abs/2504.09341)|null|
+|**2025-04-12**|**ReferGPT: Towards Zero-Shot Referring Multi-Object Tracking**|Tzoulio Chamiti et.al.|[2504.09195](http://arxiv.org/abs/2504.09195)|null|
 |**2025-04-11**|**Offline Reinforcement Learning using Human-Aligned Reward Labeling for Autonomous Emergency Braking in Occluded Pedestrian Crossing**|Vinal Asodia et.al.|[2504.08704](http://arxiv.org/abs/2504.08704)|null|
 |**2025-04-11**|**TinyCenterSpeed: Efficient Center-Based Object Detection for Autonomous Racing**|Neil Reichlin et.al.|[2504.08655](http://arxiv.org/abs/2504.08655)|null|
 |**2025-04-11**|**Shadow Erosion and Nighttime Adaptability for Camera-Based Automated Driving Applications**|Mohamed Sabry et.al.|[2504.08551](http://arxiv.org/abs/2504.08551)|null|
@@ -4506,6 +4516,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479](http://arxiv.org/abs/2504.10479)|null|
+|**2025-04-14**|**MIEB: Massive Image Embedding Benchmark**|Chenghao Xiao et.al.|[2504.10471](http://arxiv.org/abs/2504.10471)|null|
+|**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Tao Zhang et.al.|[2504.10465](http://arxiv.org/abs/2504.10465)|null|
+|**2025-04-14**|**The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer**|Weixian Lei et.al.|[2504.10462](http://arxiv.org/abs/2504.10462)|null|
+|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
+|**2025-04-14**|**M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models**|Junxiong Wang et.al.|[2504.10449](http://arxiv.org/abs/2504.10449)|null|
+|**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443](http://arxiv.org/abs/2504.10443)|null|
+|**2025-04-14**|**LLM Can be a Dangerous Persuader: Empirical Study of Persuasion Safety in Large Language Models**|Minqian Liu et.al.|[2504.10430](http://arxiv.org/abs/2504.10430)|null|
+|**2025-04-14**|**Can We Edit LLMs for Long-Tail Biomedical Knowledge?**|Xinhao Yi et.al.|[2504.10421](http://arxiv.org/abs/2504.10421)|null|
+|**2025-04-14**|**Unchecked and Overlooked: Addressing the Checkbox Blind Spot in Large Language Models with CheckboxQA**|Michał Turski et.al.|[2504.10419](http://arxiv.org/abs/2504.10419)|null|
 |**2025-04-11**|**Quantum Large Language Model Fine-Tuning**|Sang Hyub Kim et.al.|[2504.08732](http://arxiv.org/abs/2504.08732)|null|
 |**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725](http://arxiv.org/abs/2504.08725)|null|
 |**2025-04-11**|**SWE-PolyBench: A multi-language benchmark for repository level evaluation of coding agents**|Muhammad Shihab Rashid et.al.|[2504.08703](http://arxiv.org/abs/2504.08703)|null|
