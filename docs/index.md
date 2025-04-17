@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2652,7 +2652,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-15**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014](http://arxiv.org/abs/2504.11014)|null|
+|**2025-04-16**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014](http://arxiv.org/abs/2504.11014)|null|
 |**2025-04-15**|**Can Vision-Language Models Understand and Interpret Dynamic Gestures from Pedestrians? Pilot Datasets and Exploration Towards Instructive Nonverbal Commands for Cooperative Autonomous Vehicles**|Tonko E. W. Bossen et.al.|[2504.10873](http://arxiv.org/abs/2504.10873)|null|
 |**2025-04-15**|**PatrolVision: Automated License Plate Recognition in the wild**|Anmol Singhal Navya Singhal et.al.|[2504.10810](http://arxiv.org/abs/2504.10810)|null|
 |**2025-04-14**|**ReasonDrive: Efficient Visual Question Answering for Autonomous Vehicles with Reasoning-Enhanced Small Vision-Language Models**|Amirhosein Chahe et.al.|[2504.10757](http://arxiv.org/abs/2504.10757)|null|
