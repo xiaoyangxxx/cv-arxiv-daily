@@ -2676,6 +2676,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**MS-Occ: Multi-Stage LiDAR-Camera Fusion for 3D Semantic Occupancy Prediction**|Zhiqiang Wei et.al.|[2504.15888](http://arxiv.org/abs/2504.15888)|null|
+|**2025-04-22**|**Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**|Quentin Herau et.al.|[2504.15776](http://arxiv.org/abs/2504.15776)|null|
+|**2025-04-22**|**Dynamic Intent Queries for Motion Transformer-based Trajectory Prediction**|Tobias Demmler et.al.|[2504.15766](http://arxiv.org/abs/2504.15766)|null|
+|**2025-04-22**|**SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems**|Manjunath D et.al.|[2504.15728](http://arxiv.org/abs/2504.15728)|null|
+|**2025-04-22**|**RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**|Qichao Liu et.al.|[2504.15541](http://arxiv.org/abs/2504.15541)|null|
+|**2025-04-21**|**Improving Human-AI Coordination through Adversarial Training and Generative Models**|Paresh Chaudhary et.al.|[2504.15457](http://arxiv.org/abs/2504.15457)|null|
 |**2025-04-20**|**Adaptive Field Effect Planner for Safe Interactive Autonomous Driving on Curved Roads**|Qinghao Li et.al.|[2504.14747](http://arxiv.org/abs/2504.14747)|null|
 |**2025-04-20**|**SMTT: Novel Structured Multi-task Tracking with Graph-Regularized Sparse Representation for Robust Thermal Infrared Target Tracking**|Shang Zhang et.al.|[2504.14566](http://arxiv.org/abs/2504.14566)|null|
 |**2025-04-20**|**Should Benevolent Deception be Allowed in EHMI? A Mechanism Explanation Based on Game Theory**|Linkun Liu et.al.|[2504.14539](http://arxiv.org/abs/2504.14539)|null|
@@ -4545,6 +4551,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**TTRL: Test-Time Reinforcement Learning**|Yuxin Zuo et.al.|[2504.16084](http://arxiv.org/abs/2504.16084)|null|
+|**2025-04-22**|**From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning**|Le Zhuo et.al.|[2504.16080](http://arxiv.org/abs/2504.16080)|null|
+|**2025-04-22**|**LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities**|Thomas Schmied et.al.|[2504.16078](http://arxiv.org/abs/2504.16078)|null|
+|**2025-04-22**|**PHYBench: Holistic Evaluation of Physical Perception and Reasoning in Large Language Models**|Shi Qiu et.al.|[2504.16074](http://arxiv.org/abs/2504.16074)|null|
+|**2025-04-22**|**Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach**|Penghui Li et.al.|[2504.16057](http://arxiv.org/abs/2504.16057)|null|
+|**2025-04-22**|**Honey, I Shrunk the Language Model: Impact of Knowledge Distillation Methods on Performance and Explainability**|Daniel Hendriks et.al.|[2504.16056](http://arxiv.org/abs/2504.16056)|null|
+|**2025-04-22**|**Certified Mitigation of Worst-Case LLM Copyright Infringement**|Jingyu Zhang et.al.|[2504.16046](http://arxiv.org/abs/2504.16046)|null|
+|**2025-04-22**|**LLMs meet Federated Learning for Scalable and Secure IoT Management**|Yazan Otoum et.al.|[2504.16032](http://arxiv.org/abs/2504.16032)|null|
+|**2025-04-22**|**LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale**|Joya Chen et.al.|[2504.16030](http://arxiv.org/abs/2504.16030)|null|
+|**2025-04-22**|**Benchmarking LLM for Code Smells Detection: OpenAI GPT-4.0 vs DeepSeek-V3**|Ahmed R. Sadik et.al.|[2504.16027](http://arxiv.org/abs/2504.16027)|null|
 |**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|null|
 |**2025-04-21**|**VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models**|Weiye Xu et.al.|[2504.15279](http://arxiv.org/abs/2504.15279)|null|
 |**2025-04-21**|**Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning**|Jie Cheng et.al.|[2504.15275](http://arxiv.org/abs/2504.15275)|**[link](https://github.com/cjreinforce/pure)**|
