@@ -2652,6 +2652,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**NoiseController: Towards Consistent Multi-view Video Generation via Noise Decomposition and Collaboration**|Haotian Dong et.al.|[2504.18448](http://arxiv.org/abs/2504.18448)|null|
+|**2025-04-25**|**What is the Added Value of UDA in the VFM Era?**|Brunó B. Englert et.al.|[2504.18190](http://arxiv.org/abs/2504.18190)|null|
+|**2025-04-25**|**Study on Real-Time Road Surface Reconstruction Using Stereo Vision**|Deepak Ghimire et.al.|[2504.18112](http://arxiv.org/abs/2504.18112)|null|
+|**2025-04-24**|**CaRL: Learning Scalable Planning Policies with Simple Rewards**|Bernhard Jaeger et.al.|[2504.17838](http://arxiv.org/abs/2504.17838)|null|
 |**2025-04-24**|**Learning Isometric Embeddings of Road Networks using Multidimensional Scaling**|Juan Carlos Climent Pardo et.al.|[2504.17534](http://arxiv.org/abs/2504.17534)|null|
 |**2025-04-24**|**Longitudinal Control for Autonomous Racing with Combustion Engine Vehicles**|Phillip Pitschi et.al.|[2504.17418](http://arxiv.org/abs/2504.17418)|null|
 |**2025-04-24**|**S2S-Net: Addressing the Domain Gap of Heterogeneous Sensor Systems in LiDAR-Based Collective Perception**|Sven Teufel et.al.|[2504.17399](http://arxiv.org/abs/2504.17399)|null|
@@ -4346,6 +4350,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Multi-Sensor Fusion of Active and Passive Measurements for Extended Object Tracking**|Hong Zhu et.al.|[2504.18301](http://arxiv.org/abs/2504.18301)|null|
 |**2025-04-25**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|null|
 |**2025-04-23**|**Distributed Optimization with Efficient Communication, Event-Triggered Solution Enhancement, and Operation Stopping**|Apostolos I. Rikos et.al.|[2504.16477](http://arxiv.org/abs/2504.16477)|null|
 |**2025-04-19**|**Enhanced UAV Navigation Systems through Sensor Fusion with Trident Quaternions**|Sebastian Incicco et.al.|[2504.14133](http://arxiv.org/abs/2504.14133)|null|
@@ -4534,6 +4539,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**TRACE Back from the Future: A Probabilistic Reasoning Approach to Controllable Language Generation**|Gwen Yidou Weng et.al.|[2504.18535](http://arxiv.org/abs/2504.18535)|null|
+|**2025-04-25**|**Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation**|Shivam Duggal et.al.|[2504.18509](http://arxiv.org/abs/2504.18509)|null|
+|**2025-04-25**|**Investigating Co-Constructive Behavior of Large Language Models in Explanation Dialogues**|Leandra Fichtel et.al.|[2504.18483](http://arxiv.org/abs/2504.18483)|null|
+|**2025-04-25**|**Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation**|Peiyuan Jing et.al.|[2504.18453](http://arxiv.org/abs/2504.18453)|null|
+|**2025-04-25**|**LLMpatronous: Harnessing the Power of LLMs For Vulnerability Detection**|Rajesh Yarra et.al.|[2504.18423](http://arxiv.org/abs/2504.18423)|null|
+|**2025-04-25**|**BitNet v2: Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs**|Hongyu Wang et.al.|[2504.18415](http://arxiv.org/abs/2504.18415)|null|
+|**2025-04-25**|**An Empirical Study of Evaluating Long-form Question Answering**|Ning Xian et.al.|[2504.18413](http://arxiv.org/abs/2504.18413)|null|
+|**2025-04-25**|**Expressing stigma and inappropriate responses prevents LLMs from safely replacing mental health providers**|Jared Moore et.al.|[2504.18412](http://arxiv.org/abs/2504.18412)|**[link](https://github.com/jlcmoore/llms-as-therapists)**|
+|**2025-04-25**|**HRScene: How Far Are VLMs from Effective High-Resolution Image Understanding?**|Yusen Zhang et.al.|[2504.18406](http://arxiv.org/abs/2504.18406)|null|
+|**2025-04-25**|**Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization**|Kesen Zhao et.al.|[2504.18397](http://arxiv.org/abs/2504.18397)|null|
 |**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
 |**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780](http://arxiv.org/abs/2504.17780)|null|
 |**2025-04-24**|**Conversational Assistants to support Heart Failure Patients: comparing a Neurosymbolic Architecture with ChatGPT**|Anuja Tayal et.al.|[2504.17753](http://arxiv.org/abs/2504.17753)|null|
