@@ -2676,6 +2676,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**A Survey of Interactive Generative Video**|Jiwen Yu et.al.|[2504.21853](http://arxiv.org/abs/2504.21853)|null|
+|**2025-04-30**|**REHEARSE-3D: A Multi-modal Emulated Rain Dataset for 3D Point Cloud De-raining**|Abu Mohammed Raisuddin et.al.|[2504.21699](http://arxiv.org/abs/2504.21699)|null|
+|**2025-04-29**|**Composite Safety Potential Field for Highway Driving Risk Assessment**|Dachuan Zuo et.al.|[2504.21158](http://arxiv.org/abs/2504.21158)|null|
+|**2025-04-29**|**Automated Parking Trajectory Generation Using Deep Reinforcement Learning**|Zheyu Zhang et.al.|[2504.21071](http://arxiv.org/abs/2504.21071)|null|
 |**2025-04-29**|**Neural Stereo Video Compression with Hybrid Disparity Compensation**|Shiyin Jiang et.al.|[2504.20383](http://arxiv.org/abs/2504.20383)|null|
 |**2025-04-28**|**AI Recommendation Systems for Lane-Changing Using Adherence-Aware Reinforcement Learning**|Weihao Sun et.al.|[2504.20187](http://arxiv.org/abs/2504.20187)|null|
 |**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041](http://arxiv.org/abs/2504.20041)|null|
@@ -4388,6 +4392,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826](http://arxiv.org/abs/2504.21826)|null|
 |**2025-04-29**|**Multi-Sensor Fusion for Quadruped Robot State Estimation using Invariant Filtering and Smoothing**|Ylenia Nisticò et.al.|[2504.20615](http://arxiv.org/abs/2504.20615)|null|
 |**2025-04-25**|**Multi-Sensor Fusion of Active and Passive Measurements for Extended Object Tracking**|Hong Zhu et.al.|[2504.18301](http://arxiv.org/abs/2504.18301)|null|
 |**2025-04-25**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|null|
@@ -4582,6 +4587,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**TRUST: An LLM-Based Dialogue System for Trauma Understanding and Structured Assessments**|Sichang Tu et.al.|[2504.21851](http://arxiv.org/abs/2504.21851)|null|
+|**2025-04-30**|**COMPACT: COMPositional Atomic-to-Complex Visual Capability Tuning**|Xindi Wu et.al.|[2504.21850](http://arxiv.org/abs/2504.21850)|null|
+|**2025-04-30**|**An Empirical Study on the Effectiveness of Large Language Models for Binary Code Understanding**|Xiuwei Shang et.al.|[2504.21803](http://arxiv.org/abs/2504.21803)|null|
+|**2025-04-30**|**DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition**|Z. Z. Ren et.al.|[2504.21801](http://arxiv.org/abs/2504.21801)|null|
+|**2025-04-30**|**MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness**|Junsheng Huang et.al.|[2504.21773](http://arxiv.org/abs/2504.21773)|null|
+|**2025-04-30**|**LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs**|Baleegh Ahmad et.al.|[2504.21770](http://arxiv.org/abs/2504.21770)|null|
+|**2025-04-30**|**LLM-based Interactive Imitation Learning for Robotic Manipulation**|Jonas Werner et.al.|[2504.21769](http://arxiv.org/abs/2504.21769)|null|
+|**2025-04-30**|**Investigating Literary Motifs in Ancient and Medieval Novels with Large Language Models**|Emelie Hallenberg et.al.|[2504.21742](http://arxiv.org/abs/2504.21742)|null|
+|**2025-04-30**|**TheraQuest: A Gamified, LLM-Powered Simulation for Massage Therapy Training**|Shengqian Wang et.al.|[2504.21735](http://arxiv.org/abs/2504.21735)|null|
+|**2025-04-30**|**XBreaking: Explainable Artificial Intelligence for Jailbreaking LLMs**|Marco Arazzi et.al.|[2504.21700](http://arxiv.org/abs/2504.21700)|null|
 |**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
 |**2025-04-29**|**X-Fusion: Introducing New Modality to Frozen Large Language Models**|Sicheng Mo et.al.|[2504.20996](http://arxiv.org/abs/2504.20996)|null|
 |**2025-04-29**|**ACE: A Security Architecture for LLM-Integrated App Systems**|Evan Li et.al.|[2504.20984](http://arxiv.org/abs/2504.20984)|null|
