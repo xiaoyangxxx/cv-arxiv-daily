@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2657,7 +2657,7 @@ layout: default
 |**2025-05-30**|**SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation**|Yuqi Fan et.al.|[2505.24390](http://arxiv.org/abs/2505.24390)|null|
 |**2025-05-30**|**Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation**|Roger Ferrod et.al.|[2505.24361](http://arxiv.org/abs/2505.24361)|null|
 |**2025-05-30**|**ROAD: Responsibility-Oriented Reward Design for Reinforcement Learning in Autonomous Driving**|Yongming Chen et.al.|[2505.24317](http://arxiv.org/abs/2505.24317)|null|
-|**2025-05-30**|**S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Modelwith Spatio-Temporal Visual Representation**|Yichen Xie et.al.|[2505.24139](http://arxiv.org/abs/2505.24139)|null|
+|**2025-06-03**|**S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Modelwith Spatio-Temporal Visual Representation**|Yichen Xie et.al.|[2505.24139](http://arxiv.org/abs/2505.24139)|null|
 |**2025-05-29**|**Towards Understanding The Calibration Benefits of Sharpness-Aware Minimization**|Chengli Tan et.al.|[2505.23866](http://arxiv.org/abs/2505.23866)|null|
 |**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[2505.23757](http://arxiv.org/abs/2505.23757)|**[link](https://github.com/ahydchh/impromptu-vla)**|
 |**2025-05-29**|**Autoregressive Meta-Actions for Unified Controllable Trajectory Generation**|Jianbo Zhao et.al.|[2505.23612](http://arxiv.org/abs/2505.23612)|null|
