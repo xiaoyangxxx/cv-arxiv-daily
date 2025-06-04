@@ -2652,6 +2652,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134](http://arxiv.org/abs/2506.03134)|null|
+|**2025-06-03**|**Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic**|Stefan Orf et.al.|[2506.02932](http://arxiv.org/abs/2506.02932)|null|
+|**2025-06-03**|**Functionality Assessment Framework for Autonomous Driving Systems using Subjective Networks**|Stefan Orf et.al.|[2506.02922](http://arxiv.org/abs/2506.02922)|null|
+|**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[2506.02914](http://arxiv.org/abs/2506.02914)|null|
+|**2025-06-03**|**GaRA-SAM: Robustifying Segment Anything Model with Gated-Rank Adaptation**|Sohyun Lee et.al.|[2506.02882](http://arxiv.org/abs/2506.02882)|null|
+|**2025-06-03**|**BEVCALIB: LiDAR-Camera Calibration via Geometry-Guided Bird's-Eye View Representations**|Weiduo Yuan et.al.|[2506.02587](http://arxiv.org/abs/2506.02587)|null|
+|**2025-06-03**|**V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving**|Xuewen Luo et.al.|[2506.02580](http://arxiv.org/abs/2506.02580)|null|
+|**2025-06-03**|**HiLO: High-Level Object Fusion for Autonomous Driving using Transformers**|Timo Osterburg et.al.|[2506.02554](http://arxiv.org/abs/2506.02554)|null|
+|**2025-06-03**|**RoadFormer : Local-Global Feature Fusion for Road Surface Classification in Autonomous Driving**|Tianze Wang et.al.|[2506.02358](http://arxiv.org/abs/2506.02358)|null|
+|**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[2506.02265](http://arxiv.org/abs/2506.02265)|null|
 |**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|null|
 |**2025-06-02**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634](http://arxiv.org/abs/2505.24634)|null|
 |**2025-05-30**|**SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation**|Yuqi Fan et.al.|[2505.24390](http://arxiv.org/abs/2505.24390)|null|
@@ -4533,6 +4543,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-02**|**EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models**|Yan Shu et.al.|[2506.01667](http://arxiv.org/abs/2506.01667)|null|
+|**2025-05-31**|**Sensor Fusion Methods for Gaussian Mixture Models**|Ishan Paranjape et.al.|[2506.00383](http://arxiv.org/abs/2506.00383)|null|
+|**2025-05-27**|**GaussianFusion: Gaussian-Based Multi-Sensor Fusion for End-to-End Autonomous Driving**|Shuai Liu et.al.|[2506.00034](http://arxiv.org/abs/2506.00034)|null|
 |**2025-05-26**|**Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review**|Matthew Lisondra et.al.|[2505.20503](http://arxiv.org/abs/2505.20503)|null|
 |**2025-05-26**|**Target Tracking via LiDAR-RADAR Sensor Fusion for Autonomous Racing**|Marcello Cellina et.al.|[2505.20043](http://arxiv.org/abs/2505.20043)|null|
 |**2025-05-23**|**Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras**|Masataka Kobayashi et.al.|[2505.17582](http://arxiv.org/abs/2505.17582)|null|
@@ -4739,6 +4752,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Entity-Augmented Neuroscience Knowledge Retrieval Using Ontology and Semantic Understanding Capability of LLM**|Pralaypati Ta et.al.|[2506.03145](http://arxiv.org/abs/2506.03145)|null|
+|**2025-06-03**|**Not All Tokens Are Meant to Be Forgotten**|Xiangyu Zhou et.al.|[2506.03142](http://arxiv.org/abs/2506.03142)|null|
+|**2025-06-03**|**SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation**|Siqi Chen et.al.|[2506.03139](http://arxiv.org/abs/2506.03139)|null|
+|**2025-06-03**|**Native-Resolution Image Synthesis**|Zidong Wang et.al.|[2506.03131](http://arxiv.org/abs/2506.03131)|null|
+|**2025-06-03**|**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**|Lu Qiu et.al.|[2506.03126](http://arxiv.org/abs/2506.03126)|null|
+|**2025-06-03**|**AUTOCIRCUIT-RL: Reinforcement Learning-Driven LLM for Automated Circuit Topology Generation**|Prashanth Vijayaraghavan et.al.|[2506.03122](http://arxiv.org/abs/2506.03122)|null|
+|**2025-06-03**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106](http://arxiv.org/abs/2506.03106)|null|
+|**2025-06-03**|**TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models**|Chetwin Low et.al.|[2506.03099](http://arxiv.org/abs/2506.03099)|null|
+|**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067](http://arxiv.org/abs/2506.03067)|null|
+|**2025-06-03**|**Facts Do Care About Your Language: Assessing Answer Quality of Multilingual LLMs**|Yuval Kansal et.al.|[2506.03051](http://arxiv.org/abs/2506.03051)|null|
 |**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871](http://arxiv.org/abs/2505.24871)|null|
 |**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
 |**2025-05-30**|**ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models**|Mingjie Liu et.al.|[2505.24864](http://arxiv.org/abs/2505.24864)|null|
