@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2653,7 +2653,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[2506.05336](http://arxiv.org/abs/2506.05336)|null|
-|**2025-06-05**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280](http://arxiv.org/abs/2506.05280)|null|
+|**2025-06-06**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280](http://arxiv.org/abs/2506.05280)|null|
 |**2025-06-05**|**Track Any Anomalous Object: A Granular Video Anomaly Detection Pipeline**|Yuzhi Huang et.al.|[2506.05175](http://arxiv.org/abs/2506.05175)|null|
 |**2025-06-05**|**Real-Time LPV-Based Non-Linear Model Predictive Control for Robust Trajectory Tracking in Autonomous Vehicles**|Nitish Kumar et.al.|[2506.04684](http://arxiv.org/abs/2506.04684)|null|
 |**2025-06-05**|**Perfecting Depth: Uncertainty-Aware Enhancement of Metric Depth**|Jinyoung Jun et.al.|[2506.04612](http://arxiv.org/abs/2506.04612)|null|
