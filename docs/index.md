@@ -2652,6 +2652,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757](http://arxiv.org/abs/2506.13757)|null|
+|**2025-06-16**|**X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**|Yu Yang et.al.|[2506.13558](http://arxiv.org/abs/2506.13558)|null|
+|**2025-06-16**|**RelTopo: Enhancing Relational Modeling for Driving Scene Topology Reasoning**|Yueru Luo et.al.|[2506.13553](http://arxiv.org/abs/2506.13553)|null|
+|**2025-06-16**|**COME: Adding Scene-Centric Forecasting Control to Occupancy World Model**|Yining Shi et.al.|[2506.13260](http://arxiv.org/abs/2506.13260)|null|
+|**2025-06-16**|**STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation**|Jiamin Wang et.al.|[2506.13138](http://arxiv.org/abs/2506.13138)|null|
+|**2025-06-15**|**Bridging Data-Driven and Physics-Based Models: A Consensus Multi-Model Kalman Filter for Robust Vehicle State Estimation**|Farid Mafi et.al.|[2506.12862](http://arxiv.org/abs/2506.12862)|null|
+|**2025-06-15**|**Revealing the Challenges of Sim-to-Real Transfer in Model-Based Reinforcement Learning via Latent Space Modeling**|Zhilin Lin et.al.|[2506.12735](http://arxiv.org/abs/2506.12735)|null|
 |**2025-06-13**|**Your Ride, Your Rules: Psychology and Cognition Enabled Automated Driving Systems**|Zhipeng Bao et.al.|[2506.11842](http://arxiv.org/abs/2506.11842)|null|
 |**2025-06-13**|**Vision-based Lifting of 2D Object Detections for Automated Driving**|Hendrik Königshof et.al.|[2506.11839](http://arxiv.org/abs/2506.11839)|null|
 |**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804](http://arxiv.org/abs/2506.11804)|null|
@@ -4594,6 +4601,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method**|Zhanhua Xin et.al.|[2506.13100](http://arxiv.org/abs/2506.13100)|null|
+|**2025-06-14**|**Deep Fusion of Ultra-Low-Resolution Thermal Camera and Gyroscope Data for Lighting-Robust and Compute-Efficient Rotational Odometry**|Farida Mohsen et.al.|[2506.12536](http://arxiv.org/abs/2506.12536)|null|
 |**2025-06-12**|**In-Hand Object Pose Estimation via Visual-Tactile Fusion**|Felix Nonnengießer et.al.|[2506.10787](http://arxiv.org/abs/2506.10787)|null|
 |**2025-06-10**|**GPS Spoofing Attacks on AI-based Navigation Systems with Obstacle Avoidance in UAV**|Ji Hyuk Jung et.al.|[2506.08445](http://arxiv.org/abs/2506.08445)|null|
 |**2025-06-02**|**Sensor Fusion for Track Geometry Monitoring: Integrating On-Board Data and Degradation Models via Kalman Filtering**|Huy Truong-Ba et.al.|[2506.08028](http://arxiv.org/abs/2506.08028)|null|
@@ -4808,6 +4817,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Steering LLM Thinking with Budget Guidance**|Junyan Li et.al.|[2506.13752](http://arxiv.org/abs/2506.13752)|null|
+|**2025-06-16**|**Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability**|Shova Kuikel et.al.|[2506.13746](http://arxiv.org/abs/2506.13746)|null|
+|**2025-06-16**|**Instruction Following by Boosting Attention of Large Language Models**|Vitoria Guardieiro et.al.|[2506.13734](http://arxiv.org/abs/2506.13734)|null|
+|**2025-06-16**|**Attribution-guided Pruning for Compression, Circuit Discovery, and Targeted Correction in LLMs**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2506.13727](http://arxiv.org/abs/2506.13727)|null|
+|**2025-06-16**|**Weakest Link in the Chain: Security Vulnerabilities in Advanced Reasoning Models**|Arjun Krishna et.al.|[2506.13726](http://arxiv.org/abs/2506.13726)|null|
+|**2025-06-16**|**TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning**|Junru Zhang et.al.|[2506.13705](http://arxiv.org/abs/2506.13705)|null|
+|**2025-06-16**|**Balancing Knowledge Delivery and Emotional Comfort in Healthcare Conversational Systems**|Shang-Chi Tsai et.al.|[2506.13692](http://arxiv.org/abs/2506.13692)|null|
+|**2025-06-16**|**What Happens During the Loss Plateau? Understanding Abrupt Learning in Transformers**|Pulkit Gopalani et.al.|[2506.13688](http://arxiv.org/abs/2506.13688)|null|
+|**2025-06-16**|**An LLM's Apology: Outsourcing Awkwardness in the Age of AI**|Twm Stone et.al.|[2506.13685](http://arxiv.org/abs/2506.13685)|null|
+|**2025-06-16**|**Prefix-Tuning+: Modernizing Prefix-Tuning through Attention Independent Prefix Data**|Haonan Wang et.al.|[2506.13674](http://arxiv.org/abs/2506.13674)|null|
 |**2025-06-13**|**code_transformed: The Influence of Large Language Models on Code**|Yuliang Xu et.al.|[2506.12014](http://arxiv.org/abs/2506.12014)|null|
 |**2025-06-13**|**Tracing LLM Reasoning Processes with Strategic Games: A Framework for Planning, Revision, and Resource-Constrained Decision Making**|Xiaopeng Yuan et.al.|[2506.12012](http://arxiv.org/abs/2506.12012)|null|
 |**2025-06-16**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991](http://arxiv.org/abs/2506.11991)|null|
