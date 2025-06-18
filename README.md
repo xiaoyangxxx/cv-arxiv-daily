@@ -2676,7 +2676,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757](http://arxiv.org/abs/2506.13757)|null|
+|**2025-06-17**|**NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving**|Ren Xin et.al.|[2506.14589](http://arxiv.org/abs/2506.14589)|null|
+|**2025-06-17**|**Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow**|Xiao Wang et.al.|[2506.14502](http://arxiv.org/abs/2506.14502)|null|
+|**2025-06-17**|**ADRD: LLM-Driven Autonomous Driving Based on Rule-based Decision Systems**|Fanzhi Zeng et.al.|[2506.14299](http://arxiv.org/abs/2506.14299)|null|
+|**2025-06-17**|**Leader360V: The Large-scale, Real-world 360 Video Dataset for Multi-task Learning in Diverse Environment**|Weiming Zhang et.al.|[2506.14271](http://arxiv.org/abs/2506.14271)|null|
+|**2025-06-17**|**Cross-Modal Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition**|Xiaohui Jiang et.al.|[2506.14243](http://arxiv.org/abs/2506.14243)|null|
+|**2025-06-17**|**KDMOS:Knowledge Distillation for Motion Segmentation**|Chunyu Cao et.al.|[2506.14130](http://arxiv.org/abs/2506.14130)|null|
+|**2025-06-17**|**A Hierarchical Test Platform for Vision Language Model (VLM)-Integrated Real-World Autonomous Driving**|Yupeng Zhou et.al.|[2506.14100](http://arxiv.org/abs/2506.14100)|null|
+|**2025-06-17**|**Image Segmentation with Large Language Models: A Survey with Perspectives for Intelligent Transportation Systems**|Sanjeda Akter et.al.|[2506.14096](http://arxiv.org/abs/2506.14096)|null|
+|**2025-06-16**|**FindMeIfYouCan: Bringing Open Set metrics to $\textit{near} $, $ \textit{far} $ and $\textit{farther}$ Out-of-Distribution Object Detection**|Daniel Montoya et.al.|[2506.14008](http://arxiv.org/abs/2506.14008)|null|
+|**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757](http://arxiv.org/abs/2506.13757)|**[link](https://github.com/ucla-mobility/AutoVLA)**|
 |**2025-06-16**|**X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**|Yu Yang et.al.|[2506.13558](http://arxiv.org/abs/2506.13558)|null|
 |**2025-06-16**|**RelTopo: Enhancing Relational Modeling for Driving Scene Topology Reasoning**|Yueru Luo et.al.|[2506.13553](http://arxiv.org/abs/2506.13553)|null|
 |**2025-06-16**|**COME: Adding Scene-Centric Forecasting Control to Occupancy World Model**|Yining Shi et.al.|[2506.13260](http://arxiv.org/abs/2506.13260)|null|
@@ -4847,6 +4856,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**A Variational Framework for Improving Naturalness in Generative Spoken Language Models**|Li-Wei Chen et.al.|[2506.14767](http://arxiv.org/abs/2506.14767)|null|
+|**2025-06-17**|**ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM**|Yujun Wang et.al.|[2506.14766](http://arxiv.org/abs/2506.14766)|null|
+|**2025-06-17**|**Large Language Models -- the Future of Fundamental Physics?**|Caroline Heneka et.al.|[2506.14757](http://arxiv.org/abs/2506.14757)|null|
+|**2025-06-17**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ring Team et.al.|[2506.14731](http://arxiv.org/abs/2506.14731)|null|
+|**2025-06-17**|**AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**|Jiahao Qiu et.al.|[2506.14728](http://arxiv.org/abs/2506.14728)|null|
+|**2025-06-17**|**Capacity Matters: a Proof-of-Concept for Transformer Memorization on Real-World Data**|Anton Changalidis et.al.|[2506.14704](http://arxiv.org/abs/2506.14704)|null|
+|**2025-06-17**|**Unified Software Engineering agent as AI Software Engineer**|Leonhard Applis et.al.|[2506.14683](http://arxiv.org/abs/2506.14683)|null|
+|**2025-06-17**|**AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models**|Ads Dawson et.al.|[2506.14682](http://arxiv.org/abs/2506.14682)|null|
+|**2025-06-17**|**Massive Supervised Fine-tuning Experiments Reveal How Data, Layer, and Training Factors Shape LLM Alignment Quality**|Yuto Harada et.al.|[2506.14681](http://arxiv.org/abs/2506.14681)|null|
+|**2025-06-17**|**GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors**|Hengyuan Zhang et.al.|[2506.14646](http://arxiv.org/abs/2506.14646)|null|
 |**2025-06-16**|**Steering LLM Thinking with Budget Guidance**|Junyan Li et.al.|[2506.13752](http://arxiv.org/abs/2506.13752)|null|
 |**2025-06-16**|**Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability**|Shova Kuikel et.al.|[2506.13746](http://arxiv.org/abs/2506.13746)|null|
 |**2025-06-16**|**Instruction Following by Boosting Attention of Large Language Models**|Vitoria Guardieiro et.al.|[2506.13734](http://arxiv.org/abs/2506.13734)|null|
