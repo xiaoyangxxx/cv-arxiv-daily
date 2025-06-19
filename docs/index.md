@@ -2652,12 +2652,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-17**|**NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving**|Ren Xin et.al.|[2506.14589](http://arxiv.org/abs/2506.14589)|null|
+|**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610](http://arxiv.org/abs/2506.15610)|null|
+|**2025-06-18**|**MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**|Leonid Ivanov et.al.|[2506.15313](http://arxiv.org/abs/2506.15313)|null|
+|**2025-06-18**|**An Integrated Sensing and Communication System for Time-Sensitive Targets with Random Arrivals**|Homa Nikbakht et.al.|[2506.15045](http://arxiv.org/abs/2506.15045)|null|
+|**2025-06-17**|**NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving**|Ren Xin et.al.|[2506.14589](http://arxiv.org/abs/2506.14589)|**[link](https://github.com/rex-sys-hk/netroller)**|
 |**2025-06-17**|**Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow**|Xiao Wang et.al.|[2506.14502](http://arxiv.org/abs/2506.14502)|null|
 |**2025-06-17**|**ADRD: LLM-Driven Autonomous Driving Based on Rule-based Decision Systems**|Fanzhi Zeng et.al.|[2506.14299](http://arxiv.org/abs/2506.14299)|null|
 |**2025-06-17**|**Leader360V: The Large-scale, Real-world 360 Video Dataset for Multi-task Learning in Diverse Environment**|Weiming Zhang et.al.|[2506.14271](http://arxiv.org/abs/2506.14271)|null|
 |**2025-06-17**|**Cross-Modal Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition**|Xiaohui Jiang et.al.|[2506.14243](http://arxiv.org/abs/2506.14243)|null|
-|**2025-06-17**|**KDMOS:Knowledge Distillation for Motion Segmentation**|Chunyu Cao et.al.|[2506.14130](http://arxiv.org/abs/2506.14130)|null|
+|**2025-06-17**|**KDMOS:Knowledge Distillation for Motion Segmentation**|Chunyu Cao et.al.|[2506.14130](http://arxiv.org/abs/2506.14130)|**[link](https://github.com/scnu-rislab/kdmos)**|
 |**2025-06-17**|**A Hierarchical Test Platform for Vision Language Model (VLM)-Integrated Real-World Autonomous Driving**|Yupeng Zhou et.al.|[2506.14100](http://arxiv.org/abs/2506.14100)|null|
 |**2025-06-17**|**Image Segmentation with Large Language Models: A Survey with Perspectives for Intelligent Transportation Systems**|Sanjeda Akter et.al.|[2506.14096](http://arxiv.org/abs/2506.14096)|null|
 |**2025-06-16**|**FindMeIfYouCan: Bringing Open Set metrics to $\textit{near} $, $ \textit{far} $ and $\textit{farther}$ Out-of-Distribution Object Detection**|Daniel Montoya et.al.|[2506.14008](http://arxiv.org/abs/2506.14008)|null|
@@ -4826,6 +4829,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**PhantomHunter: Detecting Unseen Privately-Tuned LLM-Generated Text via Family-Aware Learning**|Yuhui Shi et.al.|[2506.15683](http://arxiv.org/abs/2506.15683)|null|
+|**2025-06-18**|**GenRecal: Generation after Recalibration from Large to Small Vision-Language Models**|Byung-Kwan Lee et.al.|[2506.15681](http://arxiv.org/abs/2506.15681)|null|
+|**2025-06-18**|**SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence**|Yao Zhang et.al.|[2506.15672](http://arxiv.org/abs/2506.15672)|null|
+|**2025-06-18**|**CC-LEARN: Cohort-based Consistency Learning**|Xiao Ye et.al.|[2506.15662](http://arxiv.org/abs/2506.15662)|null|
+|**2025-06-18**|**PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection**|Wenhao Li et.al.|[2506.15656](http://arxiv.org/abs/2506.15656)|null|
+|**2025-06-18**|**deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses**|Georgios Androutsopoulos et.al.|[2506.15648](http://arxiv.org/abs/2506.15648)|null|
+|**2025-06-18**|**Demystifying the Visual Quality Paradox in Multimodal Large Language Models**|Shuo Xing et.al.|[2506.15645](http://arxiv.org/abs/2506.15645)|null|
+|**2025-06-18**|**Revisiting Compositional Generalization Capability of Large Language Models Considering Instruction Following Ability**|Yusuke Sakai et.al.|[2506.15629](http://arxiv.org/abs/2506.15629)|null|
+|**2025-06-18**|**The Effect of State Representation on LLM Agent Behavior in Dynamic Routing Games**|Lyle Goodyear et.al.|[2506.15624](http://arxiv.org/abs/2506.15624)|null|
+|**2025-06-18**|**The Compositional Architecture of Regret in Large Language Models**|Xiangxiang Cui et.al.|[2506.15617](http://arxiv.org/abs/2506.15617)|null|
 |**2025-06-17**|**A Variational Framework for Improving Naturalness in Generative Spoken Language Models**|Li-Wei Chen et.al.|[2506.14767](http://arxiv.org/abs/2506.14767)|**[link](https://github.com/b04901014/vae-gslm)**|
 |**2025-06-17**|**ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM**|Yujun Wang et.al.|[2506.14766](http://arxiv.org/abs/2506.14766)|null|
 |**2025-06-17**|**Large Language Models -- the Future of Fundamental Physics?**|Caroline Heneka et.al.|[2506.14757](http://arxiv.org/abs/2506.14757)|null|
