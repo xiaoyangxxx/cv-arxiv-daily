@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2655,7 +2655,7 @@ layout: default
 |**2025-06-24**|**Unified Vision-Language-Action Model**|Yuqi Wang et.al.|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
 |**2025-06-24**|**PEVLM: Parallel Encoding for Vision-Language Models**|Letian Kang et.al.|[2506.19651](http://arxiv.org/abs/2506.19651)|null|
-|**2025-06-24**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615](http://arxiv.org/abs/2506.19615)|null|
+|**2025-06-25**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615](http://arxiv.org/abs/2506.19615)|null|
 |**2025-06-24**|**AirV2X: Unified Air-Ground Vehicle-to-Everything Collaboration**|Xiangbo Gao et.al.|[2506.19283](http://arxiv.org/abs/2506.19283)|null|
 |**2025-06-23**|**OC-SOP: Enhancing Vision-Based 3D Semantic Occupancy Prediction by Object-Centric Awareness**|Helin Cao et.al.|[2506.18798](http://arxiv.org/abs/2506.18798)|null|
 |**2025-06-23**|**SWA-SOP: Spatially-aware Window Attention for Semantic Occupancy Prediction in Autonomous Driving**|Helin Cao et.al.|[2506.18785](http://arxiv.org/abs/2506.18785)|null|
