@@ -2652,6 +2652,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**SAM4D: Segment Anything in Camera and LiDAR Streams**|Jianyun Xu et.al.|[2506.21547](http://arxiv.org/abs/2506.21547)|null|
+|**2025-06-26**|**MADrive: Memory-Augmented Driving Scene Modeling**|Polina Karpikova et.al.|[2506.21520](http://arxiv.org/abs/2506.21520)|null|
+|**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[2506.21260](http://arxiv.org/abs/2506.21260)|null|
+|**2025-06-26**|**Out-of-Distribution Semantic Occupancy Prediction**|Yuheng Zhang et.al.|[2506.21185](http://arxiv.org/abs/2506.21185)|null|
+|**2025-06-26**|**GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction**|Muleilan Pei et.al.|[2506.21121](http://arxiv.org/abs/2506.21121)|null|
+|**2025-06-26**|**V2X-REALM: Vision-Language Model-Based Robust End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling**|Junwei You et.al.|[2506.21041](http://arxiv.org/abs/2506.21041)|null|
+|**2025-06-25**|**Brain2Model Transfer: Training sensory and decision models with human neural activity as a teacher**|Tomas Gallo Aquino et.al.|[2506.20834](http://arxiv.org/abs/2506.20834)|null|
 |**2025-06-25**|**Differential Transformer-driven 6G Physical Layer for Collaborative Perception Enhancement**|Soheyb Ribouh et.al.|[2506.20597](http://arxiv.org/abs/2506.20597)|null|
 |**2025-06-25**|**Leveraging Correlation Across Test Platforms for Variance-Reduced Metric Estimation**|Rachel Luo et.al.|[2506.20553](http://arxiv.org/abs/2506.20553)|null|
 |**2025-06-25**|**Lightweight Multi-Frame Integration for Robust YOLO Object Detection in Videos**|Yitong Quan et.al.|[2506.20550](http://arxiv.org/abs/2506.20550)|null|
@@ -4864,6 +4871,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551](http://arxiv.org/abs/2506.21551)|null|
+|**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550](http://arxiv.org/abs/2506.21550)|null|
+|**2025-06-26**|**PsyLite Technical Report**|Fangjun Ding et.al.|[2506.21536](http://arxiv.org/abs/2506.21536)|null|
+|**2025-06-26**|**Exploring the Design Space of 3D MLLMs for CT Report Generation**|Mohammed Baharoon et.al.|[2506.21535](http://arxiv.org/abs/2506.21535)|null|
+|**2025-06-26**|**"What's Up, Doc?": Analyzing How Users Seek Health Information in Large-Scale Conversational AI Datasets**|Akshay Paruchuri et.al.|[2506.21532](http://arxiv.org/abs/2506.21532)|null|
+|**2025-06-26**|**Potemkin Understanding in Large Language Models**|Marina Mancoridis et.al.|[2506.21521](http://arxiv.org/abs/2506.21521)|null|
+|**2025-06-26**|**Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge**|Boyu Gou et.al.|[2506.21506](http://arxiv.org/abs/2506.21506)|null|
+|**2025-06-26**|**Bridging Offline and Online Reinforcement Learning for LLMs**|Jack Lanchantin et.al.|[2506.21495](http://arxiv.org/abs/2506.21495)|null|
+|**2025-06-26**|**Efficient and Reuseable Cloud Configuration Search Using Discovery Spaces**|Michael Johnston et.al.|[2506.21467](http://arxiv.org/abs/2506.21467)|null|
+|**2025-06-26**|**ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing**|Huadai Liu et.al.|[2506.21448](http://arxiv.org/abs/2506.21448)|null|
 |**2025-06-25**|**The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind**|Andrei Lupu et.al.|[2506.20664](http://arxiv.org/abs/2506.20664)|null|
 |**2025-06-25**|**Memento: Note-Taking for Your Future Self**|Chao Wan et.al.|[2506.20642](http://arxiv.org/abs/2506.20642)|null|
 |**2025-06-25**|**Towards Community-Driven Agents for Machine Learning Engineering**|Sijie Li et.al.|[2506.20640](http://arxiv.org/abs/2506.20640)|null|
