@@ -2676,6 +2676,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
+|**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044](http://arxiv.org/abs/2506.24044)|null|
+|**2025-06-30**|**Predictive Risk Analysis and Safe Trajectory Planning for Intelligent and Connected Vehicles**|Zeyu Han et.al.|[2506.23999](http://arxiv.org/abs/2506.23999)|null|
+|**2025-06-30**|**STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems**|Mingfei Cheng et.al.|[2506.23995](http://arxiv.org/abs/2506.23995)|null|
+|**2025-06-30**|**StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving**|Ruiyang Hao et.al.|[2506.23982](http://arxiv.org/abs/2506.23982)|null|
+|**2025-06-30**|**ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning**|Mingfei Cheng et.al.|[2506.23960](http://arxiv.org/abs/2506.23960)|null|
+|**2025-06-30**|**Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving**|Guizhe Jin et.al.|[2506.23771](http://arxiv.org/abs/2506.23771)|null|
+|**2025-06-30**|**OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection in Autonomous Driving**|Mingqian Ji et.al.|[2506.23565](http://arxiv.org/abs/2506.23565)|null|
+|**2025-06-30**|**Lightweight Temporal Transformer Decomposition for Federated Autonomous Driving**|Tuong Do et.al.|[2506.23523](http://arxiv.org/abs/2506.23523)|null|
+|**2025-06-30**|**Reducing Motion Sickness in Passengers of Autonomous Personal Mobility Vehicles by Presenting a Driving Path**|Yuya Ide et.al.|[2506.23457](http://arxiv.org/abs/2506.23457)|null|
 |**2025-06-27**|**Pedestrian Intention and Trajectory Prediction in Unstructured Traffic Using IDD-PeD**|Ruthvik Bokkasam et.al.|[2506.22111](http://arxiv.org/abs/2506.22111)|null|
 |**2025-06-27**|**BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting**|Zipei Ma et.al.|[2506.22099](http://arxiv.org/abs/2506.22099)|null|
 |**2025-06-27**|**Query as Test: An Intelligent Driving Test and Data Storage Method for Integrated Cockpit-Vehicle-Road Scenarios**|Shengyue Yao et.al.|[2506.22068](http://arxiv.org/abs/2506.22068)|null|
@@ -4682,6 +4692,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**AGI Enabled Solutions For IoX Layers Bottlenecks In Cyber-Physical-Social-Thinking Space**|Amar Khelloufi et.al.|[2506.22487](http://arxiv.org/abs/2506.22487)|null|
 |**2025-06-27**|**Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles**|Chuheng Wei et.al.|[2506.21885](http://arxiv.org/abs/2506.21885)|null|
 |**2025-06-25**|**Real-Time Obstacle Avoidance Algorithms for Unmanned Aerial and Ground Vehicles**|Jingwen Wei et.al.|[2506.20311](http://arxiv.org/abs/2506.20311)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
@@ -4907,6 +4918,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Dong Sixun et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
+|**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
+|**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|
+|**2025-06-30**|**DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World**|Xiangtai Li et.al.|[2506.24102](http://arxiv.org/abs/2506.24102)|null|
+|**2025-06-30**|**Logit-Gap Steering: Efficient Short-Suffix Jailbreaks for Aligned Large Language Models**|Tung-Ling Li et.al.|[2506.24056](http://arxiv.org/abs/2506.24056)|null|
+|**2025-06-30**|**Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC**|Xinming Wei et.al.|[2506.24045](http://arxiv.org/abs/2506.24045)|null|
+|**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044](http://arxiv.org/abs/2506.24044)|null|
+|**2025-06-30**|**EXPERT: An Explainable Image Captioning Evaluation Metric with Structured Explanations**|Hyunjong Kim et.al.|[2506.24016](http://arxiv.org/abs/2506.24016)|null|
+|**2025-06-30**|**Large Language Models Don't Make Sense of Word Problems. A Scoping Review from a Mathematics Education Perspective**|Anselm R. Strohmaier et.al.|[2506.24006](http://arxiv.org/abs/2506.24006)|null|
+|**2025-06-30**|**Auto-TA: Towards Scalable Automated Thematic Analysis (TA) via Multi-Agent Large Language Models with Reinforcement Learning**|Seungjun Yi et.al.|[2506.23998](http://arxiv.org/abs/2506.23998)|null|
 |**2025-06-27**|**The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**|Bingchen Zhao et.al.|[2506.22419](http://arxiv.org/abs/2506.22419)|null|
 |**2025-06-27**|**HyperCLOVA X THINK Technical Report**|NAVER Cloud HyperCLOVA X Team et.al.|[2506.22403](http://arxiv.org/abs/2506.22403)|null|
 |**2025-06-27**|**Refining Czech GEC: Insights from a Multi-Experiment Approach**|Petr Pechman et.al.|[2506.22402](http://arxiv.org/abs/2506.22402)|null|
