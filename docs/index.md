@@ -2652,6 +2652,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**AMD: Adaptive Momentum and Decoupled Contrastive Learning Framework for Robust Long-Tail Trajectory Prediction**|Bin Rao et.al.|[2507.01801](http://arxiv.org/abs/2507.01801)|null|
+|**2025-07-02**|**ECCV 2024 W-CODA: 1st Workshop on Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving**|Kai Chen et.al.|[2507.01735](http://arxiv.org/abs/2507.01735)|null|
+|**2025-07-02**|**Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence**|Robert Aufschläger et.al.|[2507.01504](http://arxiv.org/abs/2507.01504)|null|
+|**2025-07-02**|**What Really Matters for Robust Multi-Sensor HD Map Construction?**|Xiaoshuai Hao et.al.|[2507.01484](http://arxiv.org/abs/2507.01484)|null|
+|**2025-07-02**|**3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation**|Tianrui Lou et.al.|[2507.01367](http://arxiv.org/abs/2507.01367)|null|
+|**2025-07-02**|**LANet: A Lane Boundaries-Aware Approach For Robust Trajectory Prediction**|Muhammad Atta ur Rahman et.al.|[2507.01308](http://arxiv.org/abs/2507.01308)|null|
+|**2025-07-02**|**VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process**|Cristian Gariboldi et.al.|[2507.01284](http://arxiv.org/abs/2507.01284)|null|
+|**2025-07-02**|**LLM-based Realistic Safety-Critical Driving Video Generation**|Yongjie Fu et.al.|[2507.01264](http://arxiv.org/abs/2507.01264)|null|
+|**2025-07-01**|**RTMap: Real-Time Recursive Mapping with Change Detection and Localization**|Yuheng Du et.al.|[2507.00980](http://arxiv.org/abs/2507.00980)|null|
+|**2025-07-01**|**SafeMap: Robust HD Map Construction from Incomplete Observations**|Xiaoshuai Hao et.al.|[2507.00861](http://arxiv.org/abs/2507.00861)|null|
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
 |**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044](http://arxiv.org/abs/2506.24044)|null|
 |**2025-06-30**|**Predictive Risk Analysis and Safe Trajectory Planning for Intelligent and Connected Vehicles**|Zeyu Han et.al.|[2506.23999](http://arxiv.org/abs/2506.23999)|null|
@@ -4888,6 +4898,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949](http://arxiv.org/abs/2507.01949)|null|
+|**2025-07-02**|**SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars**|Xiaosheng Zhao et.al.|[2507.01939](http://arxiv.org/abs/2507.01939)|null|
+|**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
+|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
+|**2025-07-02**|**Decision-oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
+|**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|
+|**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
+|**2025-07-02**|**AI4Research: A Survey of Artificial Intelligence for Scientific Research**|Qiguang Chen et.al.|[2507.01903](http://arxiv.org/abs/2507.01903)|null|
+|**2025-07-02**|**High-Layer Attention Pruning with Rescaling**|Songtao Liu et.al.|[2507.01900](http://arxiv.org/abs/2507.01900)|null|
+|**2025-07-02**|**MiCoTA: Bridging the Learnability Gap with Intermediate CoT and Teacher Assistants**|Dongyi Ding et.al.|[2507.01887](http://arxiv.org/abs/2507.01887)|null|
 |**2025-07-01**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
 |**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|
