@@ -2676,6 +2676,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**MCAM: Multimodal Causal Analysis Model for Ego-Vehicle-Level Driving Video Understanding**|Tongtong Cheng et.al.|[2507.06072](http://arxiv.org/abs/2507.06072)|null|
+|**2025-07-08**|**TigAug: Data Augmentation for Testing Traffic Light Detection in Autonomous Driving Systems**|You Lu et.al.|[2507.05932](http://arxiv.org/abs/2507.05932)|null|
+|**2025-07-08**|**Towards Solar Altitude Guided Scene Illumination**|Samed Doğan et.al.|[2507.05812](http://arxiv.org/abs/2507.05812)|null|
+|**2025-07-08**|**LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving**|Yuhang Zhang et.al.|[2507.05754](http://arxiv.org/abs/2507.05754)|null|
+|**2025-07-08**|**DRO-EDL-MPC: Evidential Deep Learning-Based Distributionally Robust Model Predictive Control for Safe Autonomous Driving**|Hyeongchan Ham et.al.|[2507.05710](http://arxiv.org/abs/2507.05710)|null|
+|**2025-07-08**|**3DGS_LSR:Large_Scale Relocation for Autonomous Driving Based on 3D Gaussian Splatting**|Haitao Lu et.al.|[2507.05661](http://arxiv.org/abs/2507.05661)|null|
 |**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu et.al.|[2507.05260](http://arxiv.org/abs/2507.05260)|null|
 |**2025-07-07**|**Action Space Reduction Strategies for Reinforcement Learning in Autonomous Driving**|Elahe Delavari et.al.|[2507.05251](http://arxiv.org/abs/2507.05251)|null|
 |**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
@@ -4717,6 +4723,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Event-RGB Fusion for Spacecraft Pose Estimation Under Harsh Lighting**|Mohsi Jawaid et.al.|[2507.05698](http://arxiv.org/abs/2507.05698)|null|
 |**2025-07-02**|**GPS-DRIFT: Marine Surface Robot Localization using IMU-GPS Fusion and Invariant Filtering**|Surya Pratap Singh et.al.|[2507.02198](http://arxiv.org/abs/2507.02198)|null|
 |**2025-06-24**|**AGI Enabled Solutions For IoX Layers Bottlenecks In Cyber-Physical-Social-Thinking Space**|Amar Khelloufi et.al.|[2506.22487](http://arxiv.org/abs/2506.22487)|null|
 |**2025-06-27**|**Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles**|Chuheng Wei et.al.|[2506.21885](http://arxiv.org/abs/2506.21885)|null|
@@ -4944,6 +4951,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers**|Zhiyuan Peng et.al.|[2507.06223](http://arxiv.org/abs/2507.06223)|null|
+|**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
+|**2025-07-08**|**UQLM: A Python Package for Uncertainty Quantification in Large Language Models**|Dylan Bouchard et.al.|[2507.06196](http://arxiv.org/abs/2507.06196)|null|
+|**2025-07-08**|**SQLBarber: A System Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads**|Jiale Lao et.al.|[2507.06192](http://arxiv.org/abs/2507.06192)|null|
+|**2025-07-08**|**Hidden Prompts in Manuscripts Exploit AI-Assisted Peer Review**|Zhicheng Lin et.al.|[2507.06185](http://arxiv.org/abs/2507.06185)|null|
+|**2025-07-08**|**Data-Semantics-Aware Recommendation of Diverse Pivot Tables**|Whanhee Cho et.al.|[2507.06171](http://arxiv.org/abs/2507.06171)|null|
+|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-08**|**Evaluation of Habitat Robotics using Large Language Models**|William Li et.al.|[2507.06157](http://arxiv.org/abs/2507.06157)|null|
+|**2025-07-08**|**Large Language Models Predict Human Well-being -- But Not Equally Everywhere**|Pat Pataranutaporn et.al.|[2507.06141](http://arxiv.org/abs/2507.06141)|null|
+|**2025-07-08**|**Coding Triangle: How Does Large Language Model Understand Code?**|Taolin Zhang et.al.|[2507.06138](http://arxiv.org/abs/2507.06138)|null|
 |**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|
 |**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
 |**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/abs/2507.05257)|null|
